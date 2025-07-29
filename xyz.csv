@@ -23,7 +23,7 @@ initial.xyz,sold,108,84%,7,"Business,Education,Technology",26/10/2015 00:45,26/1
 collect.xyz,sold,108,96%,7,"Business,Retail",19/08/2020 23:18,19/08/2030 23:59,Dynadot LLC
 feat.xyz,resell,107,80%,4,"Entertainment,Media,Sports",04/01/2017 20:08,04/01/2027 23:59,Dynadot LLC
 composite.xyz,sold,107,80%,9,"Engineering,Science",28/12/2018 17:19,28/12/2028 23:59,Dynadot LLC
-trick.xyz,resell,106,84%,5,Entertainment,05/06/2014 07:27,05/06/2026 23:59,"Go Daddy, LLC"
+trick.xyz,sold,106,40%,5,Entertainment,05/06/2014 07:27,05/06/2026 23:59,"Go Daddy, LLC"
 fetch.xyz,resell,106,88%,5,"Business,Retail,Technology",02/06/2014 17:08,02/06/2026 23:59,"Go Daddy, LLC"
 natural.xyz,sold,106,96%,7,"Environment,Food and Beverage,Science",05/07/2021 15:52,05/07/2026 23:59,"Sav.com, LLC"
 regular.xyz,resell,106,88%,7,"Business,Education,Media",02/06/2014 16:33,02/06/2026 23:59,"Go Daddy, LLC"
@@ -59,7 +59,7 @@ eighth.xyz,resell,100,28%,6,Mathematics,23/10/2020 21:01,23/10/2026 23:59,Dynado
 politic.xyz,sold,100,80%,7,"Business,Humanities,Politics",15/09/2017 23:19,15/09/2026 23:59,Dynadot LLC
 barbeque.xyz,resell,100,72%,8,"Food and Beverage,Hospitality,Retail",11/12/2021 19:02,11/12/2025 23:59,"Sav.com, LLC"
 consent.xyz,resell,100,80%,7,"Business,Healthcare,Law",31/12/2016 23:29,31/12/2026 23:59,Dynadot LLC
-alternate.xyz,sold,100,80%,9,Technology,31/03/2018 12:02,31/03/2027 23:59,Dynadot LLC
+alternate.xyz,resell,100,80%,9,Technology,31/03/2018 12:02,31/03/2027 23:59,Dynadot LLC
 item.xyz,resell,100,88%,4,"Business,Retail,Technology",02/12/2014 14:02,02/12/2025 23:59,TLD Registrar Solutions Ltd
 different.xyz,resell,100,84%,9,"Business,Education",02/06/2014 17:03,02/06/2026 23:59,"Go Daddy, LLC"
 balance.xyz,resell,100,100%,7,"Business,Finance,Health and Fitness",27/11/2021 00:45,27/11/2025 23:59,"Sav.com, LLC"
@@ -69,10 +69,12 @@ cuckoo.xyz,resell,98,88%,6,"Environment,Media,Science",05/02/2019 00:42,05/02/20
 bait.xyz,sold,98,76%,4,"Retail,Sports",07/10/2016 23:13,07/10/2027 23:59,Dynadot LLC
 while.xyz,resell,98,84%,5,"Business,Education,Technology",02/06/2014 17:35,02/06/2026 23:59,"Go Daddy, LLC"
 midJanuary.xyz,available,98,72%,11,General,,,
+american.xyz,resell,98,56%,8,Geography,02/06/2014 16:10,02/06/2026 23:59,1API GmbH
 buffer.xyz,resell,98,76%,6,"Media,Technology,Telecommunications",05/10/2015 07:54,05/10/2027 23:59,Dynadot LLC
 midFebruary.xyz,available,98,72%,12,General,,,
 relief.xyz,sold,98,80%,6,"Healthcare,Medicine,Pharmaceuticals",28/10/2016 13:27,28/10/2029 23:59,Dynadot LLC
 employ.xyz,resell,98,80%,6,Business,04/01/2021 06:11,04/01/2027 23:59,Dynadot LLC
+joke.xyz,resell,98,44%,4,Entertainment,02/06/2014 16:04,02/06/2026 23:59,1API GmbH
 sex.xyz,available,98,88%,3,"Entertainment,Healthcare,Media",,,
 hotfoot.xyz,resell,98,76%,7,"Health and Fitness,Sports,Travel",29/05/2025 22:01,29/05/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 courtesy.xyz,resell,98,88%,8,"Business,Hospitality,Media",12/04/2018 02:00,12/04/2027 23:59,Dynadot LLC
@@ -110,9 +112,9 @@ quadruple.xyz,available,94,80%,9,"Business,Engineering,Mathematics",,,
 concise.xyz,sold,93,92%,7,"Business,Education",04/02/2017 20:07,04/02/2026 23:59,Dynadot LLC
 flexible.xyz,resell,93,84%,8,"Business,Health and Fitness",02/06/2014 17:09,02/06/2026 23:59,"Go Daddy, LLC"
 occult.xyz,resell,92,84%,6,"Arts,Humanities,Religion",11/06/2014 16:08,11/06/2026 23:59,"Go Daddy, LLC"
-physic.xyz,sold,92,80%,6,Medicine,19/03/2020 20:18,19/03/2026 23:59,West263 International Limited
+physic.xyz,resell,92,32%,6,Medicine,19/03/2020 20:18,19/03/2026 23:59,West263 International Limited
 nurture.xyz,resell,92,88%,7,"Education,Healthcare,Pharmaceuticals",29/04/2017 09:51,29/04/2026 23:59,"Go Daddy, LLC"
-caper.xyz,sold,92,80%,5,Entertainment,26/11/2020 20:43,26/11/2026 23:59,West263 International Limited
+caper.xyz,resell,92,28%,5,Entertainment,26/11/2020 20:43,26/11/2026 23:59,West263 International Limited
 eternal.xyz,resell,92,64%,7,"Arts,Religion",02/10/2016 17:57,02/10/2030 23:59,Dynadot LLC
 consensus.xyz,resell,92,88%,9,"Business,Media,Politics",18/01/2017 09:04,18/01/2026 23:59,Namecheap
 script.xyz,resell,92,84%,6,"Arts,Media,Technology",23/08/2019 11:00,23/08/2030 23:59,Dynadot LLC
@@ -188,7 +190,7 @@ portmanteau.xyz,resell,88,76%,11,"Education,Humanities",28/10/2024 03:17,28/10/2
 housekeep.xyz,available,88,80%,9,"Hospitality,Real Estate,Retail",,,
 sickly.xyz,available,88,28%,6,"Healthcare,Medicine",,,
 divide.xyz,resell,88,84%,6,"Business,Education,Mathematics",02/06/2014 17:03,02/06/2026 23:59,"Go Daddy, LLC"
-expectant.xyz,available,88,72%,9,"Health and Fitness,Medicine",,,
+expectant.xyz,available,88,16%,9,"Health and Fitness,Medicine",,,
 chirp.xyz,resell,88,84%,5,"Environment,Science,Technology",20/12/2016 14:41,20/12/2028 23:59,Dynadot LLC
 aerial.xyz,resell,88,36%,6,"Aviation,Technology",18/08/2018 08:28,18/08/2029 23:59,Dynadot LLC
 fable.xyz,resell,88,96%,5,"Arts,Education",02/06/2014 17:07,02/06/2026 23:59,"Go Daddy, LLC"
@@ -230,7 +232,7 @@ plastic.xyz,resell,86,84%,7,"Environment,Manufacturing,Retail",02/06/2014 17:36,
 reissue.xyz,available,86,76%,7,"Finance,Media,Technology",,,
 avenge.xyz,available,86,84%,6,"Entertainment,Law,Military",,,
 Azerbaijani.xyz,available,86,72%,11,"Geography,Travel",,,
-frog.xyz,sold,86,84%,4,"Education,Environment,Media",18/08/2018 23:20,18/08/2030 23:59,Dynadot LLC
+frog.xyz,resell,86,60%,4,"Education,Environment,Media",18/08/2018 23:20,18/08/2030 23:59,Dynadot LLC
 euphoric.xyz,sold,86,88%,8,"Healthcare,Media",13/05/2020 20:20,13/05/2026 23:59,West263 International Limited
 arm.xyz,resell,86,88%,3,"Healthcare,Military,Technology",02/06/2019 10:39,02/06/2032 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 legendary.xyz,sold,86,84%,9,"Arts,Entertainment,Media",12/01/2018 01:06,12/01/2029 23:59,Dynadot LLC
@@ -284,7 +286,6 @@ tonguekiss.xyz,available,84,72%,11,"Entertainment,Health and Fitness,Media",,,
 limelight.xyz,resell,84,96%,9,"Arts,Entertainment,Media",03/07/2016 18:28,03/07/2028 23:59,Dynadot LLC
 perhaps.xyz,sold,84,80%,7,"Business,Media,Technology",11/12/2020 08:15,11/12/2026 23:59,Dynadot LLC
 trending.xyz,resell,84,88%,8,"Business,Media,Technology",02/06/2014 16:10,02/06/2026 23:59,1API GmbH
-hermes.xyz,expiring,84,96%,6,Fashion,11/07/2019 15:50,11/07/2025 23:59,"Sav.com, LLC"
 cardiac.xyz,sold,82,76%,7,Healthcare,09/06/2020 01:47,09/06/2026 23:59,Dynadot LLC
 clipboard.xyz,resell,82,76%,9,"Business,Education",28/06/2019 19:13,28/06/2026 23:59,Dynadot LLC
 following.xyz,available,82,72%,9,"Business,Media,Technology",,,
@@ -318,7 +319,7 @@ vaseline.xyz,available,82,84%,8,"Healthcare,Pharmaceuticals,Retail",,,
 harpoon.xyz,resell,82,72%,7,Media,17/08/2020 21:07,17/08/2026 23:59,Dynadot LLC
 carnation.xyz,resell,82,76%,9,"Fashion,Food and Beverage,Retail",12/11/2015 08:36,12/11/2029 23:59,TLD Registrar Solutions Ltd
 gleaming.xyz,resell,82,28%,8,"Arts,Fashion",26/04/2022 22:48,26/04/2026 23:59,"Sav.com, LLC"
-allowable.xyz,available,82,72%,9,"Business,Law",,,
+allowable.xyz,available,82,16%,9,"Business,Law",,,
 leaven.xyz,resell,82,80%,6,"Food and Beverage,Religion",13/02/2025 04:42,13/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 suckle.xyz,resell,82,68%,6,Medicine,10/03/2025 03:36,10/03/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 ChineseNewYear.xyz,resell,82,80%,16,"Arts,General,Travel",02/06/2014 16:56,02/06/2026 23:59,"Go Daddy, LLC"
@@ -386,15 +387,17 @@ lilting.xyz,available,80,72%,7,"Arts,Entertainment,Media",,,
 heatsink.xyz,available,80,76%,9,"Engineering,Technology",,,
 political.xyz,resell,80,84%,9,"Humanities,Media,Politics",02/06/2014 16:25,02/06/2026 23:59,"Go Daddy, LLC"
 wnw.xyz,available,80,80%,3,"Environment,Geography,Travel",,,
+anxiolytic.xyz,expiring,80,8%,10,"Healthcare,Pharmaceuticals",24/08/2024 13:42,24/08/2025 23:59,Dynadot LLC
 confuzzle.xyz,available,80,80%,9,"Entertainment,Media",,,
 grandniece.xyz,available,80,72%,10,"Entertainment,General,Media,Retail",,,
+bucolic.xyz,resell,80,16%,7,"Agriculture,Hospitality",17/03/2022 14:58,17/03/2026 23:59,"Automattic Inc. "
 mayo.xyz,available,80,80%,4,"Food and Beverage,Retail",,,
 gouache.xyz,resell,80,72%,7,"Arts,Education,Media",08/12/2022 01:05,08/12/2025 23:59,"Sav.com, LLC - 47"
 growthspurt.xyz,available,80,80%,12,"Healthcare,Pharmaceuticals,Science",,,
 goldmedallist.xyz,available,80,72%,14,"Entertainment,Media,Sports",,,
 koala.xyz,resell,80,84%,5,"Environment,Media,Travel",24/08/2017 23:19,24/08/2030 23:59,Dynadot LLC
 fragile.xyz,sold,80,88%,7,"Healthcare,Pharmaceuticals,Retail",14/08/2018 18:47,14/08/2026 23:59,Dynadot LLC
-appetizing.xyz,resell,80,76%,10,"Food and Beverage,Hospitality",11/07/2021 21:58,11/07/2026 23:59,Namecheap
+appetizing.xyz,resell,80,20%,10,"Food and Beverage,Hospitality",11/07/2021 21:58,11/07/2026 23:59,Namecheap
 shoes.xyz,resell,80,84%,5,"Fashion,General,Manufacturing,Retail",20/03/2014 15:01,20/03/2032 23:59,"Go Daddy, LLC"
 cinematic.xyz,resell,80,72%,9,"Arts,Entertainment,Media",08/09/2014 02:52,08/09/2025 23:59,"Go Daddy, LLC"
 ryukyuan.xyz,available,80,72%,8,Humanities,,,
@@ -457,7 +460,7 @@ tension.xyz,available,78,72%,7,"Healthcare,Medicine,Science",,,
 vermicompost.xyz,resell,78,76%,12,"Agriculture,Environment,Science",22/05/2025 03:43,22/05/2026 23:59,Dominet (HK) Limited
 abkhazian.xyz,available,78,8%,9,Geography,,,
 twentysix.xyz,resell,78,52%,10,Mathematics,14/02/2022 03:48,15/02/2026 00:59,"Go Daddy, LLC"
-alone.xyz,resell,78,84%,5,"Healthcare,Humanities,Medicine",02/06/2014 16:45,02/06/2026 23:59,"Go Daddy, LLC"
+alone.xyz,resell,78,32%,5,"Healthcare,Humanities,Medicine",02/06/2014 16:45,02/06/2026 23:59,"Go Daddy, LLC"
 moneyeconomy.xyz,available,78,72%,13,"Business,Finance,General",,,
 fleece.xyz,resell,78,80%,6,"Agriculture,Fashion,Retail",28/06/2019 19:31,28/06/2026 23:59,Dynadot LLC
 bottomedge.xyz,available,78,72%,11,"Entertainment,Media,Sports",,,
@@ -469,7 +472,7 @@ adonis.xyz,expiring,78,84%,6,"Arts,Humanities",28/07/2018 15:17,28/07/2025 23:59
 deliverable.xyz,available,78,84%,11,"Business,Media,Technology",,,
 goth.xyz,resell,78,88%,4,"Arts,Fashion",02/06/2014 17:11,02/06/2026 23:59,"Go Daddy, LLC"
 beloved.xyz,sold,78,84%,7,"Arts,Entertainment,Media",28/06/2019 19:25,28/06/2028 23:59,Dynadot LLC
-antecedent.xyz,resell,78,84%,10,Law,23/05/2025 12:48,23/05/2026 23:59,"Porkbun, LLC"
+antecedent.xyz,resell,78,24%,10,Law,23/05/2025 12:48,23/05/2026 23:59,"Porkbun, LLC"
 singe.xyz,resell,78,84%,5,"Healthcare,Medicine",02/06/2014 17:34,02/06/2026 23:59,"Go Daddy, LLC"
 within.xyz,sold,78,76%,6,"Humanities,Media",26/09/2016 12:11,26/09/2027 23:59,Dynadot LLC
 baby.xyz,available,78,80%,4,"General,Healthcare,Media,Retail",,,
@@ -526,7 +529,7 @@ Christmascard.xyz,resell,76,80%,14,Retail,29/06/2025 19:07,29/06/2026 23:59,"Nic
 snowwhite.xyz,resell,76,80%,10,"Environment,Media,Travel",29/11/2014 07:36,29/11/2029 23:59,TLD Registrar Solutions Ltd
 fourteenth.xyz,resell,76,20%,10,Mathematics,17/06/2025 17:48,18/06/2026 01:59,Dynadot LLC
 alaska.xyz,available,76,92%,6,"Geography,Travel",,,
-toad.xyz,sold,76,80%,4,General,04/12/2016 23:11,04/12/2027 23:59,Dynadot LLC
+toad.xyz,resell,76,32%,4,General,04/12/2016 23:11,04/12/2027 23:59,Dynadot LLC
 chocolatechip.xyz,available,76,80%,14,"Food and Beverage,Hospitality,Retail",,,
 WWWpage.xyz,available,76,72%,8,"Business,Media,Technology",,,
 quine.xyz,available,76,80%,5,"Healthcare,Pharmaceuticals,Science",,,
@@ -571,6 +574,7 @@ beckoning.xyz,available,76,76%,9,"Arts,Entertainment,Media",,,
 toke.xyz,resell,76,76%,4,Healthcare,12/06/2014 03:12,12/06/2026 23:59,Dynadot LLC
 conveyance.xyz,available,76,84%,10,"Law,Real Estate,Transportation",,,
 adorables.xyz,expiring,76,80%,9,"Entertainment,Fashion,Retail",12/07/2024 00:57,12/07/2025 23:59,"Porkbun, LLC"
+arboreal.xyz,resell,76,48%,8,Agriculture,06/03/2021 00:39,06/03/2026 23:59,Dynadot LLC
 mincepie.xyz,available,76,72%,9,Food and Beverage,,,
 improvise.xyz,resell,76,36%,9,Entertainment,10/07/2021 10:59,10/07/2026 23:59,"Sav.com, LLC"
 comedy.xyz,resell,76,80%,6,"Arts,Entertainment,Media",01/11/2019 05:18,01/11/2029 23:59,Dynadot LLC
@@ -589,7 +593,7 @@ hottub.xyz,resell,76,92%,7,"Health and Fitness,Hospitality,Retail",02/06/2014 17
 optimize.xyz,available,76,84%,8,"Business,Engineering,Technology",,,
 raised.xyz,sold,76,84%,6,"Construction,Education,Finance",28/05/2020 01:51,28/05/2026 23:59,Dynadot LLC
 gaping.xyz,resell,76,16%,6,Healthcare,26/04/2022 11:56,26/04/2026 23:59,West263 International Limited
-andean.xyz,resell,76,80%,6,Geography,07/12/2024 03:32,07/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
+andean.xyz,resell,76,36%,6,Geography,07/12/2024 03:32,07/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 flowerbox.xyz,expired,76,84%,10,Retail,15/05/2024 03:07,15/05/2025 23:59,Dynadot LLC
 reattempt.xyz,available,76,72%,9,"Business,Education,Sports",,,
 witching.xyz,available,76,72%,8,"Arts,Entertainment,Media",,,
@@ -628,7 +632,7 @@ pritchel.xyz,available,74,72%,8,"Construction,Engineering,Manufacturing",,,
 soon.xyz,sold,74,80%,4,Business,30/11/2017 12:07,30/11/2029 23:59,Dynadot LLC
 employment.xyz,available,74,80%,10,Business,,,
 DonaldDuck.xyz,available,74,16%,11,Entertainment,,,
-antiguan.xyz,available,74,72%,8,"Geography,Travel",,,
+antiguan.xyz,available,74,8%,8,"Geography,Travel",,,
 prematch.xyz,resell,74,84%,8,"Entertainment,Media,Sports",14/02/2025 18:07,14/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 cherrybrandy.xyz,available,74,68%,13,Food and Beverage,,,
 overriding.xyz,available,74,72%,10,"Business,Law,Politics",,,
@@ -683,7 +687,7 @@ deity.xyz,resell,74,84%,5,"Arts,Humanities,Religion",07/06/2019 19:14,07/06/2029
 noreally.xyz,available,74,72%,9,"Arts,Entertainment,Media",,,
 series.xyz,sold,74,92%,6,"Education,Entertainment,Media",07/11/2016 02:18,07/11/2029 23:59,Dynadot LLC
 operatingsystem.xyz,available,74,84%,16,"Business,Education,Technology",,,
-ambulatory.xyz,resell,74,72%,10,Healthcare,29/05/2025 20:29,29/05/2026 23:59,Dynadot LLC
+ambulatory.xyz,resell,74,16%,10,Healthcare,29/05/2025 20:29,29/05/2026 23:59,Dynadot LLC
 hardatwork.xyz,available,74,72%,12,"Business,Education",,,
 suppertime.xyz,available,74,72%,10,"Food and Beverage,Hospitality,Retail",,,
 garlicsalt.xyz,available,74,76%,11,Food and Beverage,,,
@@ -693,7 +697,7 @@ sweatshirt.xyz,resell,74,80%,10,"Fashion,Health and Fitness,Retail",19/02/2015 2
 helpout.xyz,resell,74,88%,8,"Education,Healthcare",29/06/2025 19:40,29/06/2026 23:59,"Nicnames, Inc."
 makemerry.xyz,available,74,68%,10,General,,,
 deliciousness.xyz,expired,74,24%,13,Food and Beverage,29/04/2024 21:10,29/04/2025 23:59,"Go Daddy, LLC"
-altruistic.xyz,sold,74,72%,10,Humanities,14/02/2021 20:38,14/02/2026 23:59,West263 International Limited
+altruistic.xyz,resell,74,36%,10,Humanities,14/02/2021 20:38,14/02/2026 23:59,West263 International Limited
 bodacious.xyz,sold,74,84%,9,Entertainment,28/12/2020 11:52,28/12/2026 23:59,Dynadot LLC
 lunchmoney.xyz,resell,74,88%,11,"Business,Education,General",09/11/2024 06:30,09/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 withoutfail.xyz,available,74,72%,12,"Business,Education,Law",,,
@@ -723,8 +727,8 @@ clapperboard.xyz,resell,74,76%,12,"Arts,Entertainment,Media",13/11/2021 02:16,13
 abilene.xyz,available,74,88%,7,"Education,General,Geography,Travel",,,
 comeofage.xyz,available,74,72%,11,General,,,
 assistant.xyz,resell,74,80%,9,Insurance,24/08/2015 12:21,24/08/2025 23:59,TLD Registrar Solutions Ltd
-angulate.xyz,available,74,76%,8,"Engineering,Mathematics",,,
-vermifuge.xyz,available,74,72%,9,Medicine,,,
+angulate.xyz,available,74,12%,8,"Engineering,Mathematics",,,
+vermifuge.xyz,available,74,8%,9,Medicine,,,
 dropahint.xyz,available,74,24%,11,"Business,General,Media",,,
 turtleneckcollar.xyz,available,73,72%,17,"Entertainment,Fashion,Retail",,,
 propellent.xyz,available,73,76%,10,"Engineering,Military,Science",,,
@@ -752,7 +756,7 @@ anticorrosive.xyz,available,72,72%,13,"Construction,Engineering,Manufacturing",,
 globalist.xyz,resell,72,88%,9,"Business,Politics",04/06/2025 15:58,04/06/2026 23:59,Gname 008 Inc
 firstgrade.xyz,resell,72,76%,11,"Education,Humanities,Media",14/02/2025 01:05,14/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 fetta.xyz,resell,72,36%,5,"Food and Beverage,General",25/11/2024 03:46,25/11/2025 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
-anile.xyz,resell,72,68%,5,Medicine,13/06/2025 02:49,13/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
+anile.xyz,resell,72,16%,5,Medicine,13/06/2025 02:49,13/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 makeover.xyz,sold,72,88%,8,"Entertainment,Fashion,Retail",07/12/2018 00:32,07/12/2027 23:59,Dynadot LLC
 commensurate.xyz,available,72,72%,12,"Business,Education,Law",,,
 fertilize.xyz,resell,72,76%,9,"Agriculture,Environment,Pharmaceuticals",05/10/2015 05:13,05/10/2025 23:59,"Sav.com, LLC"
@@ -765,7 +769,7 @@ datamanager.xyz,available,72,80%,12,"Business,Education,Technology",,,
 assets.xyz,resell,72,88%,6,"Business,Finance,Real Estate",16/06/2014 19:40,16/06/2026 23:59,Namecheap
 soulmate.xyz,resell,72,92%,9,"Entertainment,Media",07/04/2020 02:41,07/04/2026 23:59,"Go Daddy, LLC"
 driver.xyz,resell,72,88%,6,"Automotive,Technology,Transportation",05/08/2019 09:43,05/08/2030 23:59,Dynadot LLC
-anemic.xyz,available,72,76%,6,Medicine,,,
+anemic.xyz,available,72,20%,6,Medicine,,,
 carriable.xyz,available,72,72%,9,"Retail,Technology",,,
 makeinto.xyz,available,72,72%,9,General,,,
 makelightworkof.xyz,available,72,72%,18,General,,,
@@ -806,6 +810,7 @@ waterflow.xyz,resell,72,80%,9,"Agriculture,Environment,Utilities",25/08/2024 23:
 avalanche.xyz,sold,72,92%,9,"Environment,Sports,Travel",26/12/2016 21:49,26/12/2030 23:59,Dynadot LLC
 aseptic.xyz,resell,72,84%,7,"Health and Fitness,Medicine,Science",13/02/2025 07:59,13/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 lookatyou.xyz,available,72,80%,11,"Arts,Entertainment,Media",,,
+anglican.xyz,resell,72,36%,8,Religion,13/09/2021 23:48,13/09/2027 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 basil.xyz,resell,72,92%,5,"Agriculture,Food and Beverage,Retail",21/03/2019 00:46,21/03/2029 23:59,Dynadot LLC
 aided.xyz,available,72,40%,5,"Healthcare,Technology",,,
 dealer.xyz,resell,72,80%,6,"Business,Finance,Retail",03/09/2021 23:48,03/09/2025 23:59,"Go Daddy, LLC"
@@ -829,6 +834,7 @@ cricketscore.xyz,available,72,76%,13,"Media,Sports",,,
 neoclassical.xyz,resell,72,72%,12,"Arts,Humanities",19/02/2025 09:21,19/02/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 granting.xyz,available,72,88%,8,"Business,Finance,Law",,,
 suit.xyz,resell,72,84%,4,"Business,Fashion",02/06/2014 20:34,02/06/2026 23:59,"Name.com, Inc"
+apolitical.xyz,resell,72,40%,10,Politics,10/06/2022 02:21,10/06/2026 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 visitor.xyz,resell,72,80%,7,"Hospitality,Retail,Travel",12/06/2014 16:43,12/06/2026 23:59,1API GmbH
 pacify.xyz,resell,72,84%,6,"Humanities,Law",28/04/2025 18:35,28/04/2026 23:59,"Go Daddy, LLC"
 broth.xyz,available,72,80%,5,"Food and Beverage,Healthcare,Retail",,,
@@ -867,8 +873,8 @@ ministerial.xyz,available,72,72%,11,"Business,Law,Politics",,,
 layaway.xyz,resell,72,80%,8,"Finance,Retail",22/10/2014 00:46,22/10/2029 23:59,TLD Registrar Solutions Ltd
 tantalising.xyz,available,72,72%,11,"Entertainment,Media,Retail",,,
 bestfriendforever.xyz,available,72,68%,19,General,,,
-andorran.xyz,available,72,72%,8,Geography,,,
-ambrosian.xyz,available,72,72%,9,Religion,,,
+andorran.xyz,available,72,8%,8,Geography,,,
+ambrosian.xyz,available,72,16%,9,Religion,,,
 buyin.xyz,resell,72,84%,6,"Business,Finance,Technology",06/12/2024 19:47,06/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 radical.xyz,sold,72,84%,7,Politics,02/12/2017 08:12,02/12/2029 23:59,Dynadot LLC
 comicstrip.xyz,available,72,76%,11,"Arts,Entertainment,Media",,,
@@ -913,7 +919,7 @@ graceandfavor.xyz,available,70,12%,15,"Arts,Business,General",,,
 sunriver.xyz,resell,70,76%,9,"Hospitality,Real Estate,Travel",06/12/2024 22:31,06/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 babyfaced.xyz,available,70,72%,10,"Entertainment,Fashion",,,
 birdsofafeather.xyz,available,70,76%,18,General,,,
-dendroid.xyz,available,70,72%,8,Agriculture,,,
+dendroid.xyz,available,70,16%,8,Agriculture,,,
 Californiakilowatt.xyz,available,70,72%,19,"Energy,Environment,Technology",,,
 module.xyz,resell,70,88%,6,"Education,Engineering,Technology",05/11/2016 03:03,05/11/2028 23:59,Dynadot LLC
 machinescrew.xyz,available,70,72%,13,"Construction,Manufacturing,Retail",,,
@@ -931,7 +937,7 @@ landside.xyz,available,70,80%,8,"Aviation,Real Estate,Transportation",,,
 hotcrossbun.xyz,available,70,72%,13,Food and Beverage,,,
 mvp.xyz,resell,70,92%,3,"Business,Media,Sports",20/08/2015 14:38,20/08/2026 23:59,"GoDaddy Corporate Domains, LLC"
 professionalclass.xyz,available,70,72%,18,"Business,Education,Finance",,,
-antiacid.xyz,available,70,72%,8,"Food and Beverage,Health and Fitness,Medicine",,,
+antiacid.xyz,available,70,8%,8,"Food and Beverage,Health and Fitness,Medicine",,,
 Manitoban.xyz,available,70,72%,9,"Geography,Media,Politics",,,
 maincourse.xyz,resell,70,84%,11,"Food and Beverage,Hospitality,Retail",31/03/2022 15:14,31/03/2026 23:59,"NameSilo, LLC"
 businesseconomics.xyz,available,70,72%,18,"Business,General",,,
@@ -1056,7 +1062,7 @@ vinyasa.xyz,available,70,88%,7,"Health and Fitness,Medicine,Sports",,,
 extradural.xyz,available,70,68%,10,"Healthcare,Medicine,Pharmaceuticals",,,
 heterocyclic.xyz,available,70,72%,12,"Pharmaceuticals,Science",,,
 bikinibabe.xyz,available,70,72%,11,"Entertainment,Fashion,Media",,,
-anopheline.xyz,available,70,72%,10,Science,,,
+anopheline.xyz,available,70,4%,10,Science,,,
 bestknown.xyz,available,70,76%,10,"Arts,Entertainment,Media",,,
 aptitude.xyz,resell,70,76%,8,"Business,Education,Humanities",08/11/2014 01:27,08/11/2025 23:59,"Go Daddy, LLC"
 teton.xyz,available,70,92%,5,Geography,,,
@@ -1186,7 +1192,7 @@ viceroy.xyz,resell,68,88%,7,"Education,Politics",10/07/2020 13:03,10/07/2026 23:
 buildon.xyz,resell,68,76%,8,"Business,Construction,Real Estate",01/11/2024 13:19,01/11/2025 23:59,West263 International Limited
 Skolt.xyz,available,68,72%,5,Entertainment,,,
 seal.xyz,resell,68,84%,4,"Construction,General,Real Estate,Technology",18/08/2018 23:27,18/08/2029 23:59,Dynadot LLC
-annulate.xyz,available,68,72%,8,"Engineering,Mathematics",,,
+annulate.xyz,available,68,4%,8,"Engineering,Mathematics",,,
 pregiven.xyz,available,68,72%,8,"Arts,Entertainment,Media",,,
 TWI.xyz,resell,68,88%,3,"Technology,Telecommunications",20/05/2014 12:08,20/05/2026 23:59,"Go Daddy, LLC"
 asprin.xyz,available,68,28%,6,Pharmaceuticals,,,
@@ -1220,6 +1226,7 @@ secondlanguage.xyz,resell,68,72%,15,"Education,Humanities,Travel",09/11/2024 13:
 UHaul.xyz,resell,68,76%,6,"Real Estate,Transportation",06/12/2024 19:55,06/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 bounteous.xyz,resell,68,76%,9,Agriculture,17/06/2024 05:58,17/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 changeoneself.xyz,available,68,72%,14,General,,,
+apposite.xyz,resell,68,28%,8,"Business,Law",14/03/2024 00:10,14/03/2026 23:59,"Spaceship, Inc."
 thirtysomething.xyz,available,68,76%,15,"Entertainment,Media",,,
 comehome.xyz,resell,68,84%,9,"Hospitality,Media,Real Estate",14/02/2025 01:35,14/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
 bashful.xyz,sold,68,80%,7,"Arts,Entertainment,Media",29/10/2021 23:25,29/10/2026 23:59,West263 International Limited
@@ -1264,6 +1271,7 @@ AustralianShepherd.xyz,available,68,80%,19,"General,Health and Fitness,Travel",,
 skiprope.xyz,available,68,72%,9,"Education,Health and Fitness,Sports",,,
 gobythenameof.xyz,available,68,72%,17,General,,,
 unchangeable.xyz,available,68,72%,12,"Business,Technology",,,
+antiquary.xyz,resell,68,12%,9,Arts,23/12/2021 18:40,23/12/2025 23:59,"Sav.com, LLC"
 affidavit.xyz,available,68,84%,9,"Business,Finance,Law",,,
 folkculture.xyz,available,68,72%,12,Humanities,,,
 allright.xyz,resell,68,28%,9,"Business,Technology",05/08/2020 20:42,05/08/2027 23:59,West263 International Limited
@@ -1366,7 +1374,7 @@ prestigious.xyz,resell,68,76%,11,"Business,Education,Media",26/08/2014 14:22,26/
 shootfor.xyz,available,68,72%,9,"Business,Education,Sports",,,
 NWIP.xyz,available,68,80%,4,General,,,
 episcopal.xyz,resell,68,72%,9,"Humanities,Religion",18/11/2022 08:26,18/11/2025 23:59,"Sav.com, LLC - 29"
-sensual.xyz,resell,68,84%,7,"Health and Fitness,Religion",02/06/2014 17:34,02/06/2026 23:59,"Go Daddy, LLC"
+sensual.xyz,resell,68,20%,7,"Health and Fitness,Religion",02/06/2014 17:34,02/06/2026 23:59,"Go Daddy, LLC"
 caramelise.xyz,available,68,72%,10,"Food and Beverage,Hospitality,Retail",,,
 LaurelandHardy.xyz,available,68,72%,16,Entertainment,,,
 airtram.xyz,available,68,76%,7,"Technology,Transportation,Travel",,,
@@ -1377,9 +1385,8 @@ therapist.xyz,resell,68,84%,9,"Healthcare,Medicine",06/11/2018 10:42,06/11/2028 
 swashbuckle.xyz,available,68,76%,11,"Arts,Entertainment,Media",,,
 immaculate.xyz,sold,68,88%,10,"Arts,Media,Religion",19/04/2019 18:59,19/04/2026 23:59,Dynadot LLC
 waterbirth.xyz,resell,68,80%,11,"Healthcare,Medicine,Pharmaceuticals",14/02/2025 02:33,14/02/2026 23:59,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
-antithetic.xyz,available,68,72%,10,Humanities,,,
+antithetic.xyz,available,68,4%,10,Humanities,,,
 nonAsian.xyz,available,68,72%,9,"Geography,Politics",,,
-celeb.xyz,resell,68,84%,5,"Entertainment,Fashion,Media",02/06/2014 16:06,02/06/2026 23:59,1API GmbH
 waitinglist.xyz,available,67,84%,12,"Education,Healthcare,Hospitality",,,
 marihuana.xyz,resell,67,76%,9,"Agriculture,Medicine,Pharmaceuticals",31/08/2017 11:37,31/08/2029 23:59,Dynadot LLC
 epoch.xyz,resell,67,92%,5,"Science,Technology",02/12/2017 17:02,02/12/2029 23:59,Dynadot LLC
@@ -1423,6 +1430,7 @@ comebackmoney.xyz,available,66,72%,14,General,,,
 vneck.xyz,available,66,76%,6,"Fashion,Media,Retail",,,
 siccative.xyz,available,66,72%,9,"Manufacturing,Pharmaceuticals,Science",,,
 hauling.xyz,available,66,84%,7,"Business,Transportation",,,
+antarctic.xyz,resell,66,28%,9,"Geography,Science,Travel",24/06/2021 23:51,24/06/2027 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 perspex.xyz,resell,66,72%,7,"Construction,Manufacturing,Retail",04/11/2024 13:33,04/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 adopted.xyz,sold,66,16%,7,"Education,Healthcare",17/04/2020 09:59,17/04/2026 23:59,West263 International Limited
 snapbracelet.xyz,available,66,72%,13,"Entertainment,Fashion,Retail",,,
@@ -1897,7 +1905,7 @@ goldstarwife.xyz,available,64,72%,14,General,,,
 elaborated.xyz,resell,64,72%,10,"Arts,Education,Media",30/05/2024 21:25,30/05/2026 23:59,Dynadot LLC
 chocolatediamond.xyz,available,64,76%,17,"Fashion,Retail",,,
 vogueing.xyz,available,64,76%,8,"Entertainment,Fashion",,,
-approval.xyz,resell,64,72%,8,Business,02/06/2014 16:46,02/06/2026 23:59,"Go Daddy, LLC"
+approval.xyz,resell,64,24%,8,Business,02/06/2014 16:46,02/06/2026 23:59,"Go Daddy, LLC"
 incompletesentence.xyz,available,64,72%,19,"Education,Humanities,Media",,,
 gelatinesalad.xyz,available,64,72%,14,"Food and Beverage,Hospitality,Retail",,,
 boundary.xyz,resell,64,80%,8,"Construction,General,Geography,Law",22/10/2014 01:34,22/10/2029 23:59,TLD Registrar Solutions Ltd
@@ -2187,7 +2195,6 @@ dropopen.xyz,available,64,72%,9,"Construction,Retail,Technology",,,
 insert.xyz,resell,64,76%,6,"Media,Technology",24/12/2016 00:50,24/12/2027 23:59,Dynadot LLC
 haveaneyefor.xyz,available,64,72%,15,General,,,
 wordname.xyz,available,64,72%,9,"Education,Media,Technology",,,
-basehit.xyz,available,64,72%,8,"Entertainment,Media,Sports",,,
 letterscredential.xyz,available,63,72%,18,General,,,
 getthebird.xyz,available,63,72%,12,General,,,
 hydrolise.xyz,available,63,72%,9,"Engineering,Pharmaceuticals,Science",,,
@@ -2232,8 +2239,8 @@ coffeeurn.xyz,available,62,72%,10,"Food and Beverage,Hospitality",,,
 thundershower.xyz,available,62,72%,13,"Environment,Media,Science",,,
 novelty.xyz,resell,62,84%,7,"Entertainment,Media,Retail",20/02/2018 17:27,20/02/2029 23:59,Dynadot LLC
 raceday.xyz,available,62,88%,7,,,,
-carnal.xyz,sold,62,80%,6,"Health and Fitness,Religion",26/01/2021 06:46,26/01/2026 23:59,Dynadot LLC
-mingle.xyz,sold,62,72%,6,Food and Beverage,18/08/2018 08:18,18/08/2029 23:59,Dynadot LLC
+carnal.xyz,resell,62,36%,6,"Health and Fitness,Religion",26/01/2021 06:46,26/01/2026 23:59,Dynadot LLC
+mingle.xyz,resell,62,44%,6,Food and Beverage,18/08/2018 08:18,18/08/2029 23:59,Dynadot LLC
 commonlinnet.xyz,available,62,8%,13,"Environment,General,Science",,,
 holdalight.xyz,available,62,72%,12,General,,,
 homologise.xyz,available,62,72%,10,"Law,Pharmaceuticals,Science",,,
@@ -2332,7 +2339,7 @@ kayaker.xyz,resell,62,76%,7,"Health and Fitness,Sports,Travel",14/02/2025 18:24,
 crackopen.xyz,available,62,72%,10,General,,,
 landscapegardening.xyz,available,62,20%,19,"Agriculture,General",,,
 fingerpiano.xyz,available,62,72%,12,"Arts,Entertainment",,,
-amusive.xyz,available,62,72%,7,"Entertainment,Media",,,
+amusive.xyz,available,62,16%,7,"Entertainment,Media",,,
 pantie.xyz,available,62,80%,6,"Fashion,Health and Fitness,Retail",,,
 scarletmacaw.xyz,available,62,72%,13,"Environment,Science,Travel",,,
 tito.xyz,resell,62,84%,4,"Entertainment,Politics",29/10/2016 11:05,29/10/2025 23:59,"Go Daddy, LLC"
@@ -2411,7 +2418,7 @@ ekeout.xyz,available,62,72%,7,"Business,Finance,Media",,,
 goldfields.xyz,resell,62,72%,10,"Environment,Mining,Real Estate",07/12/2024 01:49,07/12/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 fuelcellvehicle.xyz,available,62,72%,17,Automotive,,,
 fatbike.xyz,expired,62,68%,8,"Health and Fitness,Sports,Travel",22/04/2024 15:02,22/04/2025 23:59,Dominet (HK) Limited
-proclaimed.xyz,available,62,72%,10,"Politics,Religion",,,
+proclaimed.xyz,available,62,12%,10,"Politics,Religion",,,
 fuelpoverty.xyz,available,62,72%,12,Automotive,,,
 aeronautic.xyz,resell,62,16%,10,Aviation,26/08/2021 08:29,26/08/2026 23:59,West263 International Limited
 intrauterinedevice.xyz,available,62,72%,19,"Healthcare,Medicine,Pharmaceuticals",,,
@@ -3256,7 +3263,7 @@ pediatric.xyz,sold,60,80%,9,"Healthcare,Medicine,Pharmaceuticals",03/11/2019 18:
 hotdip.xyz,available,60,72%,7,"Construction,Engineering,Manufacturing",,,
 SaintCatherine.xyz,available,60,76%,15,"Geography,Religion,Travel",,,
 allseeingness.xyz,available,60,72%,14,General,,,
-whatsoever.xyz,resell,60,88%,10,"Business,Entertainment,Media",09/11/2024 12:10,09/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
+whatsoever.xyz,resell,60,32%,10,"Business,Entertainment,Media",09/11/2024 12:10,09/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
 faces.xyz,resell,60,80%,5,General,02/06/2014 17:07,02/06/2026 23:59,"Go Daddy, LLC"
 twopoints.xyz,available,60,80%,10,"Education,Mathematics,Sports",,,
 goodhumoredly.xyz,available,60,72%,13,"Arts,Media",,,
@@ -3296,6 +3303,7 @@ hammerin.xyz,available,60,72%,9,"Construction,Education",,,
 publicimage.xyz,expiring,60,76%,12,"Business,Entertainment,Media",11/07/2019 16:41,11/07/2025 23:59,GoDaddy Online Services Cayman Islands Ltd.
 makelittleof.xyz,available,60,72%,14,General,,,
 chanceon.xyz,resell,60,72%,9,"Humanities,Media",25/03/2025 06:29,25/03/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
+unpaid.xyz,resell,60,28%,6,Business,08/10/2021 09:49,08/10/2026 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 magicmoment.xyz,expired,60,80%,12,"Entertainment,Media",03/05/2024 12:38,03/05/2025 23:59,Dynadot LLC
 superimpose.xyz,resell,60,80%,11,"Media,Technology",22/07/2023 22:42,22/07/2026 23:59,Namecheap
 hired.xyz,sold,60,88%,5,Business,02/06/2020 21:27,02/06/2029 23:59,Dynadot LLC
@@ -3411,7 +3419,7 @@ crudeoil.xyz,resell,60,76%,9,"Energy,Environment,Science",31/01/2024 22:33,31/01
 passengership.xyz,available,60,72%,14,"Transportation,Travel",,,
 motherlike.xyz,available,60,72%,10,Healthcare,,,
 monotheist.xyz,available,60,72%,10,"Humanities,Religion",,,
-spidery.xyz,available,60,68%,7,Agriculture,,,
+spidery.xyz,available,60,8%,7,Agriculture,,,
 dynamiclinklibrary.xyz,available,60,72%,20,"Engineering,Technology",,,
 chaiselongue.xyz,available,60,20%,13,Hospitality,,,
 sway.xyz,resell,60,92%,4,"Arts,Entertainment,Media",02/06/2014 17:35,02/06/2026 23:59,"Go Daddy, LLC"
@@ -3436,8 +3444,6 @@ recoup.xyz,resell,60,76%,6,"Business,Finance,Insurance",19/06/2021 03:40,19/06/2
 Greekchorus.xyz,available,60,72%,12,"Arts,Humanities,Media",,,
 technicalcollege.xyz,available,60,72%,17,"Education,Engineering,Technology",,,
 middleclick.xyz,available,60,72%,12,"Media,Technology,Telecommunications",,,
-likeliness.xyz,available,60,72%,10,"Business,Mathematics,Science",,,
-snowballfight.xyz,available,60,72%,14,"Entertainment,Sports,Travel",,,
 jellied.xyz,available,59,72%,7,"Medicine,Science",,,
 divineright.xyz,available,59,72%,12,"Law,Religion",,,
 dehumidify.xyz,available,59,84%,10,"Construction,Manufacturing,Technology",,,
@@ -3560,7 +3566,7 @@ phonic.xyz,sold,58,72%,6,Education,20/06/2020 01:32,20/06/2026 23:59,Dynadot LLC
 brushwolf.xyz,available,58,72%,10,"Environment,Media,Science",,,
 Ashlee.xyz,available,58,80%,6,General,,,
 flats.xyz,available,58,80%,5,"Fashion,Real Estate,Retail",,,
-apparent.xyz,sold,58,72%,8,"Business,Real Estate",09/06/2020 21:02,09/06/2026 23:59,Dynadot LLC
+apparent.xyz,resell,58,32%,8,"Business,Real Estate",09/06/2020 21:02,09/06/2026 23:59,Dynadot LLC
 microwaveable.xyz,available,58,72%,13,Food and Beverage,,,
 hardiness.xyz,available,58,72%,9,"Agriculture,Environment,Health and Fitness",,,
 thawed.xyz,available,58,72%,6,"Environment,Food and Beverage,Science",,,
@@ -4009,6 +4015,7 @@ missinglink.xyz,expiring,58,88%,12,"Media,Science",09/07/2021 22:07,09/07/2025 2
 coilwinder.xyz,available,58,72%,11,"Engineering,Manufacturing,Technology",,,
 favouring.xyz,resell,58,72%,9,"Media,Politics",17/06/2024 06:08,17/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 cirque.xyz,resell,58,88%,6,"Arts,Entertainment,Media",05/04/2020 20:05,05/04/2026 23:59,Dynadot LLC
+laudable.xyz,resell,58,32%,8,"Arts,Humanities",26/10/2021 18:52,26/10/2025 23:59,"Go Daddy, LLC"
 lute.xyz,available,58,88%,4,"Arts,Entertainment,Media",,,
 scanline.xyz,resell,58,88%,8,"Entertainment,Media,Technology",19/05/2025 04:06,19/05/2026 23:59,Dominet (HK) Limited
 oldman.xyz,available,58,84%,7,"Healthcare,Humanities,Media",,,
@@ -4749,7 +4756,7 @@ subdirectory.xyz,available,56,76%,12,"Business,Technology,Telecommunications",,,
 crawlway.xyz,available,56,72%,8,"Construction,Real Estate,Transportation",,,
 stormdrum.xyz,available,56,72%,10,"Environment,Transportation",,,
 selfrule.xyz,available,56,72%,9,"Humanities,Law,Politics",,,
-amendatory.xyz,available,56,72%,10,Law,,,
+amendatory.xyz,available,56,4%,10,Law,,,
 directorial.xyz,available,56,72%,11,"Arts,Entertainment,Media",,,
 Highlanddancing.xyz,available,56,8%,16,"Arts,Entertainment,General",,,
 programslicer.xyz,available,56,72%,14,"Engineering,Media,Technology",,,
@@ -4910,6 +4917,7 @@ alphablending.xyz,available,56,72%,14,"General,Media,Technology",,,
 audittrail.xyz,available,56,80%,11,"Business,Finance,Technology",,,
 balloonjuice.xyz,available,56,76%,13,"Entertainment,Food and Beverage,General",,,
 kingsized.xyz,available,56,72%,10,"Fashion,Hospitality,Retail",,,
+woody.xyz,resell,56,36%,5,Agriculture,18/08/2018 08:28,18/08/2029 23:59,West263 International Limited
 executeorder.xyz,available,56,72%,13,"Business,Law,Technology",,,
 BowCreek.xyz,available,56,12%,9,General,,,
 correspondingauthor.xyz,available,56,72%,20,"Education,Media,Science",,,
@@ -5169,7 +5177,7 @@ sourcedomain.xyz,available,54,72%,13,"Education,Technology",,,
 midwestern.xyz,expiring,54,84%,10,"Geography,Real Estate,Travel",24/07/2024 09:00,24/07/2025 23:59,"NameSilo, LLC"
 lamisil.xyz,available,54,80%,7,Pharmaceuticals,,,
 budgetary.xyz,available,54,76%,9,"Business,Education,Finance",,,
-alular.xyz,available,54,72%,6,Science,,,
+alular.xyz,available,54,4%,6,Science,,,
 hitdifferent.xyz,available,54,72%,13,General,,,
 selfconfidently.xyz,available,54,72%,16,"Business,Media",,,
 fala.xyz,resell,54,84%,5,"Entertainment,Media",16/01/2022 01:40,16/01/2027 23:59,Dynadot LLC
@@ -5182,7 +5190,7 @@ crystallochemical.xyz,available,54,72%,17,Science,,,
 artists.xyz,resell,54,36%,7,"Arts,General",02/06/2014 16:11,02/06/2026 23:59,Namecheap
 threescore.xyz,available,54,12%,10,Mathematics,,,
 limitcase.xyz,available,54,72%,10,Mathematics,,,
-allocable.xyz,available,54,76%,9,"Business,Law",,,
+allocable.xyz,available,54,16%,9,"Business,Law",,,
 fattenout.xyz,available,54,72%,10,"Healthcare,Medicine,Pharmaceuticals",,,
 freespeechzone.xyz,available,54,72%,16,"General,Law,Politics",,,
 dripfeed.xyz,expiring,54,80%,9,"Healthcare,Medicine,Technology",29/07/2024 18:42,29/07/2025 23:59,Namecheap
@@ -5247,6 +5255,7 @@ hardshoulder.xyz,available,54,72%,13,"Automotive,Transportation",,,
 choochoos.xyz,available,54,8%,10,"Entertainment,General,Travel",,,
 kennedy.xyz,resell,54,92%,7,"Media,Politics",15/11/2018 10:38,15/11/2029 23:59,Dynadot LLC
 manengine.xyz,available,54,72%,10,"Engineering,Manufacturing",,,
+applicable.xyz,resell,54,32%,10,"Business,Law",12/06/2021 21:09,12/06/2026 23:59,"Xiamen ChinaSource Internet Service Co., Ltd"
 midauction.xyz,available,54,4%,10,Business,,,
 commonwealthman.xyz,available,54,72%,15,General,,,
 seconddown.xyz,available,54,72%,11,Sports,,,
@@ -5362,7 +5371,7 @@ armlike.xyz,available,54,72%,7,Medicine,,,
 pentalpha.xyz,available,54,84%,9,Humanities,,,
 dieselpowered.xyz,available,54,72%,14,"Automotive,Energy,Transportation",,,
 guatemala.xyz,available,54,84%,9,"Business,Geography,Travel",,,
-allopathic.xyz,available,54,76%,10,Medicine,,,
+allopathic.xyz,available,54,12%,10,Medicine,,,
 buffersolution.xyz,available,54,72%,15,"Pharmaceuticals,Science,Technology",,,
 colourwheel.xyz,available,54,72%,12,"Arts,Education,Media",,,
 quatern.xyz,available,54,16%,7,Mathematics,,,
@@ -5736,7 +5745,7 @@ zonalization.xyz,available,54,72%,12,"Geography,Real Estate",,,
 LordMuck.xyz,available,54,16%,9,General,,,
 silverskinonion.xyz,available,54,72%,16,"Agriculture,Food and Beverage,Retail",,,
 greasetheskids.xyz,available,54,72%,16,General,,,
-allomerous.xyz,available,54,72%,10,Science,,,
+allomerous.xyz,available,54,4%,10,Science,,,
 Gartner.xyz,available,54,88%,7,"Business,Media,Technology",,,
 pease.xyz,available,54,88%,5,"Food and Beverage,Humanities,Media",,,
 kingofarms.xyz,available,54,72%,12,Humanities,,,
@@ -5763,7 +5772,7 @@ pentagonalprism.xyz,available,54,72%,16,"Engineering,Mathematics,Science",,,
 craftservices.xyz,available,54,76%,14,Hospitality,,,
 agooddeal.xyz,available,54,72%,11,General,,,
 circlesegment.xyz,available,54,72%,14,"Engineering,Mathematics,Science",,,
-antitrust.xyz,sold,54,80%,9,"Business,Law",15/12/2020 07:44,15/12/2026 23:59,West263 International Limited
+antitrust.xyz,resell,54,44%,9,"Business,Law",15/12/2020 07:44,15/12/2026 23:59,West263 International Limited
 topnotch.xyz,resell,54,32%,8,Business,06/07/2018 16:40,06/07/2027 23:59,Dynadot LLC
 loosening.xyz,available,54,72%,9,"Engineering,Health and Fitness,Medicine",,,
 hotpluggable.xyz,available,54,72%,13,"General,Technology",,,
@@ -5962,7 +5971,7 @@ identitycard.xyz,resell,54,72%,13,"Business,Technology,Telecommunications",17/08
 dragracing.xyz,resell,54,84%,11,Sports,02/06/2014 16:35,02/06/2026 23:59,"Go Daddy, LLC"
 sonochemist.xyz,available,54,72%,11,Science,,,
 withdrawer.xyz,available,54,72%,10,"Banking,Finance,Technology",,,
-setaside.xyz,available,54,76%,9,"Finance,Law",,,
+setaside.xyz,available,54,12%,9,"Finance,Law",,,
 milksugar.xyz,available,54,72%,10,Food and Beverage,,,
 graincorn.xyz,available,54,72%,10,"Agriculture,Food and Beverage",,,
 bottletop.xyz,available,54,76%,10,General,,,
@@ -6004,7 +6013,6 @@ freefrom.xyz,resell,54,80%,9,General,28/10/2024 06:18,28/10/2025 23:59,"GMO Inte
 interleukin.xyz,available,54,76%,11,"Medicine,Pharmaceuticals,Science",,,
 caricaturist.xyz,available,54,76%,12,"Arts,Entertainment,Media",,,
 electriceel.xyz,available,54,76%,12,"Environment,Science",,,
-rangefinder.xyz,resell,54,80%,11,"Engineering,Sports,Technology",05/08/2023 11:46,05/08/2025 23:59,Dynadot LLC
 utilizationreview.xyz,available,53,72%,18,"Business,Healthcare",,,
 highmindedly.xyz,available,53,72%,13,"General,Humanities,Media",,,
 letusgo.xyz,available,53,76%,9,General,,,
@@ -6159,7 +6167,7 @@ urinarycast.xyz,available,52,72%,12,"Healthcare,Medicine,Pharmaceuticals",,,
 citydesk.xyz,available,52,72%,9,"Business,Media,Technology",,,
 accessorized.xyz,available,52,76%,12,Fashion,,,
 Foxcote.xyz,available,52,72%,7,General,,,
-arboriform.xyz,available,52,72%,10,Agriculture,,,
+arboriform.xyz,available,52,8%,10,Agriculture,,,
 GreatDogIsland.xyz,available,52,72%,16,Geography,,,
 lakeleman.xyz,available,52,72%,10,Geography,,,
 ruhr.xyz,available,52,76%,4,"Environment,Geography",,,
@@ -6173,7 +6181,7 @@ frittatas.xyz,available,52,8%,9,Food and Beverage,,,
 tehran.xyz,available,52,84%,6,"Geography,Travel",,,
 smalltown.xyz,available,52,76%,10,"Geography,Real Estate,Travel",,,
 undisputable.xyz,available,52,72%,12,"Business,Law",,,
-arboresque.xyz,available,52,72%,10,Agriculture,,,
+arboresque.xyz,available,52,4%,10,Agriculture,,,
 giveamanafish.xyz,available,52,72%,17,General,,,
 takeoverbid.xyz,available,52,72%,12,"Business,Finance,Law",,,
 parma.xyz,available,52,76%,5,"Food and Beverage,Geography,Travel",,,
@@ -6299,7 +6307,7 @@ briefness.xyz,available,52,72%,9,"Business,Education,Media",,,
 modernistcooking.xyz,available,52,20%,17,"Arts,Food and Beverage,General",,,
 paparazzo.xyz,available,52,76%,9,Media,,,
 elites.xyz,resell,52,60%,6,General,05/08/2014 07:29,05/08/2029 23:59,TLD Registrar Solutions Ltd
-arborous.xyz,available,52,72%,8,Agriculture,,,
+arborous.xyz,available,52,4%,8,Agriculture,,,
 ontheuptake.xyz,available,52,72%,13,"Business,Education,Media",,,
 intractable.xyz,available,52,76%,11,"Education,Media",,,
 homefries.xyz,available,52,76%,10,Food and Beverage,,,
@@ -6344,7 +6352,7 @@ darkbrown.xyz,available,52,72%,10,"Arts,Fashion,Retail",,,
 bathtub.xyz,resell,52,76%,7,"Hospitality,Real Estate,Retail",02/06/2014 16:48,02/06/2026 23:59,"Go Daddy, LLC"
 Batesnumbering.xyz,available,52,8%,15,General,,,
 concertroom.xyz,available,52,72%,12,"Entertainment,Hospitality,Real Estate",,,
-papal.xyz,available,52,76%,5,Religion,,,
+papal.xyz,available,52,20%,5,Religion,,,
 Japanesefoot.xyz,available,52,72%,13,General,,,
 allfunandgames.xyz,available,52,76%,17,General,,,
 bloodpressuremeter.xyz,available,52,8%,20,"General,Healthcare,Medicine",,,
@@ -6410,7 +6418,7 @@ stonegray.xyz,available,52,72%,10,"Arts,Construction,Fashion",,,
 multifaceted.xyz,available,52,84%,12,"Arts,Business",,,
 differentlyable.xyz,available,52,72%,16,"General,Healthcare,Humanities",,,
 heiferette.xyz,available,52,72%,10,"Agriculture,Food and Beverage,Retail",,,
-ameban.xyz,available,52,72%,6,Science,,,
+ameban.xyz,available,52,8%,6,Science,,,
 Kintyre.xyz,available,52,72%,7,General,,,
 merchants.xyz,resell,52,36%,9,"Business,General,Retail",29/08/2014 05:02,29/08/2029 23:59,TLD Registrar Solutions Ltd
 expectable.xyz,available,52,72%,10,"Business,Education,Technology",,,
@@ -6542,8 +6550,6 @@ lubbock.xyz,expiring,52,76%,7,Geography,26/07/2014 05:47,26/07/2025 23:59,GoDadd
 atthemercyof.xyz,available,52,72%,15,"Humanities,Media",,,
 additament.xyz,available,52,72%,10,"Business,Education,Media",,,
 Serangoon.xyz,available,52,72%,9,"Geography,Real Estate",,,
-moneyorders.xyz,available,52,12%,12,"Business,Finance,General",,,
-ratherthan.xyz,available,52,72%,11,"Education,Humanities",,,
 editorlike.xyz,available,51,72%,10,"Education,Media",,,
 racklike.xyz,available,51,72%,8,"Construction,Manufacturing,Retail",,,
 charily.xyz,available,51,72%,7,Education,,,
@@ -6559,7 +6565,7 @@ subactive.xyz,available,50,72%,9,"Healthcare,Pharmaceuticals,Science",,,
 ultrafragile.xyz,available,50,72%,12,"Arts,Entertainment,Media",,,
 invigorating.xyz,resell,50,72%,12,General,11/02/2025 23:09,11/02/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 Colonie.xyz,resell,50,80%,7,"General,Geography,Real Estate",16/06/2024 23:06,16/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
-anginous.xyz,available,50,72%,8,Medicine,,,
+anginous.xyz,available,50,8%,8,Medicine,,,
 donjuan.xyz,resell,50,76%,8,"Arts,Entertainment,Media",13/06/2025 03:19,13/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 Aubriella.xyz,available,50,72%,9,General,,,
 Wetumpka.xyz,available,50,72%,8,General,,,
@@ -6592,7 +6598,7 @@ underserved.xyz,available,50,76%,11,"Business,Education,Healthcare",,,
 milkwhite.xyz,available,50,72%,10,"Arts,Fashion,Food and Beverage",,,
 wausau.xyz,expiring,50,80%,6,"Geography,Real Estate",28/07/2024 15:25,28/07/2025 23:59,PDR Ltd. d/b/a PublicDomainRegistry.com
 dressedtothenines.xyz,available,50,72%,20,"Fashion,General",,,
-faveolate.xyz,available,50,72%,9,Science,,,
+faveolate.xyz,available,50,4%,9,Science,,,
 Atlacomulco.xyz,available,50,72%,11,Geography,,,
 Amazonianepoch.xyz,available,50,4%,15,"Environment,General,Science",,,
 Giniindex.xyz,available,50,72%,10,Mathematics,,,
@@ -6618,7 +6624,7 @@ manycolored.xyz,available,50,4%,12,General,,,
 carousing.xyz,available,50,72%,9,Entertainment,,,
 Elnath.xyz,resell,50,76%,6,General,25/09/2024 20:52,25/09/2025 23:59,"Spaceship, Inc."
 USHL.xyz,available,50,76%,4,Sports,,,
-anorthic.xyz,available,50,72%,8,Science,,,
+anorthic.xyz,available,50,8%,8,Science,,,
 Conibas.xyz,available,50,72%,7,"General,Geography,Real Estate",,,
 gogol.xyz,available,50,80%,5,"Education,Humanities",,,
 filleted.xyz,available,50,72%,8,"Food and Beverage,Manufacturing,Retail",,,
@@ -6645,7 +6651,7 @@ FortLee.xyz,available,50,16%,8,General,,,
 keypresses.xyz,available,50,8%,10,Technology,,,
 Hittitology.xyz,available,50,8%,11,Humanities,,,
 Audrienne.xyz,available,50,72%,9,General,,,
-placatory.xyz,available,50,72%,9,Politics,,,
+placatory.xyz,available,50,12%,9,Politics,,,
 centricalness.xyz,available,50,4%,13,General,,,
 rightmost.xyz,available,50,72%,9,"Engineering,Mathematics,Science",,,
 allexpense.xyz,available,50,72%,11,Finance,,,
@@ -6684,7 +6690,7 @@ sterilised.xyz,available,50,76%,10,"Healthcare,Medicine,Pharmaceuticals",,,
 yahooish.xyz,available,50,72%,8,"Media,Technology",,,
 sharpie.xyz,available,50,88%,7,Arts,,,
 MasonCity.xyz,available,50,12%,10,General,,,
-excusatory.xyz,available,50,72%,10,Law,,,
+excusatory.xyz,available,50,8%,10,Law,,,
 assuringly.xyz,available,50,72%,10,"Business,Education,Healthcare",,,
 NPAPI.xyz,available,50,72%,5,Technology,,,
 shelley.xyz,resell,50,76%,7,Arts,07/06/2020 13:37,07/06/2026 23:59,Dynadot LLC
@@ -6712,7 +6718,7 @@ leanburn.xyz,available,50,72%,9,"Automotive,Energy,General",,,
 laborious.xyz,expiring,50,76%,9,Business,29/07/2023 00:11,29/07/2025 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 smileproof.xyz,available,50,72%,10,Entertainment,,,
 maintenancefree.xyz,available,50,76%,16,General,,,
-analytical.xyz,sold,50,76%,10,"Mathematics,Science",15/01/2019 04:11,15/01/2027 23:59,Dynadot LLC
+analytical.xyz,resell,50,28%,10,"Mathematics,Science",15/01/2019 04:11,15/01/2027 23:59,Dynadot LLC
 judaea.xyz,resell,50,72%,6,Religion,03/04/2025 04:34,03/04/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 Cononie.xyz,available,50,72%,7,"General,Geography,Real Estate",,,
 winnipeg.xyz,resell,50,80%,8,Geography,11/01/2021 06:10,11/01/2026 23:59,Dynadot LLC
@@ -6737,7 +6743,7 @@ CardiffBay.xyz,available,50,12%,11,Travel,,,
 hotpantsed.xyz,available,50,4%,11,"Fashion,General",,,
 Whittlesea.xyz,available,50,72%,10,General,,,
 Starker.xyz,expiring,50,72%,7,"Business,Finance,Real Estate",02/08/2014 16:24,02/08/2025 23:59,Cronon GmbH
-ametropic.xyz,available,50,72%,9,Healthcare,,,
+ametropic.xyz,available,50,4%,9,Healthcare,,,
 crept.xyz,available,50,72%,5,General,,,
 artesian.xyz,sold,50,80%,8,"Engineering,Science",21/04/2020 09:39,21/04/2026 23:59,West263 International Limited
 musta.xyz,resell,50,76%,5,"Entertainment,Media",04/11/2024 13:31,04/11/2025 23:59,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD."
@@ -6764,7 +6770,7 @@ forehand.xyz,available,50,84%,8,"Business,Media,Sports",,,
 Conboy.xyz,available,50,84%,6,"General,Geography,Real Estate",,,
 carbonsubnitride.xyz,available,50,72%,17,"Pharmaceuticals,Science,Technology",,,
 hookandbullet.xyz,available,50,76%,15,"General,Media,Sports",,,
-arboreous.xyz,available,50,76%,9,Agriculture,,,
+arboreous.xyz,available,50,20%,9,Agriculture,,,
 whiskyish.xyz,available,50,72%,9,"Food and Beverage,Hospitality,Retail",,,
 meditatively.xyz,available,50,72%,12,"Health and Fitness,Humanities",,,
 Kielce.xyz,available,50,80%,6,General,,,
@@ -7201,8 +7207,6 @@ GroveHill.xyz,available,48,72%,10,"Business,General,Geography",,,
 Sukabumi.xyz,available,48,76%,8,"Business,Geography,Travel",,,
 jungletourism.xyz,available,48,0%,14,"General,Hospitality,Travel",,,
 Kinrossshire.xyz,available,48,72%,13,General,,,
-amarillo.xyz,expiring,48,84%,8,"Geography,Real Estate,Travel",26/07/2014 05:46,26/07/2025 23:59,GoDaddy Online Services Cayman Islands Ltd.
-GrovePark.xyz,available,48,84%,10,"Business,General,Geography",,,
 launchpads.xyz,resell,47,36%,10,"General,Technology,Transportation",13/05/2025 04:40,13/05/2026 23:59,Namecheap
 phosphoruslike.xyz,available,47,72%,14,"Agriculture,Pharmaceuticals,Science",,,
 cajolingly.xyz,available,47,72%,10,Education,,,
@@ -7437,7 +7441,6 @@ luckiest.xyz,available,46,56%,8,General,,,
 innsbruck.xyz,expiring,46,80%,9,"Geography,Sports,Travel",18/07/2020 23:38,18/07/2025 23:59,1API GmbH
 cornered.xyz,available,46,80%,8,"Business,Law",,,
 wishfully.xyz,available,46,72%,9,"Humanities,Media",,,
-Copgrove.xyz,available,46,72%,8,"General,Geography,Real Estate",,,
 launchingways.xyz,available,45,72%,14,"General,Technology,Transportation",,,
 letterings.xyz,available,45,8%,10,General,,,
 marriagebureau.xyz,available,44,76%,15,"Business,General,Hospitality",,,
@@ -7588,7 +7591,6 @@ cohesively.xyz,available,44,76%,10,"Business,Media,Technology",,,
 fingersplint.xyz,available,44,72%,13,"General,Healthcare,Sports",,,
 berrybutton.xyz,available,44,72%,12,"Fashion,Food and Beverage,Retail",,,
 everythingelse.xyz,available,44,28%,15,General,,,
-Enbilulugugal.xyz,available,44,72%,13,General,,,
 goalring.xyz,available,43,12%,9,Sports,,,
 lathstrapping.xyz,available,42,4%,14,Construction,,,
 adhocly.xyz,available,42,76%,8,General,,,
@@ -9997,5 +9999,3 @@ prokaryota.xyz,available,,8%,10,,,,
 supposition.xyz,resell,,72%,11,,20/06/2025 03:56,20/06/2026 23:59,"GMO Internet Group, Inc. d/b/a Onamae.com	"
 overrode.xyz,available,,72%,8,,,,
 retakes.xyz,available,,12%,7,,,,
-WyandotCounty.xyz,available,,12%,14,,,,
-womanwise.xyz,available,,76%,9,,,,
