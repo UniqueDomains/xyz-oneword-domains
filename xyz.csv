@@ -26,14 +26,14 @@ d02a30da-e517-40a5-8fbb-9f93d8a0840d,ABCtransporter.xyz,available,43,72,15,,,
 0774093b-a6ce-4b4a-9c1d-822db8e2ee2a,abdicable.xyz,available,50,1,9,,,
 96de2e0d-971e-405a-b670-485178260d41,Abdinasir.xyz,available,46,72,9,,,
 c361d826-fe0e-46bb-b7e9-f104938b8732,Abdollah.xyz,available,46,72,8,,,
-0a5f58c8-435f-4fec-9341-95a93ec6182b,abdomen.xyz,available,66,76,7,,,
+0a5f58c8-435f-4fec-9341-95a93ec6182b,abdomen.xyz,premium,66,76,7,,,
 880c09e7-ad5b-4c66-8bee-456a6d9e806c,abdominalcavity.xyz,available,54,72,16,,,
 fa2a65e3-e572-4d3b-9078-8f3605331445,abdominalwall.xyz,available,54,72,14,,,
 8e823537-244e-4c8e-8d17-4b0c03518064,abdominous.xyz,available,56,1,10,,,
 3a2dcebc-a410-43c2-8f1f-2c548f1a5a68,abducens.xyz,available,54,1,8,,,
 ecbac20f-5225-43c1-8d8c-15948740924c,abducent.xyz,available,68,1,8,,,
 34671f73-2228-4964-a41f-479e6dd4d806,abducting.xyz,available,50,1,9,,,
-f4141b54-848c-4d70-bbf4-3d4fa6451efc,abed.xyz,available,60,80,4,,,
+f4141b54-848c-4d70-bbf4-3d4fa6451efc,abed.xyz,premium,60,80,4,,,
 462306e3-0c04-4cf0-918b-ad0df2dccac8,AbeLincoln.xyz,resell,68,80,11,"GMO Internet Group, Inc. d/b/a Onamae.com	",23/04/2025 11:46,23/04/2026 23:59
 5f80195d-3d8f-476f-83f0-6d7c5df8f877,abenaki.xyz,available,82,3,7,,,
 dd1cbb33-6b23-4815-9c13-6b861cadfb5f,Abercrombie.xyz,resell,52,88,11,"Automattic Inc. ",02/09/2021 00:57,02/09/2026 23:59
@@ -1012,7 +1012,7 @@ bfed5d6b-c073-42b3-b6b6-face68122b28,afebrile.xyz,available,64,1,8,,,
 b247b5a9-f040-41e9-a3db-b143c5137728,affability.xyz,resell,62,72,10,"GMO Internet Group, Inc. d/b/a Onamae.com	",15/04/2025 22:15,15/04/2026 23:59
 15a43b7f-7e01-4b76-b392-538f05d1fcc2,affably.xyz,available,58,72,7,,,
 9d1b9d54-097d-4df0-a943-2a5d7e8844c6,affair.xyz,resell,63,80,6,"Go Daddy, LLC",07/09/2015 23:06,07/09/2025 23:59
-1c9f10c7-96ea-4309-b229-4dd36518e5fe,affect.xyz,resell,97,10,6,"Go Daddy, LLC",02/06/2014 16:33,02/06/2026 23:59
+1c9f10c7-96ea-4309-b229-4dd36518e5fe,affect.xyz,resell,97,9,6,"Go Daddy, LLC",02/06/2014 16:33,02/06/2026 23:59
 baeb4dfa-44d4-4a1e-8807-cd649efe9b83,affectionate.xyz,available,98,76,12,,,
 4f236f67-8d8a-456f-a169-453d947aecce,affectionately.xyz,resell,56,72,14,"GMO Internet Group, Inc. d/b/a Onamae.com	",20/06/2024 06:33,20/06/2026 23:59
 c2e8778c-71b5-4cbe-887d-5b46958dd489,affectioned.xyz,available,60,72,11,,,
@@ -1262,7 +1262,7 @@ a53e96cd-5223-43c5-8d88-bdca73fe28ad,airlocks.xyz,resell,36,20,8,"GMO Internet G
 60313028-fc41-4edf-a2ba-836a8a1790d0,airout.xyz,available,72,76,7,,,
 c537832a-b1e0-4a58-b055-45883d0df8a7,airphoto.xyz,resell,70,88,9,Dominet (HK) Limited,19/05/2025 04:17,19/05/2026 23:59
 16df850b-0794-4f09-a06c-0e5fbd5f374e,airphotograph.xyz,available,58,72,14,,,
-559d9c30-cd38-4252-ba97-cfc0af72d287,airplane.xyz,resell,91,14,8,"Go Daddy, LLC",02/06/2014 16:44,02/06/2026 23:59
+559d9c30-cd38-4252-ba97-cfc0af72d287,airplane.xyz,resell,91,13,8,"Go Daddy, LLC",02/06/2014 16:44,02/06/2026 23:59
 5e0c9a9f-5dc8-4658-8265-9a96aa75caf6,airpocket.xyz,resell,56,72,10,"GMO Internet Group, Inc. d/b/a Onamae.com	",25/03/2025 02:56,25/03/2026 23:59
 da476eca-91b0-4977-abc1-305ebab8e628,airportlounge.xyz,resell,58,72,14,Dynadot LLC,30/06/2025 14:06,30/06/2026 23:59
 b8507763-b872-451e-bd18-8e17c14bc5f3,airportnovel.xyz,available,73,72,13,,,
@@ -1346,7 +1346,6 @@ f277513e-ba8d-4057-8136-5f7862683e26,albinal.xyz,available,56,1,7,,,
 ff67144b-389f-4c01-a9c3-6bd8393d8358,albumtrack.xyz,available,62,72,11,,,
 d9d6b139-38a9-41ae-9b5a-9990c5c85054,albuterol.xyz,available,58,72,9,,,
 87d63e14-01ff-4f9e-bb28-8948f8b76d9e,alchemic.xyz,resell,52,6,8,"Xiamen ChinaSource Internet Service Co., Ltd",10/01/2025 00:03,10/01/2026 23:59
-655858f2-9b57-45c4-8fae-7a4ccf540b0a,alcohol.xyz,resell,80,16,7,Dynadot LLC,18/08/2018 23:20,18/08/2029 23:59
 51821699-d865-4ac8-a86b-f4b16677a03c,alcoholbyvolume.xyz,available,62,72,17,,,
 f2e692c3-5199-4ede-9d2c-5e8ffae5e8d9,alcoholfree.xyz,resell,66,20,12,West263 International Limited,05/02/2025 20:35,05/02/2026 23:59
 737c8ccb-eb7c-4623-b4da-5e121c1a5160,alcoholic.xyz,available,72,7,9,,,
@@ -1717,7 +1716,7 @@ a0a9a55d-b6f0-4d7d-bc52-c30a4924d43d,alodiary.xyz,available,54,72,8,,,
 542515ae-c0ce-4a2c-82ed-e9b8f1497272,aloneinacrowd.xyz,available,40,72,16,,,
 a25501af-d8bf-419c-b7fc-1d1aaeedcee4,aloneinthedark.xyz,available,72,72,17,,,
 af49ab7e-e82c-48d1-b20e-8ea78ef1c16e,alonely.xyz,available,66,76,7,,,
-f9e7f583-443a-4dff-ad18-001efe60a1c7,along.xyz,resell,66,9,5,"Go Daddy, LLC",02/06/2014 16:45,02/06/2026 23:59
+f9e7f583-443a-4dff-ad18-001efe60a1c7,along.xyz,resell,66,7,5,"Go Daddy, LLC",02/06/2014 16:45,02/06/2026 23:59
 60a5344f-c766-40ff-9d51-eda03a3db5cb,alongsideof.xyz,available,38,72,12,,,
 ae84e5ff-d62c-4b68-abcc-81ce7f8355ba,alongthelines.xyz,available,42,72,15,,,
 e7b8f7dc-da4d-4939-8148-d07a0db4c958,alongthelinesof.xyz,available,42,72,18,,,
@@ -1735,7 +1734,6 @@ c1f0b5f4-7fa5-4c63-940f-646b8ee6f0d0,aloof.xyz,resell,66,5,5,Dynadot LLC,16/05/2
 1e5497de-fdfb-4723-ba2d-f4a0a6f5a252,alot.xyz,resell,88,12,5,West263 International Limited,27/03/2020 03:00,27/03/2027 23:59
 f3be8152-582d-4d95-9669-f0602ecfe3b1,alotof.xyz,resell,56,84,8,"Nicnames, Inc.",29/06/2025 20:04,29/06/2026 23:59
 6815fc7e-315a-450b-bb49-22a6caa3290b,alotofbit.xyz,available,54,72,12,,,
-c0c324c9-3880-4d9d-bb29-1b15c077b803,aloud.xyz,resell,72,8,5,West263 International Limited,05/07/2020 21:17,05/07/2027 23:59
 50d6dc9e-1e7f-42a9-ab4c-1754878e99f7,alpenglows.xyz,available,42,12,10,,,
 2b006542-87fe-43ec-bb3c-83bf8e8f1495,alpestrine.xyz,available,46,1,10,,,
 68510aad-04e2-4e1b-a227-e6d7dff58f32,alphaaminoacid.xyz,available,52,72,16,,,
@@ -2049,7 +2047,7 @@ f560ec56-8821-47f3-aff4-a81d37ffe5c6,amoristic.xyz,available,46,1,9,,,
 4f6c6221-429a-4613-b7f3-9ee4a9ac8681,amorously.xyz,available,50,72,9,,,
 7c98f0f5-2cc4-4e16-97ec-c82e4a19ca21,amortise.xyz,available,64,72,8,,,
 b5151747-cea5-4d1e-a352-e475e8a999f7,amortize.xyz,resell,64,80,8,Dynadot LLC,03/12/2022 01:05,03/12/2025 23:59
-8bb7f91c-30fe-4910-bffa-e84d0e5eb2f1,amount.xyz,resell,102,6,6,"Go Daddy, LLC",02/06/2014 16:45,02/06/2026 23:59
+8bb7f91c-30fe-4910-bffa-e84d0e5eb2f1,amount.xyz,resell,102,5,6,"Go Daddy, LLC",02/06/2014 16:45,02/06/2026 23:59
 ed75c0c5-f536-44ad-b356-6f747c255500,amphibiouscar.xyz,available,64,72,14,,,
 5428a0fb-ed53-49db-9216-b6ecec5064c2,amphibiously.xyz,available,44,72,12,,,
 9340952b-a02a-4d07-af5e-2760a9e9a7ab,amphiesmenopteran.xyz,available,54,72,17,,,
@@ -2234,7 +2232,7 @@ d7699c4c-975d-46df-9bf8-ef99e11656e5,anger.xyz,resell,80,12,5,Dynadot LLC,28/02/
 780eafbe-cb55-47dc-95ee-f1f4f6313325,anginal.xyz,available,54,1,7,,,
 3d11acfb-f05b-46da-82fa-4aa61fa02fef,anginose.xyz,available,50,2,8,,,
 01178d2d-d7cf-4851-a5ce-d25b526b1657,anginous.xyz,available,50,1,8,,,
-39eac03f-3050-49cc-9ec2-e0e32dd4fd5d,angle.xyz,resell,74,17,5,"Go Daddy, LLC",02/06/2014 16:45,02/06/2031 23:59
+39eac03f-3050-49cc-9ec2-e0e32dd4fd5d,angle.xyz,resell,74,15,5,"Go Daddy, LLC",02/06/2014 16:45,02/06/2031 23:59
 ec997632-8634-4604-a8c9-80cc42eaa6cc,anglebisector.xyz,available,54,72,14,,,
 7fc509a0-564d-4841-a89e-a56c86f88b98,anglegrinder.xyz,available,56,72,13,,,
 4fbe87f0-4bf3-445b-a852-12cb074bbfb2,angleiron.xyz,available,56,72,10,,,
@@ -2668,7 +2666,6 @@ c2efc1b6-3e9a-4f38-be44-561421b05c82,appraisers.xyz,resell,46,,10,"Go Daddy, LLC
 eed19013-7502-4e9c-bbd9-d8b67a634ef2,appraises.xyz,available,46,4,9,,,
 30466157-3f40-4957-99a7-d0bd013d4c8d,appreciability.xyz,available,62,4,14,,,
 da5c49b4-a8bb-464b-a73f-05057a8283b3,appreciableness.xyz,available,62,4,15,,,
-8b02e74b-413e-4fa6-885e-a97ef0adcc97,appreciate.xyz,resell,84,9,10,Dynadot LLC,20/05/2019 03:53,20/05/2027 23:59
 b301d656-2c55-4071-9c6e-cca6f24288de,appreciatingly.xyz,available,52,72,14,,,
 2268b819-e56a-407e-b123-8c8e74274103,appreciative.xyz,available,70,76,12,,,
 6ebce5c4-dc9b-427f-bdfc-fad5dc4ce085,appreciatively.xyz,available,48,72,14,,,
@@ -3239,7 +3236,6 @@ fd527fff-c583-4d03-bb30-414bfd4137f0,assesses.xyz,available,46,20,8,,,
 17379a1d-659b-41a2-95b2-2a46512fdc82,assessible.xyz,available,52,76,10,,,
 ee7a4f16-712f-421e-a3a7-8eac5b6f6211,assessing.xyz,available,64,16,9,,,
 513da677-3612-4dcd-a9e7-01785186ec66,assessor.xyz,available,58,76,8,,,
-904d548c-ff19-4ce9-83c3-12d756972ab3,asset.xyz,resell,72,32,5,"Go Daddy, LLC",08/07/2022 21:38,08/07/2026 23:59
 064ade6e-db7f-4e17-9566-3de5cd542412,assets.xyz,resell,72,88,6,Namecheap,16/06/2014 19:40,16/06/2026 23:59
 4a8d9bb5-60cf-4658-8657-ee41d210ca04,assetstripping.xyz,available,68,72,15,,,
 a7d32df0-1c63-4461-b68c-898e629083ba,assiduous.xyz,resell,50,4,9,"Xiamen ChinaSource Internet Service Co., Ltd",17/04/2022 07:31,17/04/2026 23:59
@@ -3279,7 +3275,6 @@ fd391057-932a-42bd-9e64-973537c5b6ca,assuage.xyz,available,66,76,7,,,
 71b43009-1260-4975-a5a5-3346ab4f9787,assuaging.xyz,available,58,72,9,,,
 f9d77b92-5ed4-4744-869a-d88bde075703,assuasive.xyz,available,68,1,9,,,
 537761cf-1955-4e6f-92a7-ebcaea48c7d9,assuch.xyz,available,58,72,7,,,
-31aef862-fcfb-4ea3-8272-a628cff3c12c,assume.xyz,resell,76,8,6,"Xiamen ChinaSource Internet Service Co., Ltd",27/07/2021 23:52,27/07/2026 23:59
 88fd3c3e-9590-4918-a1fe-6437cd63e0d5,assumed.xyz,resell,48,3,7,Dynadot LLC,20/06/2025 07:11,20/06/2026 23:59
 25c8a7a5-86bf-4503-b2c4-708abc6739f9,assumedly.xyz,available,52,72,9,,,
 14377127-17e5-4a92-b38a-e927e266430a,assumedname.xyz,available,54,72,12,,,
@@ -3874,7 +3869,6 @@ f185b046-a3b8-4efb-aa26-125d8cc940d0,avifaunal.xyz,available,52,1,9,,,
 c0aae9fc-275e-4684-98ad-d9344f07460d,awaits.xyz,available,46,32,6,,,
 359864fa-cf72-4fea-983d-aac3fc077d09,awake.xyz,resell,100,35,5,"Go Daddy, LLC",02/06/2014 16:47,02/06/2026 23:59
 ba44e26d-0176-48aa-9bd8-7fc8de900b39,awakes.xyz,resell,52,28,6,"GMO Internet Group, Inc. d/b/a Onamae.com	",17/06/2024 05:57,17/06/2026 23:59
-083b1953-7524-439d-9314-dd5f8e987dcc,award.xyz,resell,104,19,5,Dynadot LLC,21/08/2015 00:37,21/08/2029 23:59
 e965b219-c1ae-4f80-b451-b5a72c89eac6,awardceremony.xyz,available,58,72,14,,,
 d9be3b37-e5ab-48f0-ac91-d4a1ecf62c6e,awardsceremony.xyz,available,58,72,15,,,
 bbdec883-d641-4ee0-a935-0816c7efac39,awardwinning.xyz,available,56,76,13,,,
@@ -4283,7 +4277,6 @@ fa2586cc-e4f9-4aca-807d-08063c45e55c,bakingware.xyz,available,58,4,10,,,
 5928ddc3-63ad-4b63-91a2-57365a4c1cd9,baklavalike.xyz,available,60,4,12,,,
 1d1a4bb8-e45b-439b-bc8d-6f80eb2622ec,baku.xyz,resell,52,88,4,Epik LLC,25/03/2018 16:18,25/03/2026 23:59
 57ece205-fbce-4665-b656-4b6bd9d55fbe,balaclava.xyz,available,48,76,9,,,
-250e753b-40bc-43a0-ab5b-2a8d73d40d21,balance.xyz,resell,100,33,7,"Sav.com, LLC",27/11/2021 00:45,27/11/2025 23:59
 43155e4d-aa5f-459a-92d1-34b64db3ba08,balanced.xyz,resell,74,14,8,TLD Registrar Solutions Ltd,27/07/2014 04:32,27/07/2030 23:59
 ff80f823-da76-4b61-911a-35d151cd81a2,balconied.xyz,available,45,1,9,,,
 2fa90137-6231-41a9-9037-6a1fb0446b56,bald.xyz,resell,41,13,4,"Go Daddy, LLC",02/06/2014 16:48,02/06/2026 23:59
@@ -4821,7 +4814,7 @@ a1f82e73-b941-4306-b181-964f38feb06e,batholite.xyz,available,52,72,9,,,
 8f872386-27ca-4918-aa7b-fad25071e212,batholith.xyz,available,52,76,9,,,
 abd58d2a-78fc-41c7-ac14-38c4787980eb,batholitic.xyz,available,36,1,10,,,
 14d6fc34-9fe8-496c-bdc5-a5e4d1145083,bathplug.xyz,available,58,72,8,,,
-ab7adbbe-3cca-4509-83e9-78acf6148159,bathroom.xyz,resell,94,13,8,West263 International Limited,17/08/2020 00:55,17/08/2026 23:59
+ab7adbbe-3cca-4509-83e9-78acf6148159,bathroom.xyz,resell,94,10,8,West263 International Limited,17/08/2020 00:55,17/08/2026 23:59
 69ce02c4-fb09-4dde-85c5-a857af2372fc,bathroombreak.xyz,available,58,72,14,,,
 c257026c-0126-4c48-8a40-eedaa62b1841,bathrooms.xyz,resell,50,36,9,"Go Daddy, LLC",02/06/2014 16:34,02/06/2026 23:59
 505917b6-ccc7-4c81-a1e8-b6b538475cdc,bathsalts.xyz,available,34,76,10,,,
@@ -5274,7 +5267,7 @@ d7906034-c654-4c39-bccd-c05823d55986,bellywhopper.xyz,available,54,72,13,,,
 7fdcf6fa-7cbd-4b2d-8ef4-2d66f7269e1e,belong.xyz,resell,80,88,6,Squarespace Domains II LLC,02/06/2014 16:50,02/06/2026 23:59
 6a91c25e-dccb-4fc7-aeb9-043a74750965,belongings.xyz,available,68,76,10,,,
 693867c1-29b6-4e54-82c1-f28d83bb6504,belongto.xyz,available,70,84,9,,,
-ce70f3ee-e346-4a29-9e2c-2332545c1339,below.xyz,resell,66,12,5,"Go Daddy, LLC",02/06/2014 16:50,02/06/2026 23:59
+ce70f3ee-e346-4a29-9e2c-2332545c1339,below.xyz,resell,66,7,5,"Go Daddy, LLC",02/06/2014 16:50,02/06/2026 23:59
 bb658bb0-1d1f-43f1-8c61-b175cbab159d,belt.xyz,resell,80,13,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/09/2017 11:53,06/09/2026 23:59
 d443c8f9-923b-4434-9291-eefa28cd5dc9,beltfish.xyz,available,54,72,8,,,
 e6801339-73f1-414c-8b79-0697652aac34,beltful.xyz,available,58,72,7,,,
@@ -6040,7 +6033,7 @@ d4fd79a0-f36e-4c2d-b92a-bfdb7be8f952,bloke.xyz,resell,58,88,5,Dynadot LLC,05/07/
 4fa3bf32-f709-4c59-a5bd-9ede53694829,blondbombshell.xyz,available,40,76,15,,,
 e2ad4e20-5310-4d9c-b9b0-b3acc53eaeb4,blonde.xyz,resell,110,11,6,"Go Daddy, LLC",02/06/2014 16:51,02/06/2026 23:59
 8edf1302-3e86-4037-85a5-62bb0685a2eb,blondlace.xyz,available,58,76,10,,,
-a2a1e260-eac5-407e-a7fa-71ba77de06c3,blood.xyz,resell,78,21,5,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",29/10/2017 00:04,29/10/2025 23:59
+a2a1e260-eac5-407e-a7fa-71ba77de06c3,blood.xyz,resell,78,18,5,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",29/10/2017 00:04,29/10/2026 23:59
 e8286311-9dd1-4f1e-8497-0f756a1a86bc,bloodcell.xyz,available,54,72,10,,,
 fc571bbe-7b94-41b4-9ece-485f7c7f7b87,bloodcells.xyz,available,36,8,11,,,
 05bec509-3817-4642-bd2a-836f3355ce0c,bloodcount.xyz,available,56,72,11,,,
@@ -6085,7 +6078,6 @@ e4bd96ac-eb6f-4b3d-b19c-7ebb8e99bf4b,bloomery.xyz,resell,52,80,8,Dynadot LLC,08/
 1da637e0-47b1-44a2-a753-0571e0dccfb7,Bloomie.xyz,resell,56,84,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),13/02/2025 07:56,13/02/2026 23:59
 96888f20-8f14-493e-a8da-d12b080a0d4b,blooms.xyz,resell,38,48,6,TLD Registrar Solutions Ltd,23/10/2014 06:09,23/10/2029 23:59
 6fd8d2de-538b-44ef-b355-cf3b8e28907b,blooperreel.xyz,available,62,72,12,,,
-f07201bd-5d02-4f82-b432-8fa25d1b76c0,blossom.xyz,resell,76,31,7,Dynadot LLC,15/11/2018 23:06,15/11/2030 23:59
 c49ed520-ba3c-46b1-a928-d6ee1bf2a6d0,blot.xyz,resell,78,88,4,Dynadot LLC,30/04/2021 23:48,30/04/2026 23:59
 a2d98977-6230-4db0-bd9e-99b03b8d5955,blotting.xyz,resell,56,76,8,"GMO Internet Group, Inc. d/b/a Onamae.com	",20/06/2024 06:29,20/06/2026 23:59
 e170237c-fae8-4f0d-98ec-9a6fbb265101,blouson.xyz,available,64,76,7,,,
@@ -6098,7 +6090,7 @@ d3d5b043-fe3b-4a54-8e33-4920324c5239,blowmedown.xyz,available,68,72,12,,,
 bd1b62df-b676-42ec-9e68-41f5e4a6abef,blownglass.xyz,available,52,68,11,,,
 d2cc913b-fc88-47e7-9c3f-25c749378f1f,blownup.xyz,available,40,12,8,,,
 c0514ade-b085-42e8-924c-b87130ed3506,blowoff.xyz,available,56,72,8,,,
-975b13e8-026d-4eca-a9bf-2c9d79ad2785,blowout.xyz,resell,80,13,7,"Go Daddy, LLC",28/07/2019 11:37,28/07/2026 23:59
+975b13e8-026d-4eca-a9bf-2c9d79ad2785,blowout.xyz,resell,80,5,7,"Go Daddy, LLC",28/07/2019 11:37,28/07/2026 23:59
 12eda2f9-c571-4474-84e4-30a01f082949,blowoutsale.xyz,available,62,72,12,,,
 45a8beda-68fd-4620-b506-d8533706d15d,blowover.xyz,available,54,72,9,,,
 df8db130-5276-48a7-85cd-1672274ed4db,blowsnake.xyz,available,56,72,10,,,
@@ -6546,7 +6538,7 @@ bafddd23-93f3-4361-af49-7091cc80c5f9,bookwrap.xyz,available,42,12,9,,,
 024e7c6c-7bd9-4a52-aa8f-6d93a4717626,Booleanfunction.xyz,available,56,72,16,,,
 e8334473-c032-426e-b78f-7baa936c03f9,Booleanring.xyz,available,60,72,12,,,
 60a18bb7-1e4d-4a1a-8787-3053d6b6d9b4,Booleanvariable.xyz,available,56,72,16,,,
-3d53367b-13a0-4988-ab08-55ff009cce50,boom.xyz,resell,71,42,4,"Go Daddy, LLC",02/06/2014 16:52,02/06/2031 23:59
+3d53367b-13a0-4988-ab08-55ff009cce50,boom.xyz,resell,71,37,4,"Go Daddy, LLC",02/06/2014 16:52,02/06/2031 23:59
 f4f23b1d-ac25-4a50-8925-babd1cafe421,boomandbust.xyz,available,56,72,13,,,
 44d44462-cdcf-4d31-bf0d-50ffaff2d3b9,boomboxes.xyz,resell,48,12,9,"GMO Internet Group, Inc. d/b/a Onamae.com	",29/05/2025 17:57,29/05/2026 23:59
 241581a5-6eb7-437e-be3d-d2933237cf94,boombust.xyz,available,78,72,9,,,
@@ -6586,7 +6578,6 @@ ea2601d6-a79b-42d5-a1dd-465569321f53,bordelaise.xyz,available,76,72,10,,,
 75f060b9-ba3b-4d5d-a37a-bc0a41435057,borderguard.xyz,available,54,72,12,,,
 374a72a1-1dd1-4c0c-9141-d726a4e017fc,bordering.xyz,available,74,72,9,,,
 9eb73ff3-8414-42c1-ae1e-1564daf27379,borderon.xyz,available,66,68,9,,,
-2349a8f4-e3a4-4895-a99f-fe489dc3a7ea,bore.xyz,resell,82,13,4,Dynadot LLC,27/03/2018 12:33,27/03/2027 23:59
 646f4119-192e-4f27-8fe1-64d852e82dfb,borescope.xyz,available,54,76,9,,,
 e8a52156-da78-4c05-b519-5abb9ebd0d1d,borewater.xyz,available,54,72,10,,,
 dec3b8bf-e87a-47cd-8f06-991c8ed7fa9f,borganism.xyz,available,54,72,9,,,
@@ -7988,7 +7979,7 @@ b9767fe3-cbe3-447f-b528-3e65cef2d6a6,bustraps.xyz,available,34,4,9,,,
 875ceb16-2e58-4a97-9fc2-fc1b91a686cd,busyasabeaver.xyz,available,38,72,16,,,
 729ed9f7-12c5-4653-b2ec-aea62d626fef,busyasabee.xyz,available,52,72,13,,,
 35d93b5e-bd93-4044-a2a4-01d9788d306d,busybee.xyz,resell,58,80,8,Dynadot LLC,06/12/2019 23:54,06/12/2027 23:59
-aa4c78ed-9c35-431f-b957-97415a5b560a,but.xyz,resell,70,16,3,Namecheap,01/06/2019 03:09,01/06/2026 23:59
+aa4c78ed-9c35-431f-b957-97415a5b560a,but.xyz,resell,70,14,3,Namecheap,01/06/2019 03:09,01/06/2026 23:59
 6f5f8ade-ef75-4dec-94fe-29af3b4094f6,butandben.xyz,available,60,72,11,,,
 6af68fae-cb24-451d-b8f4-85ec9b7a9434,Butaritari.xyz,available,48,72,10,,,
 c148e679-8aaa-4604-bd96-80b173dc55cd,butchqueen.xyz,available,52,72,11,,,
@@ -8821,7 +8812,7 @@ fb4609d1-3eb5-4824-baff-1efe0ec7998e,cargoliner.xyz,available,56,80,11,,,
 ed0af859-9e6d-4b16-9313-a682b6c4a838,Carnegielibrary.xyz,available,66,76,16,,,
 3c14dcef-68e5-42f9-bf29-b1e58cae508e,carnelian.xyz,resell,56,76,9,"GMO Internet Group, Inc. d/b/a Onamae.com	",23/05/2025 00:09,23/05/2026 23:59
 d4bc7e7e-7a9d-4f63-b3d7-69b9e5acb257,carnify.xyz,available,58,72,7,,,
-4f7e6953-229f-4b58-a721-27baaa4af1fe,carnival.xyz,resell,88,19,8,"Spaceship, Inc.",02/06/2014 18:24,02/06/2026 23:59
+4f7e6953-229f-4b58-a721-27baaa4af1fe,carnival.xyz,resell,88,18,8,"Spaceship, Inc.",02/06/2014 18:24,02/06/2026 23:59
 46ce5fd0-fcd4-4a2e-8e64-34705c7625ff,carnivore.xyz,resell,50,80,9,"Sav.com, LLC",23/04/2022 15:49,23/04/2026 23:59
 31d9790a-d1c6-47e5-983e-eff7b4cd5c70,carnivores.xyz,resell,46,36,10,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",04/11/2024 12:09,04/11/2025 23:59
 660ae61f-7050-426e-849b-710c95fe71cd,carol.xyz,available,66,84,5,,,
@@ -8875,7 +8866,7 @@ ad611bf1-673b-4898-9f37-df9acb78fac0,carriedaway.xyz,available,54,76,12,,,
 d5e8e822-ad98-4e48-8bf6-d858314e98c8,carrot.xyz,resell,86,84,6,Dynadot LLC,28/10/2016 04:08,28/10/2030 23:59
 0830d00b-ecad-48d4-a7ae-804f45045bff,carrotdog.xyz,available,60,72,10,,,
 6d74adf1-594e-41c8-bd23-7afe8e691131,carrots.xyz,resell,60,28,7,"Go Daddy, LLC",02/06/2014 16:54,02/06/2026 23:59
-845b363b-b9f2-455a-be13-5a5925257413,carry.xyz,resell,58,16,5,"Go Daddy, LLC",02/06/2014 17:32,02/06/2026 23:59
+845b363b-b9f2-455a-be13-5a5925257413,carry.xyz,resell,58,15,5,"Go Daddy, LLC",02/06/2014 17:32,02/06/2026 23:59
 542698d7-ccbf-4e13-9a26-a9e218954a3d,carryalls.xyz,available,38,8,9,,,
 add189d5-eb88-4864-b5b0-b74ea02878a5,carryaway.xyz,available,66,72,10,,,
 9d472991-b17d-4ab3-923f-7a7c834a45da,carryback.xyz,available,64,72,10,,,
@@ -9013,7 +9004,7 @@ de568eef-a6d2-4af0-99aa-ba510e279e7b,cassandra.xyz,resell,64,76,9,Dynadot LLC,12
 d5da8d23-bb64-4c4a-a848-995c416d0c8d,cassetteculture.xyz,available,58,76,16,,,
 8b5fd51f-f0cb-40b5-b765-20b7c5cf4b66,cassettes.xyz,resell,42,28,9,"Sav.com, LLC- 10",21/05/2022 01:18,21/05/2026 23:59
 6798ea22-19b1-41b7-9c30-6127027192de,Cassey.xyz,available,56,76,6,,,
-d6c0a400-dffc-42d2-bec1-61ee10911506,cast.xyz,resell,62,26,4,"Go Daddy, LLC",04/10/2021 17:56,04/10/2025 23:59
+d6c0a400-dffc-42d2-bec1-61ee10911506,cast.xyz,resell,62,24,4,"Go Daddy, LLC",04/10/2021 17:56,04/10/2026 23:59
 47274cc0-4d54-424f-bf24-f86ac7b7ac7b,castabout.xyz,available,62,72,10,,,
 3d66649a-06c2-4cc7-b8f5-56c7125f71ce,castaccounts.xyz,available,62,72,13,,,
 478dceb3-2c02-49a0-a7c1-08772f53a9ad,castachill.xyz,available,60,72,12,,,
@@ -9348,7 +9339,6 @@ b7515762-c5b6-47be-8cb1-a122c6ddff0e,cerebrally.xyz,available,54,72,10,,,
 0137112d-f393-4da2-b164-a292fefc614e,cert.xyz,resell,62,100,4,Dynadot LLC,02/01/2016 23:42,02/01/2030 23:59
 cb628eed-d8e0-4766-86ad-4341c6d3fa18,certain.xyz,resell,80,7,7,"Go Daddy, LLC",02/06/2014 16:56,02/06/2026 23:59
 721dc10a-abd9-44ea-a317-e987fbb45ff5,certainity.xyz,available,62,72,10,,,
-4a2adc36-2b29-4206-97c0-93b70c7ac668,certainly.xyz,resell,66,10,9,West263 International Limited,12/12/2020 06:01,12/12/2026 23:59
 2871ade9-1fcd-46fb-b5a1-7c0eb256be97,certifiedaccountant.xyz,available,60,72,20,,,
 04c7aff8-3049-4334-9c5e-45e7edd529fd,certifying.xyz,available,54,72,10,,,
 2d8b644b-8e64-4c6b-9a12-1144c05d0a4c,ceylonese.xyz,available,72,76,9,,,
@@ -9372,7 +9362,7 @@ fa95c39e-acae-4620-bca2-4c410667a8f7,chainofevents.xyz,available,42,80,15,,,
 8bdf5998-8042-43a2-b173-5f31222a5284,chainoftitle.xyz,available,56,72,14,,,
 34d5d4fd-671a-4c5b-9562-1588a2301a9f,chainpickerel.xyz,available,54,72,14,,,
 0407c72d-fc79-431b-950e-6188e35605e6,chainstore.xyz,resell,66,72,11,"Spaceship, Inc.",05/01/2022 08:27,05/01/2026 23:59
-0cc32f98-04d1-4f1d-a10d-9732b914f12d,chair.xyz,resell,66,21,5,"Go Daddy, LLC",02/06/2014 16:56,02/06/2026 23:59
+0cc32f98-04d1-4f1d-a10d-9732b914f12d,chair.xyz,resell,66,14,5,"Go Daddy, LLC",02/06/2014 16:56,02/06/2026 23:59
 0ee4caac-afb4-47c3-98d6-4fe316025a59,chairlift.xyz,available,54,80,9,,,
 73184d0c-372a-4e87-89d3-9aee12fda4c8,chairmat.xyz,available,54,76,9,,,
 75c49db8-39ea-4e33-9ad0-13d0770456f3,chairmen.xyz,available,54,20,8,,,
@@ -9553,7 +9543,6 @@ bf0aca2f-c067-4aff-bff2-09db46e8358b,charmoffensive.xyz,available,54,76,15,,,
 c0dba3a9-256e-42e2-adbd-3b1343aa236d,charterpilot.xyz,available,60,72,13,,,
 38f1983b-d4b0-4420-944d-73b12ffec6ef,charwoman.xyz,available,,72,10,,,
 14f2979f-82f1-4418-a55a-87a644ea001d,chaseaway.xyz,available,56,72,10,,,
-2e173413-59b3-42ae-982e-282aed0f1cd7,chased.xyz,resell,70,4,6,"Xiamen ChinaSource Internet Service Co., Ltd",13/06/2022 00:53,13/06/2026 23:59
 ad5f12b5-8bc1-4c27-bbb0-f9cf59d9085c,chasm.xyz,resell,56,80,5,Dynadot LLC,07/06/2019 19:12,07/06/2026 23:59
 1ee34d76-6dec-44b7-a980-a64f26a00c76,chastely.xyz,available,50,72,8,,,
 4a27b34a-7d0e-4d78-a10d-f5c443c48925,chasten.xyz,available,60,80,7,,,
@@ -9864,7 +9853,6 @@ b6be0edb-92f7-4e0c-8bc8-78bc5c9976eb,Chihli.xyz,available,52,72,6,,,
 4407d7d2-c480-4e15-a2e1-c462aba77e98,chikaragami.xyz,available,52,4,12,,,
 b9445ecf-a310-4b84-b848-bf195c9cac3e,chikaramizu.xyz,available,52,4,12,,,
 10e4d018-5664-484b-b027-41ea31877ffc,Chiku.xyz,resell,56,80,5,"GMO Internet Group, Inc. d/b/a Onamae.com	",30/10/2024 07:24,30/10/2025 23:59
-f40e2930-8034-42e9-b53e-837c0419b8a7,child.xyz,resell,92,21,5,"Spaceship, Inc.",08/08/2019 02:17,08/08/2026 23:59
 2fd0f977-1e81-4d48-bedf-899dc41b43c1,childbearing.xyz,available,60,72,12,,,
 fa3a8fa8-114d-4f87-b540-115b83c6bd72,childbenefit.xyz,available,64,80,13,,,
 5163cd23-4a61-4ea0-ad04-80e83a448f55,childbirth.xyz,resell,62,80,10,"Go Daddy, LLC",02/06/2014 16:56,02/06/2026 23:59
@@ -9999,3 +9987,15 @@ c16c9736-c18f-4e84-b93f-6af091d23a48,chinbearded.xyz,available,40,4,12,,,
 b6c72f46-393a-4677-a2f8-e8152cd9df0c,chinchillas.xyz,available,44,20,11,,,
 7b6cd862-635d-441e-870a-4bff818a4a78,Chindwin.xyz,available,48,72,8,,,
 638184ed-d186-4fdc-86a9-8ad2445e9c96,Chindwinn.xyz,available,48,72,9,,,
+fb7b45e5-5681-4bc2-acf7-ff87a19a68b7,Chineseabacus.xyz,available,44,72,14,,,
+f5e02b7d-b1b9-48f2-8795-12dfbd929c8e,Chinesealchemy.xyz,available,44,72,15,,,
+c3e5be3b-e30d-47cc-bd07-1b7e1b454d1a,ChineseAmerican.xyz,available,44,72,16,,,
+bc41aaf8-a4ff-4637-8c2a-453a0fe50928,Chineseanise.xyz,available,62,4,13,,,
+8563ef95-48bd-4872-92fb-475949a970d5,Chineseastrology.xyz,resell,62,20,17,"Go Daddy, LLC",02/06/2014 16:36,02/06/2026 23:59
+a3693b92-62e9-4f42-848a-5ff720c6194e,Chineseauction.xyz,available,44,72,15,,,
+82db4b32-fd68-4b62-97fb-93c6cd704fa6,ChineseAustralian.xyz,available,44,72,18,,,
+79597098-d951-424c-bfce-8bf6971c9d9e,Chinesebalance.xyz,available,38,72,15,,,
+b1d46072-5643-401c-a403-92265bb933c9,ChineseBASIC.xyz,available,44,72,13,,,
+13788af0-d5e7-4002-9337-74eb2949d021,Chinesebellflower.xyz,available,62,72,18,,,
+5a46c6db-f854-42f4-b9bb-37cba924083c,Chinesebezique.xyz,available,62,72,15,,,
+1e3c4fce-0771-45cf-b8f3-51a11fcbf686,Chineseblackjack.xyz,available,44,72,17,,,
