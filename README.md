@@ -1,22 +1,22 @@
-# Available .XYZ One-Word Domains (56,881)
+# Available .XYZ One-Word Domains (57,716)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-56%2C881%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C716%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **56,881 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **57,716 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 56,881 domains
+**Public extract:** 1,000 rows · **Live catalog:** 57,716 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/xyz`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .XYZ one-word domain c
 
 ### Files
 
-- `xyz.csv` — public CSV extract (10,000 rows)
-- `xyz.json` — public JSON extract (10,000 rows)
+- `xyz.csv` — public CSV extract (1,000 rows)
+- `xyz.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar       |
-| -------------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------- |
-| getoutthevote.xyz    | available | $1.99       | $20.99        | 74             | 80     | 16     | name.com        |
-| crop.xyz             | resell    | $228,721.20 | $20.99        | 86             | 96     | 4      | Dynadot LLC     |
-| lifeinsurance.xyz    | premium   | $1,300      | $1,300        | 58             | 88     | 14     | namecheap       |
-| ABCIslands.xyz       | available | $19.48      | —             | 57             | 72     | 11     | namecheap       |
-| sundries.xyz         | resell    | $5,748.85   | $20.99        | 68             | 92     | 8      | Automattic Inc. |
-| equipment.xyz        | premium   | $1,300      | $1,300        | 68             | 84     | 9      | namecheap       |
-| mapprojection.xyz    | available | $1.99       | $20.99        | 56             | 72     | 14     | name.com        |
-| civilengineering.xyz | resell    | $1,021.20   | $20.99        | 52             | 88     | 17     | Dynadot LLC     |
-| remotesensing.xyz    | premium   | $1,667.50   | $20.99        | —              | 84     | 14     | name.com        |
-| batchproduction.xyz  | available | $1.99       | $20.99        | 56             | 72     | 16     | name.com        |
-| motel.xyz            | resell    | $228,721.20 | $20.99        | 86             | 84     | 5      | Dynadot LLC     |
-| flats.xyz            | premium   | $650        | $650          | 58             | 80     | 5      | namecheap       |
-| abdominalwall.xyz    | available | $1.99       | $20.99        | 54             | 72     | 14     | name.com        |
-| irrigation.xyz       | resell    | $114,871.20 | $20.99        | 62             | 84     | 10     | Dynadot LLC     |
-| surgery.xyz          | premium   | $3,250      | $3,250        | 66             | 76     | 7      | namecheap       |
-| massproduction.xyz   | available | $1.99       | $20.99        | 54             | 72     | 15     | name.com        |
-| carhire.xyz          | resell    | $76,533.65  | $20.99        | 58             | 84     | 8      | IONOS SE        |
-| guestroom.xyz        | premium   | $573.85     | $20.99        | 58             | 76     | 9      | name.com        |
-| refereeing.xyz       | available | $1.99       | $20.99        | 52             | 72     | 10     | name.com        |
-| dairy.xyz            | resell    | $114,871.20 | $20.99        | 74             | 76     | 5      | Dynadot LLC     |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| refereeing.xyz   | available | $1.99       | $20.99        | 52             | 72     | 10     | name.com                                    |
+| distant.xyz      | resell    | $3,448.85   | $20.99        | 64             | 14     | 7      | Go Daddy, LLC                               |
+| insight.xyz      | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                               |
+| RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                   |
+| plier.xyz        | resell    | $1,263.85   | $20.99        | 70             | 4      | 5      | Go Daddy, LLC                               |
+| travel.xyz       | premium   | $13,000     | $13,000       | 115            | 48     | 6      | namecheap                                   |
+| Obamacare.xyz    | available | $19.48      | —             | 66             | 8      | 10     | namecheap                                   |
+| cloak.xyz        | resell    | —           | —             | 86             | 96     | 5      | Go Daddy, LLC                               |
+| designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                               |
+| StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                   |
+| adv.xyz          | resell    | —           | —             | 62             | 96     | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| whiteboard.xyz   | premium   | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited               |
+| havenots.xyz     | available | $1.99       | —             | 60             | 5      | 9      | name.com                                    |
+| coyote.xyz       | resell    | —           | —             | 56             | 96     | 6      | Name.com, Inc                               |
+| blacktea.xyz     | premium   | $236.90     | —             | 74             | 15     | 9      | name.com                                    |
+| rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                    |
+| compassion.xyz   | resell    | —           | —             | 90             | 92     | 10     | Sav.com, LLC                                |
+| intersection.xyz | premium   | $76,859.84  | —             | 72             | 14     | 12     | Dynadot LLC                                 |
+| intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                    |
+| megapixel.xyz    | resell    | —           | —             | 72             | 88     | 9      | Dynadot LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 56,881 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 57,716 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
