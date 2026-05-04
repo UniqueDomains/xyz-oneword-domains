@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (57,716)
+# Available .XYZ One-Word Domains (57,771)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C716%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C771%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **57,716 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **57,771 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 57,716 domains
+**Public extract:** 1,000 rows · **Live catalog:** 57,771 domains · **Median ask:** $15,452.39 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/tld/xyz`  
 **Best for:** founders, investors, studios
 
@@ -69,7 +69,7 @@ print(df.head())
 | insight.xyz      | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                               |
 | RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                   |
 | plier.xyz        | resell    | $1,263.85   | $20.99        | 70             | 4      | 5      | Go Daddy, LLC                               |
-| travel.xyz       | premium   | $13,000     | $13,000       | 115            | 48     | 6      | namecheap                                   |
+| travel.xyz       | premium   | $13,000     | $13,000       | 115            | 50     | 6      | namecheap                                   |
 | Obamacare.xyz    | available | $19.48      | —             | 66             | 8      | 10     | namecheap                                   |
 | cloak.xyz        | resell    | —           | —             | 86             | 96     | 5      | Go Daddy, LLC                               |
 | designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                               |
@@ -83,7 +83,7 @@ print(df.head())
 | compassion.xyz   | resell    | —           | —             | 90             | 92     | 10     | Sav.com, LLC                                |
 | intersection.xyz | premium   | $76,859.84  | —             | 72             | 14     | 12     | Dynadot LLC                                 |
 | intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                    |
-| megapixel.xyz    | resell    | —           | —             | 72             | 88     | 9      | Dynadot LLC                                 |
+| mayor.xyz        | resell    | —           | —             | 62             | 88     | 5      | 1API GmbH                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 57,716 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 57,771 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are all single-word names on the .xyz extension. The set ranges from short, clean words such as unit.xyz and stick.xyz to more specific or longer terms like semicircle.xyz and barbecuesauce.xyz. That mix matters. Shorter, broader words usually have wider appeal and better resale optionality, while longer or more technical words depend more on a precise end user. With a median ask of $15,452, this selection sits well above impulse-buy territory, so each name should be judged on clarity, recall, spelling, and whether the word feels commercially usable in .xyz rather than just available.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Short, common words usually have broader buyer appeal
+- Long or niche words need a clearer end-market
+- Check if the word is easy to say, spell, and remember
+- At a $15,452 median ask, price discipline matters
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
