@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                 |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
 | refereeing.xyz   | available | $1.99       | $20.99        | 52             | 72     | 10     | name.com                                  |
-| distant.xyz      | resell    | $3,448.85   | $20.99        | 64             | 14     | 7      | Go Daddy, LLC                             |
+| whiteboard.xyz   | resell    | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited             |
 | insight.xyz      | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                             |
 | RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                 |
-| wharf.xyz        | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
+| distant.xyz      | resell    | $3,448.85   | $20.99        | 64             | 14     | 7      | Go Daddy, LLC                             |
 | designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                             |
 | Obamacare.xyz    | available | $19.48      | —             | 66             | 8      | 10     | namecheap                                 |
-| breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
-| whiteboard.xyz   | premium   | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited             |
-| StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
-| cloak.xyz        | resell    | —           | —             | 86             | 96     | 5      | Go Daddy, LLC                             |
+| intersection.xyz | resell    | $76,859.84  | —             | 72             | 13     | 12     | Dynadot LLC                               |
 | blacktea.xyz     | premium   | $236.90     | —             | 74             | 15     | 9      | name.com                                  |
-| havenots.xyz     | available | $1.99       | —             | 60             | 5      | 9      | name.com                                  |
-| compassion.xyz   | resell    | —           | —             | 90             | 92     | 10     | Sav.com, LLC                              |
-| intersection.xyz | premium   | $76,859.84  | —             | 72             | 14     | 12     | Dynadot LLC                               |
-| rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
-| mayor.xyz        | resell    | —           | —             | 62             | 88     | 5      | 1API GmbH                                 |
+| StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
+| wharf.xyz        | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
 | organizing.xyz   | premium   | $26,059     | —             | 76             | 12     | 10     | Unstoppable Domains, Inc.                 |
+| havenots.xyz     | available | $1.99       | —             | 60             | 5      | 9      | name.com                                  |
+| breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
+| sucks.xyz        | premium   | $3,500      | $3,500        | 48             | 11     | 5      | namecheap                                 |
+| rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
+| compassion.xyz   | resell    | —           | —             | 90             | 92     | 10     | Sav.com, LLC                              |
+| daydreams.xyz    | premium   | $29,479.84  | —             | 62             | 10     | 9      | West263 International Limited             |
 | intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                  |
-| timestudy.xyz    | resell    | —           | —             | 54             | 88     | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
+| mayor.xyz        | resell    | —           | —             | 62             | 88     | 5      | 1API GmbH                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
