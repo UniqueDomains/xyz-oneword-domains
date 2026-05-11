@@ -1,6 +1,8 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 001aac07-b148-46e5-8cc9-b3e0414f6124,borrow.xyz,resell,,,66,14,6,Dynadot LLC,20/02/2019 05:58,20/02/2027 23:59
 001b9099-8962-4755-bf1c-63aef0e2c29e,brighten.xyz,resell,,,80,10,8,West263 International Limited,06/01/2020 18:06,06/01/2027 23:59
+00aa1bad-0f50-4764-aba6-ce704f453df0,callcenter.xyz,resell,,,70,16,11,Dynadot LLC,18/08/2017 19:27,18/08/2028 23:59
+00f77878-70fc-44f7-a205-2d510d7eda96,sophisticated.xyz,resell,,,70,8,13,Dynadot LLC,19/03/2019 19:12,19/03/2027 23:59
 014065cf-b72f-4c9e-918b-a839a33dbfee,although.xyz,resell,,,64,3,8,West263 International Limited,09/03/2021 10:06,09/03/2027 23:59
 014757ba-9059-4778-b229-bc9b7cfdb5af,hobbies.xyz,resell,,,60,11,7,Squarespace Domains II LLC,18/08/2019 09:11,18/08/2030 23:59
 014a21ab-9b52-48f9-92e3-fefd0ae9ba6f,ghosts.xyz,resell,,,48,14,6,"Go Daddy, LLC",02/06/2014 17:11,02/06/2026 23:59
@@ -25,12 +27,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 066189be-eab7-428b-b511-6f1ac96eed0d,constraints.xyz,resell,,,44,2,11,"Go Daddy, LLC",25/08/2022 02:53,25/08/2027 23:59
 06a246fb-7fd2-4387-9cd6-e119d72120aa,yielded.xyz,resell,,,56,3,7,"Sav.com, LLC",29/07/2021 14:21,29/07/2026 23:59
 072ced72-9269-467b-ac38-da8d678256d8,pegs.xyz,resell,,,48,8,4,West263 International Limited,02/08/2021 00:43,02/08/2027 23:59
+0781231c-2b9d-4b52-9d99-401675675f6b,breathtaking.xyz,resell,,,74,7,12,West263 International Limited,10/03/2021 18:23,10/03/2027 23:59
 078647ad-50fd-41d4-953e-b9497cbd76b2,sandwich.xyz,resell,,,76,21,8,Dynadot LLC,19/08/2018 10:49,19/08/2029 23:59
 07acfcbb-989a-412a-9f80-60160ae7f748,Iwish.xyz,resell,,,58,12,6,Dynadot LLC,30/11/2021 20:40,30/11/2026 23:59
 07d098f2-485f-4c91-aeb1-9f85c6d3c843,knocks.xyz,resell,,,48,5,6,"Go Daddy, LLC",04/06/2025 00:40,04/06/2027 23:59
 07d0d78d-4bee-455c-9018-8be1db22c3a7,happens.xyz,resell,,,52,8,7,Squarespace Domains II LLC,13/07/2021 11:12,13/07/2032 23:59
 07e5c4d7-afc0-4198-b959-99f8d73b2fae,shoveover.xyz,available,1.99,,59,1,10,name.com,,
 081acbf9-6d38-4e1b-9528-b943223b71a6,strapup.xyz,resell,,,68,1,8,"GMO Internet Group, Inc. d/b/a Onamae.com",07/11/2025 03:38,07/11/2026 23:59
+081ca9d5-e1cc-41a3-bdfd-3f7110a55245,distinguished.xyz,resell,,,62,9,13,West263 International Limited,22/08/2020 09:14,22/08/2027 23:59
 082c3399-6a79-4579-9eb0-f5ec822813ba,oppositions.xyz,resell,,,48,2,11,"Go Daddy, LLC",25/07/2023 00:14,25/07/2027 23:59
 0864467b-199e-49a0-83cd-dab7897863a9,assess.xyz,resell,,,78,14,6,Dynadot LLC,01/01/2018 07:14,01/01/2027 23:59
 0892c69b-3ee1-4e7a-a840-845db3570af4,parkin.xyz,resell,,,59,8,7,"Spaceship, Inc.",03/06/2024 00:09,03/06/2026 23:59
@@ -42,6 +46,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0a77abfc-c3b8-4ba4-bf36-a09cc050d496,lightweight.xyz,resell,,,85,9,11,Dynadot LLC,14/02/2017 08:04,14/02/2027 23:59
 0b294b3d-b548-429c-807c-a6897f21b84d,supernatural.xyz,resell,,,74,22,12,West263 International Limited,29/10/2018 00:39,29/10/2028 23:59
 0b3644b0-df1a-4b2d-b718-3c458068885b,per.xyz,resell,,,77,19,3,Dynadot LLC,02/06/2019 16:43,02/06/2029 23:59
+0b45015f-62f9-4197-b503-69111227178c,creating.xyz,resell,,,80,12,8,West263 International Limited,22/06/2019 04:31,22/06/2027 23:59
 0b6f4eb8-b3a6-417a-a190-e2297993b48d,pros.xyz,resell,,,53,23,4,Dynadot LLC,05/06/2014 11:53,05/06/2026 23:59
 0b8e91c9-bb4b-4fee-b478-a29e02d6cf99,worry.xyz,resell,,,66,8,5,Dynadot LLC,07/11/2020 02:04,07/11/2027 23:59
 0bc3ea8e-d6fb-4d2e-b070-2ac894c6b66e,leak.xyz,resell,,,58,20,4,Dynadot LLC,10/12/2016 01:21,10/12/2029 23:59
@@ -57,9 +62,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0e9a7528-4492-408e-8c4a-943f3ced74a5,somuchfor.xyz,available,1.99,,46,0,11,name.com,,
 0eb2783c-a013-4e91-acc5-00229a10c67f,settledown.xyz,resell,,,80,2,11,"Go Daddy, LLC",28/05/2021 06:03,28/05/2027 23:59
 0f3b6022-687b-4bd0-a2dd-5cb144f2d86d,showup.xyz,resell,,,83,20,7,West263 International Limited,09/06/2020 21:02,09/06/2027 23:59
+0f3f6ead-51f0-4bdb-81ed-f1d9367a4437,illustrated.xyz,resell,,,72,6,11,Dynadot LLC,11/04/2019 18:53,11/04/2027 23:59
 0fb887a8-eaa1-4334-80f2-6aaf8dc89e77,ugh.xyz,resell,,,62,11,3,West263 International Limited,17/08/2020 02:41,17/08/2027 23:59
 0fc3b20d-bb96-4f79-8c02-864ca7664a3c,ranted.xyz,available,1.99,,48,2,6,name.com,,
 102a97d9-f5ca-4d67-8c34-4717c76f02c9,filed.xyz,resell,,,48,7,5,"Go Daddy, LLC",28/01/2023 12:11,28/01/2027 23:59
+1037a07e-2575-4ccb-8d5d-c8e361f3c7e1,moved.xyz,resell,,,72,11,5,"Spaceship, Inc.",11/10/2021 20:41,11/10/2027 23:59
 106ef439-08b5-42b3-b20a-6f501be1b0b2,macandcheese.xyz,resell,,,72,4,14,"Go Daddy, LLC",25/11/2025 12:08,25/11/2026 23:59
 10be622d-ba18-4210-b603-22385203db94,blewup.xyz,available,1.99,,44,1,7,name.com,,
 10f66e3c-33a7-46e2-9743-b2ee8c4ae9c8,sellthrough.xyz,available,1.99,,64,2,12,name.com,,
@@ -68,7 +75,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 118c2fd9-03c4-4b21-851b-1126b2c9599b,seen.xyz,resell,,,78,28,4,West263 International Limited,18/08/2018 07:22,18/08/2029 23:59
 119d71cd-35c2-4f7c-9043-69a10c2541f9,unveil.xyz,resell,,,76,19,6,West263 International Limited,09/11/2019 00:33,09/11/2027 23:59
 11c536e6-1527-4ce2-a9e4-8fdde86aa80d,collapsing.xyz,resell,,,38,3,10,"GMO Internet Group, Inc. d/b/a Onamae.com",17/11/2025 03:16,17/11/2026 23:59
-12004bec-42df-4dc6-99d6-53d2d032d119,asked.xyz,resell,,,76,8,5,Squarespace Domains II LLC,15/06/2020 08:34,15/06/2030 23:59
+12004bec-42df-4dc6-99d6-53d2d032d119,asked.xyz,resell,,,76,7,5,Squarespace Domains II LLC,15/06/2020 08:34,15/06/2030 23:59
 1239a598-62ee-44d2-86ed-bdac0f5723aa,tracking.xyz,resell,,,70,27,8,Dynadot LLC,23/08/2019 11:00,23/08/2029 23:59
 125e6fda-465a-4f2d-9915-e5900e0f3085,disobeying.xyz,available,1.99,,46,1,10,name.com,,
 1274107a-ea3f-482b-b3f8-44a720d3abff,intune.xyz,resell,,,72,16,7,"Spaceship, Inc.",02/02/2022 16:46,02/02/2027 23:59
@@ -81,9 +88,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 14799830-f52b-42a4-a834-903dc910a903,snippet.xyz,resell,,,74,15,7,West263 International Limited,02/11/2017 12:30,02/11/2027 23:59
 14a4d619-93a5-4c47-bd7a-5e91d14d189b,deputy.xyz,resell,,,74,10,6,West263 International Limited,31/03/2020 02:14,31/03/2027 23:59
 15083817-0ef4-40a9-9149-7d50c4fcb41b,restrict.xyz,resell,,,64,3,8,"Spaceship, Inc.",10/09/2021 09:48,10/09/2027 23:59
+151f97a2-6419-4188-9b17-6864f453a98f,towards.xyz,resell,,,70,8,7,West263 International Limited,29/11/2020 10:54,29/11/2027 23:59
 1539e0aa-94d2-4812-8dd4-1064e203ff1a,ignite.xyz,resell,,,82,38,6,Dynadot LLC,21/12/2016 08:08,21/12/2030 23:59
 15566499-30d8-4f2e-966f-d228fca9074d,allstar.xyz,resell,,,88,19,8,West263 International Limited,13/03/2017 19:07,13/03/2027 23:59
 1557df3e-6938-4188-a729-372a1e5801a5,fails.xyz,premium,29479.84,,46,7,5,West263 International Limited,08/06/2020 00:34,08/06/2027 23:59
+155ac078-70f8-4cdc-bf9e-0f9c19761b54,marketplace.xyz,resell,,,80,46,11,Dynadot LLC,02/06/2014 16:12,02/06/2030 23:59
+15c0e9f9-38c7-4304-b8a5-fc7ae7d2bdd6,controlling.xyz,resell,,,68,9,11,West263 International Limited,12/05/2019 03:49,12/05/2027 23:59
 15d441bf-88b3-46bc-b54d-aff365f75164,terminators.xyz,resell,,,46,3,11,"Sav.com, LLC",08/12/2021 22:32,08/12/2026 23:59
 15f74f39-1b5e-4a96-9a82-0fef4f8eb335,getthepoint.xyz,available,1.99,,71,2,13,name.com,,
 161ef8b1-3f49-47b4-87af-150afe5a941c,OpiumWar.xyz,available,19.48,,52,1,9,namecheap,,
@@ -91,6 +101,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 16b2a3b5-9a6a-415d-920c-ec56803335c4,insignificant.xyz,resell,,,52,4,13,"Spaceship, Inc.",14/03/2022 23:11,14/03/2027 23:59
 172c35f1-9e67-4ec6-9d46-1d0c999f66d6,chickensoup.xyz,resell,,,84,4,12,Dynadot LLC,24/08/2020 21:56,24/08/2026 23:59
 1771ba57-2ce4-457b-b8e1-f058dbf74eb0,gobankrupt.xyz,available,1.99,,68,2,11,name.com,,
+17784cc3-d060-46c9-bbce-8266c9858ccd,bestfriend.xyz,resell,,,76,12,11,Dynadot LLC,24/12/2021 20:41,24/12/2027 23:59
 17c46df9-845b-4c8c-b1dd-dd6426de58fd,empty.xyz,resell,,,66,26,5,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",17/01/2017 23:29,17/01/2029 23:59
 182ba0d0-8328-47fc-8775-7567e59b14b0,purses.xyz,resell,,,53,7,6,"Unstoppable Domains, Inc.",08/01/2021 20:55,08/01/2027 23:59
 18620281-12f1-4839-bc5c-cc8447afc8c5,briefing.xyz,resell,,,70,9,8,West263 International Limited,14/08/2019 18:49,14/08/2027 23:59
@@ -100,6 +111,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 19e484e2-6d2e-4f8c-a455-8fb1ebb8b4d4,lactoseintolerance.xyz,available,1.99,,56,2,19,name.com,,
 19fd6b7f-cc0f-466b-b33a-c6282f9724e9,WorldWarIV.xyz,available,19.48,,52,1,12,namecheap,,
 1a001d73-46aa-4d0a-bd85-4ba06e535e98,expose.xyz,resell,,,78,17,6,West263 International Limited,25/11/2018 01:18,25/11/2027 23:59
+1a3ea0a3-b567-4b68-8fff-df2cdd5a840b,invented.xyz,resell,,,74,6,8,West263 International Limited,04/11/2020 18:07,04/11/2027 23:59
 1a55d98a-c9b2-4d8b-a888-1c639dc6f039,spontaneous.xyz,resell,,,76,13,11,West263 International Limited,04/06/2019 04:18,04/06/2027 23:59
 1a61d239-b14c-459c-95ed-18d1c64bebcb,quilting.xyz,resell,,,80,7,8,West263 International Limited,31/03/2020 02:14,31/03/2027 23:59
 1a87b925-5280-4dcf-a462-8004e475d0fd,demoting.xyz,available,1.99,,46,1,8,name.com,,
@@ -143,6 +155,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 242aaa94-4834-48ed-8560-e2469ad585a2,calculators.xyz,resell,,,54,16,11,Squarespace Domains II LLC,24/08/2021 21:01,24/08/2030 23:59
 243fb09a-1ec4-491b-8341-9d964224b021,kamikaze.xyz,resell,,,58,12,8,Dynadot LLC,27/08/2020 19:31,27/08/2027 23:59
 24810ddc-aff7-493f-8c44-59be06295066,entered.xyz,resell,,,50,4,7,Dynadot LLC,09/09/2025 10:20,09/09/2026 23:59
+24a48352-bd05-4e7d-bcb4-3bfbb56c2fbc,secured.xyz,resell,,,72,27,7,Dynadot LLC,31/10/2016 07:44,31/10/2029 23:59
 24a8ca07-124c-4e6c-abbb-71bbac3a61fd,represent.xyz,resell,,,76,15,9,Dynadot LLC,27/10/2017 17:24,27/10/2027 23:59
 24e4d81e-79bf-4f00-b81a-a9254d0f6da4,comedies.xyz,resell,,,56,3,8,Dynadot LLC,01/06/2020 00:48,01/06/2026 23:59
 25514ed0-34ec-44eb-93a9-f70ee06e223e,chew.xyz,resell,,,64,17,4,West263 International Limited,05/03/2019 00:50,05/03/2029 23:59
@@ -154,6 +167,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2711d3d8-375c-4db2-ad4e-bea415cc1763,strangers.xyz,resell,,,46,9,9,TLD Registrar Solutions Ltd,15/08/2014 15:06,15/08/2030 23:59
 27e805e6-9cc5-4fdb-8b97-8607ad241fba,posting.xyz,resell,,,72,16,7,West263 International Limited,15/03/2019 18:42,15/03/2027 23:59
 27f0048b-40d1-48b0-aaaa-b356db56d213,postponement.xyz,available,1.99,,57,1,12,name.com,,
+281214f6-989e-4784-a22c-95eb05cb2e7e,impressed.xyz,resell,,,70,6,9,Dynadot LLC,14/01/2021 16:24,14/01/2027 23:59
 286c42e4-3619-4434-b7b2-1e015d528383,tradition.xyz,resell,,,74,14,9,West263 International Limited,13/10/2019 10:39,13/10/2027 23:59
 2893cfa1-13a1-4d31-8f87-2c1a4e5e3d76,punched.xyz,resell,,,50,3,7,"Sav.com, LLC",02/09/2021 13:46,02/09/2026 23:59
 291066b5-2f40-482d-9b0c-1215f3a2dd72,determination.xyz,resell,,,70,9,13,"Spaceship, Inc.",08/10/2020 15:41,08/10/2026 23:59
@@ -190,6 +204,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 308d18e0-3ac3-4d1d-b522-d198a5651bb8,federal.xyz,resell,,,70,23,7,"Go Daddy, LLC",04/06/2014 23:15,04/06/2027 23:59
 309b5ece-0b6d-4527-8c72-81343432a185,Ichooseviolence.xyz,available,19.48,,44,1,17,namecheap,,
 30c2317f-7554-47f3-9adb-8db27fab58d3,biases.xyz,resell,,,42,3,6,"Unstoppable Domains, Inc.",28/02/2026 15:25,28/02/2027 23:59
+30d43528-f246-4d9c-9ab2-ae2d7234fc08,artgallery.xyz,resell,,,80,12,11,Dynadot LLC,13/10/2019 23:18,13/10/2028 23:59
 30def84f-0a1b-4eaf-bfc1-bb0e2cf3c1bd,temple.xyz,resell,,,60,82,6,Dynadot LLC,01/11/2018 03:35,01/11/2030 23:59
 3108c1d1-e0d7-42d9-aa58-5bf2146e688a,bestpractice.xyz,resell,,,72,13,13,West263 International Limited,22/10/2020 06:00,22/10/2027 23:59
 311d0a8d-1c4b-4489-a373-06dbf8041a1d,marines.xyz,resell,,,72,9,7,West263 International Limited,20/07/2020 02:16,20/07/2027 23:59
@@ -222,6 +237,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 37ffc6d1-2a54-4000-b561-978ef9e038c9,highresolution.xyz,resell,,,64,3,15,Dynadot LLC,23/12/2021 09:21,23/12/2026 23:59
 3839db9b-efce-4c69-a29e-5514a720b02c,complement.xyz,resell,,,82,9,10,West263 International Limited,18/04/2020 23:37,18/04/2027 23:59
 388a144e-7e0e-43ff-adce-a00e662c37a8,pitching.xyz,resell,,,76,7,8,West263 International Limited,16/10/2019 18:56,16/10/2027 23:59
+38cc09c3-6e45-4626-ada4-893e94c53633,concentrated.xyz,resell,,,66,6,12,West263 International Limited,08/10/2021 04:11,08/10/2027 23:59
 39119778-44da-434f-92e1-239b498d3bca,chiefs.xyz,resell,,,50,10,6,"Go Daddy, LLC",19/08/2021 08:16,19/08/2031 23:59
 3943e88f-a5b2-4c59-ba3a-a59a04100c51,inpower.xyz,resell,,,47,10,8,"Spaceship, Inc.",15/10/2022 03:19,15/10/2026 23:59
 396708e8-4615-481d-8e27-9fd449c8ca7e,clergy.xyz,resell,,,66,6,6,West263 International Limited,06/07/2020 01:46,06/07/2027 23:59
@@ -239,6 +255,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c3ca03b-a88c-473e-82a9-5d7c03dcbf54,WiFi.xyz,resell,,,83,37,5,"Go Canada Domains, LLC",02/06/2014 16:00,02/06/2026 23:59
 3c60c868-5b3c-478b-8b5e-5e4e5bcf90ca,travelling.xyz,resell,,,72,13,10,Dynadot LLC,19/08/2021 08:28,19/08/2030 23:59
 3cea3e34-3669-4739-88d5-be3c8573cb0f,shear.xyz,resell,,,58,8,5,West263 International Limited,22/02/2020 00:28,22/02/2027 23:59
+3d5bb4e8-e46d-4aa5-9771-3575ab4a5bac,flourishing.xyz,resell,,,78,15,11,West263 International Limited,27/04/2020 02:29,27/04/2027 23:59
 3daddb4f-e0ad-47c8-a610-5fa3ab066638,disconnect.xyz,resell,,,74,13,10,West263 International Limited,27/09/2019 18:53,27/09/2027 23:59
 3e83055c-7d6a-4d80-8023-1a1553f9d26d,importance.xyz,resell,,,76,4,10,"Spaceship, Inc.",11/06/2021 20:56,11/06/2027 23:59
 3ea063c3-f928-440f-b9e8-50d2710d411c,smiled.xyz,resell,,,66,5,6,"Sav.com, LLC",27/11/2021 17:02,27/11/2026 23:59
@@ -253,6 +270,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 407bce82-5303-42b6-a28a-c9d87e54850a,jetaircraft.xyz,available,1.99,,62,1,12,name.com,,
 40923f78-1101-4d89-9695-7726cb895ec0,silences.xyz,available,1.99,,46,3,8,name.com,,
 40befd4f-fea0-4b2d-8651-bbd62ea2f376,stockexchange.xyz,resell,,,66,10,14,Dynadot LLC,31/10/2019 02:18,31/10/2027 23:59
+41c7357e-0591-495b-8302-458b6749620c,hashtag.xyz,resell,,,82,32,7,West263 International Limited,19/08/2019 09:03,19/08/2030 23:59
 41d35913-dc76-4c44-99e8-14f95ffc9bf1,bowls.xyz,resell,,,70,7,5,West263 International Limited,10/08/2019 02:47,10/08/2027 23:59
 41e20a7c-2b30-41ec-8a40-b3f29965beeb,starkest.xyz,available,1.99,,40,2,8,name.com,,
 42225180-875f-451a-9a0e-f6a44e8b0913,doublecheck.xyz,resell,,,78,8,12,West263 International Limited,06/12/2020 20:49,06/12/2027 23:59
@@ -268,6 +286,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4413acbe-7619-4e6d-9ceb-954bf3357d60,getready.xyz,resell,,,88,11,9,Squarespace Domains II LLC,07/07/2020 22:24,07/07/2030 23:59
 442502a2-87d1-4738-91a4-9f6597921bbd,solutions.xyz,resell,,,56,31,9,"Unstoppable Domains, Inc.",29/12/2022 11:48,29/12/2026 23:59
 4452e7c2-ebb7-429d-beba-3324968bc5d9,surfers.xyz,resell,,,57,10,7,"Go Daddy, LLC",02/06/2014 17:36,02/06/2026 23:59
+4470d298-f62a-4e07-aa2f-cb3af3b3102c,zooming.xyz,resell,,,78,5,7,Dynadot LLC,31/01/2021 08:52,31/01/2027 23:59
 4475cc74-4bb2-4024-b5b2-6b507f5289ad,shareholders.xyz,resell,,,50,5,12,"Unstoppable Domains, Inc.",23/06/2020 10:00,23/06/2026 23:59
 44a8e7dc-0195-4136-8c54-37973980bdba,afloat.xyz,resell,,,70,11,6,Dynadot LLC,09/02/2021 00:58,09/02/2027 23:59
 44ceada7-b45e-4c1f-a956-4a6e51d2a8ac,Jews.xyz,resell,,,50,12,4,"Unstoppable Domains, Inc.",22/01/2021 14:51,22/01/2027 23:59
@@ -310,7 +329,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f406d9f-c247-42dc-88e2-63498247a5f7,primetime.xyz,resell,,,74,25,10,Dynadot LLC,10/04/2019 19:06,10/04/2028 23:59
 4f8e7ed2-9630-417c-8655-132815bbefe7,longterm.xyz,resell,,,72,10,9,Squarespace Domains II LLC,09/06/2020 01:47,09/06/2032 23:59
 50887718-03aa-4699-877b-99015d9ea469,keepthechange.xyz,resell,,,46,59,15,"Go Daddy, LLC",25/11/2025 12:05,25/11/2026 23:59
+52451598-2b3b-4dce-a9e4-adc8900cbb9d,buzzed.xyz,resell,,,72,12,6,West263 International Limited,11/03/2020 20:40,11/03/2027 23:59
 5259758f-0e14-4c2b-be92-007810bae138,chaitea.xyz,resell,,,86,3,8,"Go Daddy, LLC",14/11/2025 23:00,14/11/2026 23:59
+525c2bf4-5dd1-4266-b321-b19002cb10e1,heartattack.xyz,resell,,,66,4,12,West263 International Limited,22/03/2020 02:23,22/03/2027 23:59
 525c698d-6712-4907-815c-377a58c7d525,backtalk.xyz,resell,,,68,5,9,Dynadot LLC,04/12/2021 21:00,04/12/2026 23:59
 5299ca40-fde5-4091-8e97-819b524f9761,topfive.xyz,resell,,,52,9,8,Dynadot LLC,18/06/2025 14:22,18/06/2026 23:59
 52a86dcc-350c-4977-a12c-d0dee8b68da7,gomissing.xyz,available,1.99,,70,1,10,name.com,,
@@ -330,6 +351,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 566d7f5c-69c0-4554-8d2d-00471ae2c6ad,rides.xyz,resell,,,56,15,5,"Spaceship, Inc.",02/06/2014 16:17,02/06/2026 23:59
 56ae086f-d160-4951-93db-62b32bbba78c,keepoutof.xyz,available,1.99,,68,0,11,name.com,,
 56bf70c0-367a-46c9-9139-d83c34bbad9c,obey.xyz,resell,,,80,13,4,West263 International Limited,10/11/2018 03:21,10/11/2027 23:59
+56db7d76-485f-42d4-a485-b9ee40d4f2c3,simpler.xyz,resell,,,66,17,7,West263 International Limited,20/03/2020 20:32,20/03/2027 23:59
 57786a94-177a-4787-b55c-4153617709ce,highseas.xyz,resell,,,74,6,9,Dynadot LLC,09/04/2024 07:50,09/04/2027 23:59
 577a0460-60f3-45b4-be66-8daa9eeb6d4e,StGeorges.xyz,available,19.48,,54,6,10,namecheap,,
 57d85c1d-c90a-4075-837e-5c1b636ea590,footballer.xyz,resell,,,80,6,10,West263 International Limited,25/08/2020 00:40,25/08/2027 23:59
@@ -373,18 +395,22 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6225fe5e-118d-4251-a1b8-0f239c749658,stereotype.xyz,resell,,,66,7,10,Dynadot LLC,26/03/2020 20:21,26/03/2027 23:59
 62676e41-014c-4bc2-a498-cd895903c2d8,dustbunnies.xyz,premium,1717.52,,38,5,12,name.com,,
 6274209e-8be6-4f11-b6b4-5cfd5f9f587f,magazines.xyz,resell,,,60,11,9,Dynadot LLC,27/08/2018 00:30,27/08/2026 23:59
+62b4f50f-1096-40da-bc54-5fe93efa9437,rockbottom.xyz,resell,,,66,8,11,Dynadot LLC,23/12/2020 04:04,23/12/2027 23:59
 62c1a476-a78d-44f3-bae4-68a3d03dd5fe,insect.xyz,resell,,,64,12,6,West263 International Limited,14/04/2019 00:48,14/04/2027 23:59
 62f47283-9149-4761-97e4-802c730189c6,whether.xyz,resell,,,74,7,7,West263 International Limited,09/05/2020 01:37,09/05/2027 23:59
 630ed2ff-5e9b-4ffe-9534-ad7a826ee253,getsick.xyz,available,1.99,,72,1,8,name.com,,
 63541b78-d958-4467-8357-f5194d75f78a,scheme.xyz,resell,,,66,14,6,Dynadot LLC,30/08/2016 06:48,30/08/2027 23:59
 6361899b-9cf2-4068-a5c6-f76df90664db,rubbed.xyz,resell,,,62,2,6,"Go Daddy, LLC",04/08/2022 10:55,04/08/2027 23:59
+638cefb5-e7d2-4b30-9d1d-3d4645155d0c,adding.xyz,resell,,,76,6,6,West263 International Limited,14/03/2020 02:17,14/03/2027 23:59
 63eb684b-5692-4f78-8fba-197f7cec6914,informing.xyz,resell,,,72,4,9,West263 International Limited,14/10/2022 03:28,14/10/2027 23:59
 6467636e-f4cd-4294-b98e-f455f10159d9,expedite.xyz,resell,,,76,10,8,Dynadot LLC,26/05/2019 18:56,26/05/2027 23:59
 64cf6191-e460-481f-b142-04586ab46c5e,thefixisin.xyz,available,1.99,,38,1,13,name.com,,
 65108b3b-28fa-4f04-bfa0-c9b8ff84c517,proclaim.xyz,resell,,,78,12,8,Dynadot LLC,28/07/2020 20:31,28/07/2027 23:59
 6511e7f9-0999-45eb-bba4-dcd4653fec6d,stateoftheart.xyz,resell,,,78,7,16,West263 International Limited,29/09/2020 20:37,29/09/2027 23:59
+65402424-8fc8-4aa1-8b9e-3603feb5c55c,feels.xyz,resell,,,88,14,5,West263 International Limited,26/02/2021 21:29,26/02/2027 23:59
 65a97557-7a93-4b4d-b7ab-44351b9c99ab,sedated.xyz,resell,,,43,2,7,"Go Daddy, LLC",29/05/2023 21:10,29/05/2027 23:59
 65ae1808-ea36-4ad9-92d5-b381a2da990a,icons.xyz,resell,,,68,19,5,West263 International Limited,23/09/2019 18:07,23/09/2026 23:59
+661ad3e8-d3da-48a4-9a85-e7b724f34e28,callcentre.xyz,resell,,,70,5,11,West263 International Limited,29/01/2021 20:34,29/01/2027 23:59
 66a074bf-cb2d-4cb8-90bb-1e1e2b01835a,burden.xyz,resell,,,52,10,6,Dynadot LLC,28/08/2021 21:17,28/08/2027 23:59
 66cb6f61-3e82-4e89-a5a2-d08b3362e641,backtaxes.xyz,available,1.99,,62,3,10,name.com,,
 671cdeba-1565-4a73-bb50-0dbf2b289d1b,recording.xyz,resell,,,76,13,9,Dynadot LLC,10/12/2016 01:04,10/12/2029 23:59
@@ -411,7 +437,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6c7d1e24-acb9-4b2b-84cb-b8f8bf47121e,prowlers.xyz,available,1.99,,40,2,8,name.com,,
 6d15e3bf-48fd-40d5-9eee-2b18f38c60bc,keepout.xyz,resell,,,70,3,8,"Go Daddy, LLC",14/11/2025 22:57,14/11/2026 23:59
 6d33380d-d3a4-468d-891b-901b3930b570,ponders.xyz,resell,,,54,5,7,"Spaceship, Inc.",03/06/2024 09:00,03/06/2026 23:59
-6d9b67e1-a3f9-4fba-8008-6b26cc50fccd,biteme.xyz,resell,,,62,11,7,Dynadot LLC,07/03/2024 05:41,07/03/2027 23:59
+6d9b67e1-a3f9-4fba-8008-6b26cc50fccd,biteme.xyz,resell,,,62,11,7,Dynadot LLC,07/03/2024 05:41,07/03/2028 23:59
 6de4d420-0118-4326-832d-c9727b8ec38b,noodlebar.xyz,resell,,,62,2,10,"Go Daddy, LLC",14/11/2025 23:00,14/11/2026 23:59
 6e076a23-85bb-4b14-a8a3-a237f2e717fa,these.xyz,resell,,,56,12,5,West263 International Limited,07/01/2020 20:02,07/01/2027 23:59
 6ed8ad74-0231-46da-80a8-817e076454ed,suspecting.xyz,available,1.99,,48,1,10,name.com,,
@@ -455,6 +481,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 791d69a3-597c-4ba1-9096-ad4787fbf09e,rotation.xyz,resell,,,71,10,8,West263 International Limited,11/01/2020 02:52,11/01/2027 23:59
 798f1f7e-d809-4e81-a374-a16bbbe3baa7,backslash.xyz,resell,,,72,12,9,West263 International Limited,11/06/2020 02:00,11/06/2027 23:59
 79ab852a-7f28-4322-bca0-f970dd7f4560,vent.xyz,resell,,,62,17,4,Dynadot LLC,15/11/2017 06:13,15/11/2029 23:59
+79d88156-9385-4ade-9585-975647d46033,corresponding.xyz,resell,,,66,2,13,"Spaceship, Inc.",16/09/2022 03:47,16/09/2027 23:59
 7a167c89-67a2-4337-bf38-826b8ee24ec2,princess.xyz,resell,,,80,24,8,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",05/11/2016 03:03,05/11/2030 23:59
 7a3650bc-40aa-4d43-b72f-d4304c4c8b82,pivot.xyz,resell,,,74,38,5,Dynadot LLC,01/12/2016 05:10,01/12/2030 23:59
 7ad9272a-77c6-46d6-afab-924fe11cfb9b,gorogue.xyz,resell,,,64,4,8,Dynadot LLC,16/11/2025 03:31,16/11/2026 23:59
@@ -463,12 +490,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7b564dd3-da80-4649-ab0f-ae1584dffe57,psychologist.xyz,resell,,,72,11,12,Dynadot LLC,19/08/2017 08:11,19/08/2028 23:59
 7b739d32-af8c-40f3-b8fd-aa1566235758,longhaired.xyz,available,1.99,,63,2,11,name.com,,
 7bbe5b00-df31-4dba-86e1-5b8bab65abd3,whoever.xyz,resell,,,54,4,7,"Spaceship, Inc.",24/10/2021 09:50,24/10/2026 23:59
+7c08bbfe-9e7d-4dde-92e4-429eeca7b359,restructuring.xyz,resell,,,60,7,13,West263 International Limited,08/08/2020 04:25,08/08/2027 23:59
 7c1c13fc-e01a-462d-9940-8b35ab440aa6,smashinto.xyz,available,1.99,,38,0,10,name.com,,
 7c33097a-3b75-4146-b17f-c39dc7e6093f,paperingover.xyz,available,1.99,,53,1,13,name.com,,
 7c7efec4-7e86-4588-b895-c2bec3e583e5,longlasting.xyz,resell,,,68,3,12,Dynadot LLC,23/04/2024 20:42,23/04/2027 23:59
 7cb619a5-6b83-46d1-bd02-12e54c8d4691,makeitmakesense.xyz,resell,,,50,7,18,"GMO Internet Group, Inc. d/b/a Onamae.com",09/12/2025 12:17,09/12/2026 23:59
 7ccc8029-9b58-41ff-94ec-14cedb6da88a,highspirits.xyz,resell,,,76,8,12,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",29/05/2025 07:26,29/05/2026 23:59
 7d28f3f9-a717-47ae-98b7-4df82fd4e132,shells.xyz,resell,,,58,9,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/02/2015 01:27,06/02/2027 23:59
+7d2d9d66-3907-47b0-a94e-8064027317ed,inspirational.xyz,resell,,,78,10,13,West263 International Limited,23/09/2018 13:07,23/09/2027 23:59
 7d51e820-5327-4ddc-ba96-736a09430ab4,terms.xyz,resell,,,78,20,5,West263 International Limited,30/04/2019 02:34,30/04/2029 23:59
 7d635233-3fb9-489e-b145-766a02ba8000,lust.xyz,resell,,,68,23,4,Dynadot LLC,18/08/2018 23:20,18/08/2029 23:59
 7da0bc2e-06f0-49eb-bb40-36a2e7932dbd,understand.xyz,resell,,,86,17,10,Dynadot LLC,12/03/2017 18:57,12/03/2029 23:59
@@ -486,6 +515,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 81a15f68-d24b-41a2-af51-c714d08b66b4,goAWOL.xyz,resell,,,46,2,7,"GMO Internet Group, Inc. d/b/a Onamae.com",19/01/2026 06:04,19/01/2027 23:59
 81a62e78-0fdd-4197-a337-6cbe28001fc6,RedSox.xyz,available,19.48,,72,60,7,namecheap,,
 8213c551-f352-4bd4-92ae-ce55c6199b07,eliminate.xyz,resell,,,70,7,9,Dynadot LLC,24/08/2020 03:01,24/08/2027 23:59
+8214859c-128d-419d-80b6-9072dd7ddd53,Katy.xyz,resell,,,74,17,4,Dynadot LLC,06/08/2018 10:43,06/08/2027 23:59
 823823a0-dae8-46ae-b8ff-533ccebc1ff3,prioritize.xyz,resell,,,76,7,10,Dynadot LLC,19/10/2020 20:43,19/10/2027 23:59
 828ee721-5b5d-4d04-8667-a23f66041673,crows.xyz,resell,,,68,12,5,"Porkbun, LLC",21/02/2020 14:12,21/02/2027 23:59
 82950517-8b9f-44fb-8b2b-e07353511c34,employer.xyz,resell,,,78,12,8,West263 International Limited,24/09/2018 10:41,24/09/2027 23:59
@@ -562,19 +592,23 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 96dbe95b-bb74-4072-abce-a8f1011c9264,relationship.xyz,resell,,,80,21,12,West263 International Limited,06/11/2018 10:42,06/11/2029 23:59
 97000452-1b63-44c4-b129-921b4a2b8437,motions.xyz,resell,,,62,12,7,West263 International Limited,20/02/2019 19:41,20/02/2027 23:59
 970037d9-d200-41f8-808d-f7df73f29b53,counterfeits.xyz,resell,,,40,2,12,"GMO Internet Group, Inc. d/b/a Onamae.com",16/09/2025 01:42,16/09/2026 23:59
+977324c9-2fa8-4141-930c-c9d7464db3c6,sensational.xyz,resell,,,78,11,11,Dynadot LLC,26/11/2016 17:22,26/11/2027 23:59
 977a9687-6e63-4d91-8d66-5211f3f89652,flipping.xyz,resell,,,70,12,8,"Go Daddy, LLC",04/06/2014 11:29,04/06/2026 23:59
 97b5385e-420f-43a6-8024-5639eef07ba0,justin.xyz,resell,,,58,38,7,"Go Daddy, LLC",02/06/2014 16:15,02/06/2026 23:59
 97cbe18d-d2fa-427d-9268-95d447baddd1,shears.xyz,resell,,,66,5,6,West263 International Limited,17/09/2021 02:01,17/09/2027 23:59
 982e72a5-4cb8-409d-b0c5-e83071ceb2d0,provoke.xyz,resell,,,68,10,7,Dynadot LLC,15/08/2019 20:00,15/08/2027 23:59
+98ab821b-1c2d-4f40-b1d0-6cc2996eaf1f,beautifully.xyz,resell,,,72,5,11,Dynadot LLC,07/06/2020 20:10,07/06/2027 23:59
 98ad78d3-60d6-45b9-8019-ebe42aebd37c,VHS.xyz,resell,,,71,20,3,Squarespace Domains II LLC,25/10/2021 23:58,25/10/2027 23:59
 98fa8a9b-0698-4d89-9682-c340f87fd176,resumed.xyz,available,1.99,,56,4,7,name.com,,
-99256233-4c29-4d5f-ad2b-7996554be6c3,restructure.xyz,premium,11712.34,,74,6,11,Dynadot LLC,19/01/2022 23:54,19/01/2027 23:59
+99256233-4c29-4d5f-ad2b-7996554be6c3,restructure.xyz,resell,11712.34,,74,6,11,Dynadot LLC,19/01/2022 23:54,19/01/2027 23:59
 999672d1-b9ae-438e-9929-680857c3e0f6,vans.xyz,resell,,,55,17,4,"Go Daddy, LLC",12/09/2022 23:56,12/09/2026 23:59
 9998a32e-2033-411b-a93d-bbb146de1b0b,bewell.xyz,resell,,,84,19,7,West263 International Limited,08/01/2020 10:03,08/01/2027 23:59
 9a00009b-1e9a-4a2c-aed3-2ce45c881f6e,mortars.xyz,available,1.99,,40,2,7,name.com,,
+9a071029-3712-4909-8d1b-c300bcfa0318,storyteller.xyz,resell,,,82,25,11,Dynadot LLC,04/12/2017 23:27,04/12/2028 23:59
 9b02fdff-766e-4ada-8f92-57e6bf8a0d41,retailbanking.xyz,resell,,,59,3,14,Dynadot LLC,12/06/2025 19:51,12/06/2026 23:59
 9b0668ad-a738-431d-ad46-9e7289f7d7e5,equals.xyz,resell,,,62,10,6,"Go Daddy, LLC",10/09/2025 00:58,10/09/2027 23:59
 9b07192d-3c5a-416f-9f01-41e62c3f05a9,launched.xyz,resell,,,65,13,8,Dynadot LLC,19/08/2025 00:04,19/08/2026 23:59
+9b160d23-88a2-4387-9410-cfe17526bff6,coffeebreak.xyz,resell,,,86,10,12,Dynadot LLC,16/02/2021 08:08,16/02/2027 23:59
 9b6cf6f6-419f-49fd-9a80-a603799779ac,steps.xyz,resell,,,70,19,5,Dynadot LLC,24/02/2019 09:36,24/02/2029 23:59
 9bd106c8-1920-4110-aad6-9bb42cba0588,keeptime.xyz,resell,,,76,4,9,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",30/05/2022 06:56,30/05/2026 23:59
 9bdd688f-1870-42a5-aed4-e5e133ef1a50,reflexes.xyz,resell,,,55,4,8,Dynadot LLC,27/06/2025 20:17,27/06/2026 23:59
@@ -608,6 +642,7 @@ a35c4ca5-3008-4232-bdfb-adc720116974,saturday.xyz,resell,,,88,24,8,Dynadot LLC,2
 a38c45a1-1ff4-4503-861a-7892964eef04,generals.xyz,resell,,,52,6,8,West263 International Limited,25/05/2021 23:22,25/05/2027 23:59
 a391e96f-c238-4166-bf62-637d23fcd56e,identifier.xyz,resell,,,78,5,10,West263 International Limited,01/08/2020 03:51,01/08/2027 23:59
 a3b23612-d49c-42fc-b6d8-7eb9fa328d5d,havenots.xyz,available,1.99,,60,5,9,name.com,,
+a3b40636-4976-4e9b-8dc5-c7cce95ae84e,stat.xyz,resell,,,70,29,4,"Go Daddy, LLC",05/06/2014 04:32,05/06/2030 23:59
 a3e63fac-3cda-4b0f-9430-dcd4084ec7c3,terror.xyz,resell,,,64,14,6,Dynadot LLC,02/01/2017 06:35,02/01/2027 23:59
 a43e2968-f166-4415-b817-928eeae3947c,newyork.xyz,resell,,,82,40,8,"Global Domains International, Inc.",02/12/2021 18:21,02/12/2026 23:59
 a459f342-f83f-4aca-8eef-b21631e4587e,waitforit.xyz,resell,,,43,4,11,"GMO Internet Group, Inc. d/b/a Onamae.com",07/11/2025 02:27,07/11/2026 23:59
@@ -632,6 +667,7 @@ aa629f83-7e7b-4d2b-8759-835bdd3593c8,godownhill.xyz,available,1.99,,68,1,11,name
 aabef068-cf6d-4a6f-9d27-f4b89622f9e8,gonuclear.xyz,available,1.99,,68,3,10,name.com,,
 ab33f7ae-679c-44ae-9017-69ab23951ad3,goingbad.xyz,available,1.99,,46,1,9,name.com,,
 abcca385-8b52-44c2-9317-2bbdeba24def,cinnamon.xyz,resell,,,72,18,8,West263 International Limited,22/02/2020 03:52,22/02/2027 23:59
+abdc3976-2a3b-425a-804f-e7a3450bf2e7,empowering.xyz,resell,,,82,14,10,West263 International Limited,06/01/2020 18:37,06/01/2027 23:59
 ac63936d-6ca0-4d61-852f-62f3a69490b5,doesnotcompute.xyz,available,1.99,,40,3,16,name.com,,
 ac996846-e36b-48b6-9f1a-0ee83f6a0735,everything.xyz,resell,,,68,47,10,Dynadot LLC,19/08/2019 00:49,19/08/2030 23:59
 accdccbc-a99d-4557-bce9-bba2b8d8dba0,lighten.xyz,resell,,,80,9,7,Dynadot LLC,30/08/2019 18:47,30/08/2027 23:59
@@ -652,8 +688,10 @@ b142b769-d3ca-4e5a-950e-191627b32b8d,refused.xyz,resell,,,50,4,7,"GMO Internet G
 b15d59e0-0d94-4aaa-a97a-3caacc99f7c3,publichealth.xyz,resell,,,72,13,13,"Unstoppable Domains, Inc.",02/01/2021 03:01,02/01/2027 23:59
 b202790e-82ec-4e1f-a069-09612f7ba7e1,educational.xyz,resell,,,80,17,11,Dynadot LLC,02/09/2017 23:22,02/09/2027 23:59
 b208c897-a27d-4c4a-932c-811d726d5dde,havethefoggiest.xyz,available,1.99,,54,1,17,name.com,,
+b20e177b-9be4-4385-9283-5d49af45ea9d,departmentstore.xyz,resell,,,66,4,16,West263 International Limited,27/06/2021 16:20,27/06/2027 23:59
 b2320232-75bd-440c-9a62-a21df7583ca1,ambitions.xyz,resell,,,64,7,9,West263 International Limited,14/09/2020 14:26,14/09/2027 23:59
 b2438c9d-b5b6-4989-a7e9-d18ae942bb80,expire.xyz,resell,,,58,11,6,Dynadot LLC,08/09/2017 12:34,08/09/2027 23:59
+b26113c4-11bd-463f-b787-25bd58d4507a,competing.xyz,resell,,,64,3,9,West263 International Limited,11/10/2021 08:33,11/10/2027 23:59
 b274ae5b-aa66-4c15-886d-528f37f41f40,spike.xyz,resell,,,64,27,5,Dynadot LLC,15/01/2018 07:09,15/01/2030 23:59
 b2755f1c-1ea1-4cba-95ba-8e6f83e1ac11,renewal.xyz,resell,,,76,16,7,Dynadot LLC,01/01/2017 07:19,01/01/2027 23:59
 b2a84d3f-91cb-4bea-8c2a-77e0b6b2e11e,relations.xyz,resell,,,76,10,9,Dynadot LLC,27/12/2016 00:05,27/12/2027 23:59
@@ -680,6 +718,8 @@ ba0e7eb6-4d0f-497c-934a-317a0ea72845,thirdway.xyz,resell,,,74,7,9,Alibaba Cloud 
 ba22127a-6204-4f78-8590-6c7d24e1d073,unlocking.xyz,resell,,,76,8,9,West263 International Limited,13/11/2020 07:29,13/11/2027 23:59
 ba23fada-39cf-4c8b-848b-e994560b797a,synchronizes.xyz,resell,,,62,1,12,"GMO Internet Group, Inc. d/b/a Onamae.com",28/09/2025 12:21,28/09/2026 23:59
 ba52dea5-711e-40d2-bd68-53a781d1db20,sold.xyz,resell,,,80,21,4,Dynadot LLC,02/06/2014 17:35,02/06/2026 23:59
+ba59da2b-addf-4952-881f-efd0cccfa3ef,younameit.xyz,resell,,,60,4,11,Dominet (HK) Limited,01/05/2026 03:23,01/05/2027 23:59
+ba5ce7bb-9671-4841-afa9-2515997b8a50,hellothere.xyz,resell,,,84,8,11,West263 International Limited,05/08/2021 21:07,05/08/2027 23:59
 bad0e741-521c-4f90-8358-4b0dce423269,negotiate.xyz,resell,,,80,11,9,West263 International Limited,03/03/2019 18:57,03/03/2027 23:59
 baef260c-d26a-4b85-ac06-fd1bf296617e,independent.xyz,resell,,,78,28,11,Dynadot LLC,23/12/2016 09:25,23/12/2029 23:59
 bb5447ee-e866-4b9c-8b3b-3862c3d9579a,belike.xyz,resell,,,74,7,7,Dynadot LLC,20/12/2023 18:55,20/12/2026 23:59
@@ -708,6 +748,7 @@ c15d710b-540c-45ff-8d65-8837277172f7,simplify.xyz,resell,,,78,30,8,Dynadot LLC,0
 c1a12a83-e96c-4f62-a405-5c6ebd379dce,travels.xyz,resell,,,64,18,7,"Go Daddy, LLC",02/06/2014 16:48,02/06/2027 23:59
 c1e4a1e1-0de2-435f-b1b8-85c18bdeb3e3,childmurderer.xyz,available,1.99,,30,1,14,name.com,,
 c1ea8d53-ad34-4f2b-9e42-a9ca4c74b54f,region.xyz,resell,,,70,19,6,Dynadot LLC,04/05/2017 08:14,04/05/2029 23:59
+c2b7e004-0192-4e49-b324-6a2580dca561,tailormade.xyz,resell,,,80,15,11,Dynadot LLC,22/11/2019 03:13,22/11/2027 23:59
 c3272402-dd1a-4c27-ae03-0ab81f2a5a99,goape.xyz,resell,,,76,5,6,"GMO Internet Group, Inc. d/b/a Onamae.com",12/10/2025 03:03,12/10/2026 23:59
 c33ff54a-287a-4653-8e36-bbaba18ee33a,parkup.xyz,resell,,,59,4,7,"Go Daddy, LLC",14/11/2025 22:58,14/11/2026 23:59
 c3566e8c-30e1-4350-9074-ad91e0843a84,storms.xyz,resell,,,60,10,6,Automattic Inc.,19/06/2021 09:48,19/06/2031 23:59
@@ -724,12 +765,14 @@ c5988db0-58e7-4058-a26e-5392a378324b,unsettles.xyz,available,1.99,,43,1,9,name.c
 c61e6258-1fa3-45e1-803e-821cf2842c45,occasion.xyz,resell,,,76,9,8,West263 International Limited,01/03/2018 17:52,01/03/2027 23:59
 c647f92d-e42c-40d0-86eb-892b0656f553,psychology.xyz,resell,,,74,25,10,Dynadot LLC,18/08/2017 21:29,18/08/2029 23:59
 c6525f6f-9d89-46a3-8b5d-40d208a687bb,nightmare.xyz,resell,,,68,17,9,Dynadot LLC,26/10/2016 17:34,26/10/2027 23:59
+c653b1c2-cc35-45f5-bc80-b6d0d6d2f694,deejay.xyz,resell,,,82,12,6,West263 International Limited,06/03/2019 18:55,06/03/2027 23:59
 c670ca03-23ea-40ac-a786-2107f3d6420e,tornado.xyz,resell,,,64,22,7,Dynadot LLC,18/08/2017 13:43,18/08/2029 23:59
 c6b1373e-a8c7-4fa1-b669-29138a68fd54,sophistication.xyz,resell,,,70,3,14,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/12/2025 02:21,08/12/2026 23:59
 c6b47b8a-ea08-4f43-9055-ff599e11c361,sqm.xyz,resell,,,54,11,4,Squarespace Domains II LLC,22/10/2021 22:36,22/10/2030 23:59
 c6ce4835-b145-4f0e-9bf2-dca0b9b4190f,astound.xyz,resell,,,82,8,7,West263 International Limited,19/02/2020 20:20,19/02/2027 23:59
 c706e7e9-541a-459f-9391-be1450eb60b5,cements.xyz,available,1.99,,56,3,7,name.com,,
 c719aaa7-4ce0-4f9f-a4d1-8838885d1d7f,predilection.xyz,resell,,,70,2,12,Dynadot LLC,27/06/2025 20:17,27/06/2026 23:59
+c7e3a97e-ae52-4b8f-91b3-d30ed5c9fb35,tasking.xyz,resell,,,68,7,7,"Spaceship, Inc.",30/09/2021 08:23,30/09/2027 23:59
 c7f10cbb-5019-47da-b582-7c249d55e590,gototherestroom.xyz,available,1.99,,56,1,18,name.com,,
 c825dc7b-e1b2-4bc6-b4ea-53180f7304d0,interact.xyz,resell,,,79,20,8,Dynadot LLC,24/08/2018 08:22,24/08/2030 23:59
 c83b8f1f-2c54-42f6-82fa-d8869aaefc79,oatmeal.xyz,resell,,,74,10,7,West263 International Limited,24/10/2020 07:56,24/10/2027 23:59
@@ -740,6 +783,7 @@ c95aca3b-6af1-4dc0-a01b-151a7b5a8b8d,talks.xyz,resell,,,74,17,5,West263 Internat
 c96dee27-0b7c-4ebc-a903-e7bd92b78086,overflow.xyz,resell,,,70,18,8,Dynadot LLC,26/12/2017 01:04,26/12/2028 23:59
 c9fd6f71-0f81-4491-b91b-02dd94d37a79,prejudices.xyz,available,1.99,,38,1,10,name.com,,
 ca670a37-5a35-430e-ac7d-8ef87912b657,plaques.xyz,resell,,,42,5,7,"Go Daddy, LLC",09/06/2025 00:40,09/06/2027 23:59
+cac13568-53bf-4dee-ba8a-2fece945145a,established.xyz,resell,,,66,16,11,West263 International Limited,06/03/2020 20:19,06/03/2027 23:59
 cb59f27e-99da-4231-9907-da1e2a985faf,retrieve.xyz,resell,,,78,7,8,West263 International Limited,31/05/2019 05:25,31/05/2027 23:59
 cb7ee823-a6bc-4ce3-9dff-2cdb2016d35f,documentation.xyz,resell,,,62,14,13,Dynadot LLC,24/12/2016 23:56,24/12/2027 23:59
 cb927e02-eb8f-4cfb-829c-7ddb16d907c2,havetheblues.xyz,available,1.99,,58,1,14,name.com,,
@@ -750,6 +794,7 @@ cd2a11c7-1420-4dfc-b436-ec87902de4ca,barkeeper.xyz,premium,1717.52,,70,4,10,Dyna
 cd343b71-4de1-4022-8b08-c129276e6e75,intheory.xyz,available,1.99,,52,5,9,name.com,,
 cd41c668-0539-4e7a-93d8-4ae1312ad965,makehistory.xyz,resell,,,86,4,12,"Spaceship, Inc.",17/06/2023 01:37,17/06/2026 23:59
 cd96869e-d040-4965-99ac-82021d5460d1,reflections.xyz,resell,,,53,16,11,Namecheap,20/06/2014 07:44,20/06/2026 23:59
+ced681b6-3faf-4795-b703-1cbde87d2275,unstoppable.xyz,resell,,,82,23,11,West263 International Limited,06/03/2020 04:57,06/03/2028 23:59
 cf6100a7-d871-45fe-8f65-a8a44f22f3f7,devoured.xyz,resell,,,40,3,8,"GMO Internet Group, Inc. d/b/a Onamae.com",16/09/2025 00:20,16/09/2026 23:59
 d0454456-0ef8-459c-a9f6-c2d2d02d17fa,umbrellas.xyz,resell,,,59,9,9,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",20/11/2016 02:48,20/11/2026 23:59
 d06ee44a-29dd-49b8-bfcc-d8b3406e5b24,gofar.xyz,resell,,,76,10,6,Dynadot LLC,20/10/2025 08:08,20/10/2026 23:59
@@ -760,15 +805,18 @@ d1126f17-cd9c-4b88-bd08-073a506a7577,relevance.xyz,resell,,,76,10,9,Dynadot LLC,
 d15658a6-030a-4a0c-9b4d-ee6e9a5bd6f5,induce.xyz,resell,,,72,6,6,West263 International Limited,28/03/2020 03:28,28/03/2027 23:59
 d17cbbce-1ad3-4c86-9c1a-f9439914e0e0,successfully.xyz,resell,,,70,4,12,West263 International Limited,30/10/2020 09:16,30/10/2027 23:59
 d1c1846b-44ec-4939-a189-9c6597ec127a,flood.xyz,resell,,,60,20,5,Dynadot LLC,29/11/2015 03:33,29/11/2030 23:59
+d1ef146d-9ceb-4ce6-8425-33c79f8d6a7d,Himself.xyz,resell,,,64,5,7,West263 International Limited,13/11/2020 23:22,13/11/2027 23:59
 d215b008-c5a4-45c2-b7e1-ab77896c2de1,cassette.xyz,resell,,,70,15,8,West263 International Limited,26/03/2020 20:21,26/03/2027 23:59
 d2839cde-4565-45da-812c-3d06429ebf27,geton.xyz,resell,,,82,10,6,"Unstoppable Domains, Inc.",01/05/2021 13:25,01/05/2027 23:59
 d2943a0b-49bf-49c5-a11d-a03504a5e762,payoff.xyz,resell,,,70,8,7,Squarespace Domains II LLC,20/06/2020 08:32,20/06/2030 23:59
 d2b2af3c-bf8b-4b9d-9419-feec56c51cfd,timer.xyz,resell,,,70,23,5,Dynadot LLC,21/12/2017 01:05,21/12/2029 23:59
 d2cc3251-7fdd-475d-803d-040f3c7718c3,modelling.xyz,resell,,,76,10,9,West263 International Limited,25/07/2019 23:19,25/07/2027 23:59
+d3272201-5158-4cfb-a2b0-03b437bc53b9,several.xyz,resell,,,84,9,7,West263 International Limited,18/10/2019 07:14,18/10/2027 23:59
 d332993a-9360-40b5-8c81-82956e44f317,pound.xyz,resell,,,64,15,5,West263 International Limited,11/08/2018 17:03,11/08/2027 23:59
 d3699a3d-1f8d-49bc-a604-25687cefd472,makelove.xyz,resell,,,88,10,9,Dynadot LLC,04/12/2024 12:33,04/12/2026 23:59
 d38b7e73-b8d2-4571-9220-1f1f7f375a2b,screening.xyz,resell,,,74,14,9,West263 International Limited,27/01/2019 10:35,27/01/2027 23:59
 d3db57aa-a3b5-42aa-a3a8-372ce8a1980c,takehuff.xyz,available,1.99,,64,1,9,name.com,,
+d41177ba-d737-4675-8f0a-547aeaa2ccae,fascinating.xyz,resell,,,80,8,11,West263 International Limited,09/08/2020 20:37,09/08/2027 23:59
 d4389ff6-5098-4664-b170-3b845f160a9e,checklist.xyz,resell,,,74,23,9,West263 International Limited,13/11/2017 00:05,13/11/2027 23:59
 d44374b2-7be7-44bd-99ee-90ae91a41235,browsing.xyz,resell,,,74,10,8,West263 International Limited,06/05/2020 02:03,06/05/2027 23:59
 d44fefe5-7825-48b5-be3e-b658f7cefe1c,notices.xyz,resell,,,48,6,7,"Unstoppable Domains, Inc.",11/05/2021 10:07,11/05/2027 23:59
@@ -799,6 +847,7 @@ d9b1f080-46fb-4b99-beee-9f6d22492bf4,exhaust.xyz,resell,,,69,9,7,West263 Interna
 da7cb39f-8d43-433c-b766-3c2cdeaf0369,shush.xyz,resell,,,60,12,5,West263 International Limited,02/04/2020 20:33,02/04/2027 23:59
 da8a15f9-7d70-4750-8cb4-0c6d3dd4613d,chickpeas.xyz,premium,1717.52,,62,3,9,Dynadot LLC,17/06/2025 16:24,17/06/2026 23:59
 dac5b11a-205e-4fbe-bbc1-0bf79d89f723,applaud.xyz,resell,,,82,9,7,Dynadot LLC,21/03/2020 20:03,21/03/2027 23:59
+dad3ec4e-00ba-4d43-ac74-eb9f3a61d5ec,campaigning.xyz,resell,,,72,6,11,West263 International Limited,14/10/2021 08:24,14/10/2027 23:59
 dae1d010-3086-47dd-8e79-c7ed9d32a4fd,refine.xyz,resell,,,78,25,6,Dynadot LLC,18/11/2016 02:18,18/11/2028 23:59
 db0b6f8a-07ba-4b56-923f-a9183159706d,bought.xyz,resell,,,78,6,6,Dynadot LLC,15/06/2020 22:50,15/06/2027 23:59
 db49c61c-2e70-4069-a564-fb93c2b8d267,visioned.xyz,resell,,,71,4,8,"Porkbun, LLC",13/10/2025 00:39,13/10/2026 23:59
@@ -815,6 +864,7 @@ dd304d08-0aea-42af-b878-24f8f3b5d6f0,enemy.xyz,resell,,,68,13,5,West263 Internat
 dd5c5cb4-56c7-4104-a3e1-1cdee013e917,clicking.xyz,resell,,,70,8,8,West263 International Limited,27/05/2020 21:27,27/05/2027 23:59
 dddcf7b0-8a94-42c0-ac9b-5f8c58138646,gusto.xyz,resell,,,84,21,5,West263 International Limited,22/05/2019 19:27,22/05/2029 23:59
 de7763a5-6338-47fc-951a-07a9bbfa8918,motorsport.xyz,resell,,,74,23,10,Squarespace Domains II LLC,19/08/2020 23:27,19/08/2030 23:59
+de782e8a-2f66-44bf-bab2-71bb4676e9ab,freespirit.xyz,resell,,,86,16,11,Dynadot LLC,14/05/2020 04:04,14/05/2027 23:59
 de7d8a35-c4fe-445e-9838-87efef5f688d,stackup.xyz,resell,,,64,11,8,West263 International Limited,11/11/2021 19:04,11/11/2026 23:59
 de8da665-5734-4302-a9db-1a9b62110988,suppresses.xyz,available,1.99,,44,1,10,name.com,,
 dea17df1-4ace-4685-9cb7-c549dbe5c8ac,enrich.xyz,resell,,,80,17,6,West263 International Limited,16/03/2019 18:39,16/03/2029 23:59
@@ -823,6 +873,7 @@ ded2486c-b565-42dc-a180-f394f395dba4,since.xyz,resell,,,68,12,5,West263 Internat
 def11eb0-e80f-4349-b5f1-d6744f76337b,gingerbread.xyz,resell,,,80,10,11,"Go Daddy, LLC",16/05/2021 22:48,16/05/2027 23:59
 defc2740-5f30-4262-b529-62f455025cbf,proxybattle.xyz,available,1.99,,44,1,12,name.com,,
 df0b2fcf-9706-43d1-a88c-845a5427e70a,flashflooding.xyz,available,1.99,,52,0,14,name.com,,
+dfc4cf01-3218-49df-b383-6960faf7f28c,oldest.xyz,resell,,,72,4,6,West263 International Limited,09/07/2020 09:24,09/07/2027 23:59
 dff5e395-f895-4167-8f9a-f2b23b4f7b83,facilitate.xyz,resell,,,78,11,10,Dynadot LLC,08/04/2019 16:23,08/04/2027 23:59
 e0097061-300b-4aa0-9bdc-6c71216ade30,wellbeing.xyz,resell,,,78,27,9,West263 International Limited,12/11/2017 07:18,12/11/2029 23:59
 e01cb5b6-aa16-4aa8-808a-091a899b7c46,shock.xyz,resell,,,54,21,5,Dynadot LLC,08/09/2017 08:12,08/09/2030 23:59
@@ -849,17 +900,23 @@ e38a3805-9857-4bfe-af19-ce0cd2a005c6,patientcare.xyz,resell,,,79,8,11,"Sav.com, 
 e39df10d-f6b3-4615-bf67-dfdb2eb4faa1,grandparents.xyz,resell,,,68,5,12,"Sav.com, LLC",04/07/2021 21:19,04/07/2026 23:59
 e3dddfbe-72b8-40c1-9544-bc9238a78d44,sobeit.xyz,resell,,,52,5,8,"Go Daddy, LLC",14/11/2025 23:05,14/11/2026 23:59
 e4267036-2a09-471a-be5e-4b5f71811554,orchestra.xyz,resell,,,87,24,9,West263 International Limited,19/11/2018 03:08,19/11/2028 23:59
+e4595d7f-8484-4155-8670-8b694cdd930a,economically.xyz,resell,,,58,2,12,West263 International Limited,12/03/2022 09:03,12/03/2027 23:59
 e47b5598-1356-47d0-85fa-38c06a96db8f,finalyearproject.xyz,available,1.99,,66,2,18,name.com,,
 e4da2abf-05ca-4439-80c1-68fc2224b9fe,keeping.xyz,resell,,,80,9,7,West263 International Limited,22/03/2019 18:50,22/03/2027 23:59
+e4e9fdb9-1cc8-4a67-b061-67a8e70a81be,pressrelease.xyz,resell,,,64,13,13,West263 International Limited,19/06/2020 01:47,19/06/2027 23:59
 e5844410-986c-40b2-b737-9154042af438,adventures.xyz,resell,,,64,18,10,"Unstoppable Domains, Inc.",07/11/2019 10:39,07/11/2026 23:59
 e5a814c6-fbb2-4270-a752-a45949bedb4a,childmarriage.xyz,available,1.99,,48,2,14,name.com,,
 e5dc01bd-bbbf-475b-96d3-893942bc3f33,rectangle.xyz,resell,,,70,12,9,"Spaceship, Inc.",21/10/2021 23:51,21/10/2028 23:59
 e6b1ab10-1d3f-48e0-b483-3b40aaec4f58,nauseousness.xyz,available,1.99,,58,1,12,name.com,,
 e6da6159-194d-41cd-811a-c27c31df2947,pricetag.xyz,resell,,,72,7,9,West263 International Limited,21/05/2020 00:40,21/05/2027 23:59
 e6eafea4-c2fa-473b-bfb5-96252ab39ab5,razorburn.xyz,available,1.99,,60,1,10,name.com,,
+e704c695-22a4-4848-844c-d7b083f65119,openbar.xyz,resell,,,80,6,8,Dynadot LLC,14/11/2020 01:07,14/11/2027 23:59
 e76df93c-d236-4cf5-99cb-cc806c15446e,streamed.xyz,resell,,,73,9,8,"Go Daddy, LLC",22/01/2016 15:03,22/01/2027 23:59
 e78bd702-2afa-4fdc-bdab-d5805f13b41a,Catholics.xyz,resell,,,58,8,9,Squarespace Domains II LLC,11/07/2021 01:46,11/07/2027 23:59
+e7bf9b62-13aa-40c9-bb32-fe27e45bb9fa,fivestar.xyz,resell,,,86,25,9,Dynadot LLC,17/09/2018 09:28,17/09/2028 23:59
+e7e99e29-3c72-4ae1-b711-d889ea0d48ef,steppingstone.xyz,resell,,,70,10,14,West263 International Limited,17/12/2019 02:59,17/12/2027 23:59
 e8401e5b-7f11-4415-9ea6-b8e70b6bdb1b,discomfort.xyz,resell,,,68,4,10,West263 International Limited,30/09/2021 02:33,30/09/2027 23:59
+e8a4cdde-79df-4ea4-8cb1-5bc3e9cf1d42,discjockey.xyz,resell,,,82,8,11,West263 International Limited,28/07/2019 19:12,28/07/2027 23:59
 e8d09113-f895-40d6-a2f5-05def117a0c7,gettheboot.xyz,available,1.99,,70,1,12,name.com,,
 e8ec5d6b-925a-4166-9216-ac5947427892,slowed.xyz,resell,,,48,3,6,"GMO Internet Group, Inc. d/b/a Onamae.com",15/09/2025 23:29,15/09/2026 23:59
 e8f7a028-023f-4811-8695-df8bb12fb34b,ohmyGod.xyz,resell,,,84,9,9,Dynadot LLC,21/12/2020 07:04,21/12/2027 23:59
@@ -870,6 +927,7 @@ e9cb57cd-edd4-47ca-8a65-4e222541c183,nitpicking.xyz,available,1.99,,58,1,10,name
 ea2d7405-8af1-4ece-9f25-f7a9641156f9,anybody.xyz,resell,,,54,9,7,West263 International Limited,26/03/2020 20:21,26/03/2027 23:59
 ea3fe13b-f201-4726-a714-4c0a161789af,smashdown.xyz,available,1.99,,58,2,10,name.com,,
 ea7b743c-6484-4afd-ac1f-a002949edc5f,Obamacare.xyz,available,19.48,,66,8,10,namecheap,,
+ea7bc95f-88ca-4fcd-ad29-f318b08088d3,informative.xyz,resell,,,74,7,11,West263 International Limited,18/03/2019 20:09,18/03/2027 23:59
 ea993ecd-94cc-4321-a719-f833ab8e98d9,using.xyz,resell,,,82,8,5,West263 International Limited,29/10/2020 20:31,29/10/2027 23:59
 ea9f9b81-6972-477b-8150-3f7b6f3f2d1b,staff.xyz,resell,,,72,27,5,Dynadot LLC,02/11/2018 00:59,02/11/2030 23:59
 eaa0f647-4af8-4986-a374-c5176702b294,prevention.xyz,resell,,,78,12,10,West263 International Limited,13/04/2017 06:06,13/04/2027 23:59
@@ -941,61 +999,3 @@ fc0151d1-e24a-4ea4-afa9-fc8049ff8a19,launchsite.xyz,resell,,,60,7,11,Dynadot LLC
 fc13a5dd-b361-4ab5-9967-5e9d9f978eeb,tubes.xyz,resell,,,48,12,5,West263 International Limited,13/01/2019 02:04,13/01/2027 23:59
 fc225de7-a266-49b0-8a1b-9ada51fb6e3e,segregation.xyz,resell,,,62,2,11,"Go Daddy, LLC",02/06/2014 17:37,02/06/2026 23:59
 fc36a997-103c-465c-ab49-5bd24880ff5a,technique.xyz,resell,,,78,11,9,Dynadot LLC,23/12/2016 00:09,23/12/2027 23:59
-fc7b64e6-65ed-49cf-ae7f-fd6b8db5c14f,extinction.xyz,resell,,,62,7,10,West263 International Limited,26/05/2020 00:38,26/05/2027 23:59
-fc9da850-13bc-4d79-bdf8-398371cc8a1a,gotosleep.xyz,resell,,,72,3,11,"GMO Internet Group, Inc. d/b/a Onamae.com",04/11/2025 12:09,04/11/2026 23:59
-fcd4c18f-bf44-468d-bd53-1f2c026281ab,berries.xyz,resell,,,60,13,7,Squarespace Domains II LLC,19/08/2021 03:20,19/08/2030 23:59
-fcf3c309-fd9d-4ac0-9355-9dfdb2c853ec,hunger.xyz,resell,,,64,17,6,Dynadot LLC,05/01/2018 12:14,05/01/2027 23:59
-fd0dfdab-bdc3-426a-93a2-3fc504fbf1cc,exclusively.xyz,resell,,,60,4,11,West263 International Limited,06/01/2020 18:07,06/01/2027 23:59
-fd833917-0f3c-4327-8e1d-4d44d485fb53,watt.xyz,resell,,,69,27,4,Namecheap,07/10/2015 20:41,07/10/2029 23:59
-fd932709-4b79-4daf-9a48-29fb0b581a5b,came.xyz,resell,,,70,10,4,West263 International Limited,11/06/2019 01:48,11/06/2029 23:59
-fe2e1d02-0223-4b0b-86af-854581265861,distresscall.xyz,available,1.99,,32,1,13,name.com,,
-fe51f511-f26a-4ed7-9fb9-5a5f52cb2af1,wars.xyz,resell,,,48,10,4,"Go Daddy, LLC",20/02/2023 17:47,20/02/2027 23:59
-fe653d7d-918e-4a5a-9bad-070cf0e80a16,toured.xyz,resell,,,52,3,6,"GMO Internet Group, Inc. d/b/a Onamae.com",22/08/2025 09:12,22/08/2026 23:59
-fe8f9ecb-be17-4bc9-b2f7-662a2c38410c,stuffit.xyz,available,1.99,,44,5,8,name.com,,
-fe983f6e-1dcd-43f9-a13c-f2bc776bb39d,vacuumcleaner.xyz,resell,,,72,5,14,Dynadot LLC,16/05/2020 11:56,16/05/2027 23:59
-fee7427a-5ba2-44b6-a474-2202799474cc,thereaway.xyz,available,1.99,,58,1,10,name.com,,
-fef0f23b-2b3e-40dc-95f2-fcc3e9f27584,orleans.xyz,resell,,,66,9,7,West263 International Limited,04/06/2020 01:57,04/06/2027 23:59
-ff2f4664-26cc-4155-a474-812c8fe87618,takeanap.xyz,available,1.99,,73,2,10,name.com,,
-e106c58d-360b-4bb7-a081-b7ea638a267d,seaborne.xyz,resell,,,50,76,8,"GMO Internet Group, Inc. d/b/a Onamae.com",23/06/2025 03:21,23/06/2026 23:59
-ea727adc-ec1c-4934-9fdc-06694c1eadba,apportioning.xyz,premium,,,56,72,12,,,
-ee8d11fc-d094-46a9-a7eb-2108cd1eb02c,distant.xyz,resell,3448.85,20.99,64,14,7,"Go Daddy, LLC",18/08/2025 23:10,18/08/2027 23:59
-825520bb-f1f6-4627-aa1d-8958fa4299f1,shrewd.xyz,resell,,,66,7,6,West263 International Limited,31/07/2020 02:44,31/07/2027 23:59
-220c270f-8462-488f-a969-79e756615e0b,gravityboots.xyz,premium,,,56,72,13,,,
-490d8274-8ed0-4abe-9690-2258615f6c5d,stole.xyz,premium,,,62,76,5,,,
-9a5101ec-2349-4677-95e8-a5aef25e8922,airbreathing.xyz,premium,,,54,72,13,,,
-5a9cf95f-f39e-4c8e-b2e8-ca35edd7120c,violetnoise.xyz,premium,,,,72,12,,,
-8a30087b-bac0-4e0d-ae89-c546dbe2dd8e,mayor.xyz,resell,,,62,88,5,1API GmbH,06/06/2014 05:18,06/06/2026 23:59
-0e8f3a12-68a9-4dc6-a47c-401bc5c77e3d,greenmoray.xyz,premium,,,38,8,11,,,
-0811e393-51df-4116-a037-eebd5ffc96a9,BritishCommonwealth.xyz,premium,,,36,8,20,,,
-a7bf9eab-f688-4df4-8439-3294a5811735,kinglike.xyz,premium,,,56,76,8,,,
-649930a6-7aef-48e2-a568-3c3c139afff2,xxxiv.xyz,premium,,,56,1,5,,,
-ddbc74e1-f01f-481d-bb7a-87962c12fed9,haveagoodmindto.xyz,premium,,,64,72,19,,,
-c9db3015-39b2-4ae5-8d37-e549ae813eeb,Chelseaboy.xyz,premium,,,54,72,11,,,
-2c62afe2-604c-43f1-8cff-7ebe89d97f5b,SaintPhilip.xyz,premium,,,,20,12,,,
-e5fa7231-0d42-47c3-a009-b9a113487010,dreamily.xyz,resell,,,56,72,8,"GMO Internet Group, Inc. d/b/a Onamae.com",13/05/2025 13:53,13/05/2026 23:59
-790cf327-bf7a-4953-b02c-827f0d1d23df,Broadwayshow.xyz,premium,,,56,16,13,,,
-d9f44fb1-e649-4fb6-9f0d-2afa59e8f422,sleepiest.xyz,premium,,,,24,9,,,
-d5e3edda-c8b8-48b3-a621-79cbf5c6e683,rhizopoda.xyz,premium,,,56,72,9,,,
-bb28e02e-f60e-48fe-9d63-74f57566cf76,acinose.xyz,premium,,,50,1,7,,,
-ae93e92f-e0df-43de-8dff-5786565d96a9,scouting.xyz,resell,,,64,76,8,Dynadot LLC,07/06/2020 13:09,07/06/2027 23:59
-b4746686-2ebe-4b41-92a3-e4209941e0d8,congoutea.xyz,premium,,,60,72,10,,,
-d5588d35-a5c2-4184-807b-4728cbc275b6,ethics.xyz,resell,,,60,84,6,"Go Daddy, LLC",02/06/2014 17:06,02/06/2026 23:59
-f4a463db-432e-4508-8566-fcaa095d5e5b,unioncloth.xyz,premium,,,,72,11,,,
-738e9f4c-aa7a-4132-b935-01fcb16ecac5,unafraid.xyz,resell,,,64,84,8,Namecheap,02/12/2024 17:03,02/12/2025 23:59
-22984d77-4c18-47a2-a693-65ddda0e68a4,Unificationism.xyz,premium,,,48,72,14,,,
-bf796aa2-0cb1-4887-9bb7-1e9a4ff356c6,drivehome.xyz,resell,,,72,4,10,"GMO Internet Group, Inc. d/b/a Onamae.com",21/07/2025 12:13,21/07/2026 23:59
-b59fa242-3e10-4ea1-bf60-28011f07e573,patrols.xyz,resell,,,,24,7,Namecheap,02/10/2024 08:09,02/10/2025 23:59
-4451638c-2d17-416f-a4df-1129fdebd3ca,compassion.xyz,resell,,,90,92,10,"Sav.com, LLC",26/01/2025 21:56,26/01/2026 23:59
-6fc53ce4-bc79-4027-8b90-a86d088c5239,grayA.xyz,premium,,,70,72,6,,,
-275947c9-cc6d-4b89-b2ae-fa2b7642d466,commonnoun.xyz,premium,,,54,72,11,,,
-ca63b48e-36eb-46c1-b5e7-5ec290281161,ataraxic.xyz,premium,,,52,3,8,,,
-4194e405-2305-402a-b253-16979676fb52,belfast.xyz,resell,,,60,80,7,"Go Daddy, LLC",07/06/2014 03:57,07/06/2026 23:59
-3d1492fe-149f-4ec4-a767-ebf5b1210bed,horsebreaking.xyz,premium,,,60,72,13,,,
-dd0e939c-a47d-4a0a-a184-4a9af5383798,refereeing.xyz,available,1.99,20.99,52,72,10,name.com,,
-1078d83e-ebc6-4973-a2e8-3559fc1cf3db,laterally.xyz,premium,,,48,76,9,,,
-cb639687-bc15-44c4-8dea-79f62867cabf,chewer.xyz,premium,,,60,72,6,,,
-442b4887-92ac-4898-a973-cabac6d23a78,trackball.xyz,premium,,,58,72,9,,,
-2ca7bf5f-7866-4c86-b8cf-015de472d9d8,boxingday.xyz,resell,,,66,76,10,"Sav.com, LLC",22/11/2021 18:10,22/11/2025 23:59
-8adf8887-3f34-46a5-b114-82c836c690e2,nonaddict.xyz,premium,,,56,72,9,,,
-ba97ea48-c27d-4dcd-80e1-387ccc9f13eb,mistressless.xyz,premium,,,54,4,12,,,
-6682a367-b2db-4ee3-b5f7-32d522b3f3f7,wisemen.xyz,premium,,,,76,8,,,

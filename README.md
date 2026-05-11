@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (57,771)
+# Available .XYZ One-Word Domains (57,877)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C771%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C877%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **57,771 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **57,877 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 57,771 domains · **Median ask:** $15,433.94 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 57,877 domains · **Median ask:** $15,433.94 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-09  
+**Last updated:** 2026-05-11  
 **Canonical page:** `https://unique.domains/domains/tld/xyz`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                 |
 | ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| refereeing.xyz   | available | $1.99       | $20.99        | 52             | 72     | 10     | name.com                                  |
+| RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                 |
 | whiteboard.xyz   | resell    | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited             |
 | insight.xyz      | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                             |
-| RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                 |
-| distant.xyz      | resell    | $3,448.85   | $20.99        | 64             | 14     | 7      | Go Daddy, LLC                             |
-| designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                             |
 | Obamacare.xyz    | available | $19.48      | —             | 66             | 8      | 10     | namecheap                                 |
 | intersection.xyz | resell    | $76,859.84  | —             | 72             | 13     | 12     | Dynadot LLC                               |
-| blacktea.xyz     | premium   | $236.90     | —             | 74             | 15     | 9      | name.com                                  |
+| designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                             |
 | StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
 | wharf.xyz        | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
-| organizing.xyz   | premium   | $26,059     | —             | 76             | 12     | 10     | Unstoppable Domains, Inc.                 |
+| blacktea.xyz     | premium   | $236.90     | —             | 74             | 15     | 9      | name.com                                  |
 | havenots.xyz     | available | $1.99       | —             | 60             | 5      | 9      | name.com                                  |
+| restructure.xyz  | resell    | $11,712.34  | —             | 74             | 6      | 11     | Dynadot LLC                               |
+| organizing.xyz   | premium   | $26,059     | —             | 76             | 12     | 10     | Unstoppable Domains, Inc.                 |
+| rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
 | breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
 | sucks.xyz        | premium   | $3,500      | $3,500        | 48             | 11     | 5      | namecheap                                 |
-| rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
-| compassion.xyz   | resell    | —           | —             | 90             | 92     | 10     | Sav.com, LLC                              |
-| daydreams.xyz    | premium   | $29,479.84  | —             | 62             | 10     | 9      | West263 International Limited             |
 | intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                  |
-| mayor.xyz        | resell    | —           | —             | 62             | 88     | 5      | 1API GmbH                                 |
+| temple.xyz       | resell    | —           | —             | 60             | 82     | 6      | Dynadot LLC                               |
+| daydreams.xyz    | premium   | $29,479.84  | —             | 62             | 10     | 9      | West263 International Limited             |
+| costprice.xyz    | available | $1.99       | —             | 70             | 4      | 10     | name.com                                  |
+| affirm.xyz       | resell    | —           | —             | 80             | 77     | 6      | West263 International Limited             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 57,771 live domains                        |
+| 1,000-row public sample | 57,877 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
