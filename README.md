@@ -80,10 +80,10 @@ print(df.head())
 | breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
 | sucks.xyz        | premium   | $3,500      | $3,500        | 48             | 11     | 5      | namecheap                                 |
 | intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                  |
-| temple.xyz       | resell    | —           | —             | 60             | 82     | 6      | Dynadot LLC                               |
+| kirkland.xyz     | resell    | —           | —             | 74             | 82     | 8      | Dynadot LLC                               |
 | daydreams.xyz    | premium   | $29,479.84  | —             | 62             | 10     | 9      | West263 International Limited             |
 | costprice.xyz    | available | $1.99       | —             | 70             | 4      | 10     | name.com                                  |
-| affirm.xyz       | resell    | —           | —             | 80             | 77     | 6      | West263 International Limited             |
+| temple.xyz       | resell    | —           | —             | 60             | 82     | 6      | Dynadot LLC                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
