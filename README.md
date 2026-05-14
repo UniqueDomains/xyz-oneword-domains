@@ -67,22 +67,22 @@ print(df.head())
 | RedSox.xyz       | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                 |
 | whiteboard.xyz   | resell    | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited             |
 | insight.xyz      | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                             |
-| Obamacare.xyz    | available | $19.48      | —             | 66             | 8      | 10     | namecheap                                 |
+| StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
 | intersection.xyz | resell    | $76,859.84  | —             | 72             | 13     | 12     | Dynadot LLC                               |
 | designs.xyz      | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                             |
-| StGeorges.xyz    | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
-| wharf.xyz        | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
-| blacktea.xyz     | premium   | $236.90     | —             | 74             | 15     | 9      | name.com                                  |
 | havenots.xyz     | available | $1.99       | —             | 60             | 5      | 9      | name.com                                  |
-| restructure.xyz  | resell    | $11,712.34  | —             | 74             | 6      | 11     | Dynadot LLC                               |
+| wharf.xyz        | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
 | organizing.xyz   | premium   | $26,059     | —             | 76             | 12     | 10     | Unstoppable Domains, Inc.                 |
 | rollwithit.xyz   | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
-| breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
+| restructure.xyz  | resell    | $11,712.34  | —             | 74             | 6      | 11     | Dynadot LLC                               |
 | sucks.xyz        | premium   | $3,500      | $3,500        | 48             | 11     | 5      | namecheap                                 |
 | intheory.xyz     | available | $1.99       | —             | 52             | 5      | 9      | name.com                                  |
-| kirkland.xyz     | resell    | —           | —             | 74             | 82     | 8      | Dynadot LLC                               |
+| breakinto.xyz    | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
 | daydreams.xyz    | premium   | $29,479.84  | —             | 62             | 10     | 9      | West263 International Limited             |
 | costprice.xyz    | available | $1.99       | —             | 70             | 4      | 10     | name.com                                  |
+| kirkland.xyz     | resell    | —           | —             | 74             | 82     | 8      | Dynadot LLC                               |
+| appraisals.xyz   | premium   | $76,859.84  | —             | 56             | 10     | 10     | West263 International Limited             |
+| havenot.xyz      | available | $1.99       | —             | 66             | 4      | 8      | name.com                                  |
 | temple.xyz       | resell    | —           | —             | 60             | 82     | 6      | Dynadot LLC                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
