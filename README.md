@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (57,983)
+# Available .XYZ One-Word Domains (57,974)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C983%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-57%2C974%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **57,983 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **57,974 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 57,983 domains · **Median ask:** $15,433.94 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 57,974 domains · **Median ask:** $3,870.36 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/xyz`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/xyz`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .XYZ one-word domain c
 
 ### Files
 
-- `xyz.csv` — public CSV extract (1,000 rows)
-- `xyz.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `xyz.csv`, public CSV extract (1,000 rows)
+- `xyz.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                 |
-| ------------------ | --------- | ----------- | ------------- | -------------- | ------ | ------ | ----------------------------------------- |
-| RedSox.xyz         | available | $19.48      | —             | 72             | 60     | 7      | namecheap                                 |
-| whiteboard.xyz     | resell    | $118,317.34 | —             | 74             | 20     | 10     | West263 International Limited             |
-| insight.xyz        | premium   | $47,615.72  | —             | 76             | 69     | 8      | Go Daddy, LLC                             |
-| StGeorges.xyz      | available | $19.48      | —             | 54             | 6      | 10     | namecheap                                 |
-| intersection.xyz   | resell    | $76,859.84  | —             | 72             | 13     | 12     | Dynadot LLC                               |
-| designs.xyz        | premium   | $108,972.82 | —             | 72             | 21     | 7      | Go Daddy, LLC                             |
-| rollwithit.xyz     | available | $1.99       | —             | 56             | 5      | 12     | name.com                                  |
-| wharf.xyz          | resell    | $29,479.84  | —             | 68             | 9      | 5      | West263 International Limited             |
-| organizing.xyz     | premium   | $26,059     | —             | 76             | 12     | 10     | Unstoppable Domains, Inc.                 |
-| intheory.xyz       | available | $1.99       | —             | 52             | 5      | 9      | name.com                                  |
-| restructure.xyz    | resell    | $11,712.34  | —             | 74             | 6      | 11     | Dynadot LLC                               |
-| sucks.xyz          | premium   | $3,500      | $3,500        | 48             | 11     | 5      | namecheap                                 |
-| havenots.xyz       | available | $1.99       | —             | 60             | 4      | 9      | name.com                                  |
-| breakinto.xyz      | resell    | $1.99       | —             | 72             | 3      | 10     | GMO Internet Group, Inc. d/b/a Onamae.com |
-| appraisals.xyz     | premium   | $76,859.84  | —             | 56             | 10     | 10     | West263 International Limited             |
-| resumed.xyz        | available | $1.99       | —             | 56             | 4      | 7      | name.com                                  |
-| costprice.xyz      | resell    | $1.99       | —             | 70             | 3      | 10     | Dynadot LLC                               |
-| determined.xyz     | premium   | $21,188.34  | —             | 76             | 8      | 10     | West263 International Limited             |
-| carbonmonoxide.xyz | available | $1.99       | —             | 54             | 4      | 15     | name.com                                  |
-| kirkland.xyz       | resell    | —           | —             | 74             | 82     | 8      | Dynadot LLC                               |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| pointat.xyz     | available | $1.99       | —             | low            | low    | 8      | name.com                                    |
+| dairy.xyz       | resell    | $114,871.20 | $20.99        | high           | high   | 5      | Dynadot LLC                                 |
+| detox.xyz       | premium   | $640        | $640          | high           | low    | 5      | namesilo                                    |
+| comewith.xyz    | available | $1.99       | —             | medium         | low    | 9      | name.com                                    |
+| plier.xyz       | resell    | $1,263.85   | $20.99        | high           | low    | 5      | Go Daddy, LLC                               |
+| travel.xyz      | premium   | $13,000     | $13,000       | high           | medium | 6      | namecheap                                   |
+| eachtime.xyz    | available | $1.99       | —             | medium         | low    | 9      | name.com                                    |
+| distant.xyz     | resell    | $3,448.85   | $20.99        | medium         | low    | 7      | Go Daddy, LLC                               |
+| grocery.xyz     | premium   | $1,107      | $1,107        | high           | low    | 7      | namesilo                                    |
+| extendto.xyz    | available | $1.99       | —             | high           | low    | 9      | name.com                                    |
+| hacking.xyz     | resell    | $4,943.85   | $20.99        | medium         | low    | 7      | Go Daddy, LLC                               |
+| learning.xyz    | premium   | $1,300      | $1,300        | high           | low    | 8      | namecheap                                   |
+| saddening.xyz   | available | $1.99       | —             | high           | low    | 9      | name.com                                    |
+| perforation.xyz | resell    | $1,033.85   | $20.99        | medium         | low    | 11     | Go Daddy, LLC                               |
+| musiccenter.xyz | premium   | $1,717.52   | —             | high           | low    | 12     | name.com                                    |
+| comeupto.xyz    | available | $1.99       | —             | medium         | low    | 10     | name.com                                    |
+| adv.xyz         | resell    | —           | —             | medium         | high   | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| WestCountry.xyz | premium   | $1,717.52   | —             | medium         | low    | 12     | name.com                                    |
+| discdrive.xyz   | available | $1.99       | —             | high           | low    | 10     | name.com                                    |
+| hug.xyz         | resell    | —           | —             | high           | low    | 3      | Dynadot LLC                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 57,983 live domains                        |
+| 1,000-row public sample | 57,974 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all single-word names on the .xyz extension. The set ranges from short, clean words such as unit.xyz and stick.xyz to more specific or longer terms like semicircle.xyz and barbecuesauce.xyz. That mix matters. Shorter, broader words usually have wider appeal and better resale optionality, while longer or more technical words depend more on a precise end user. With a median ask of $15,452, this selection sits well above impulse-buy territory, so each name should be judged on clarity, recall, spelling, and whether the word feels commercially usable in .xyz rather than just available.
+This list contains 57,974 one-word domain names registered under the .xyz extension, ranging from everyday words like half.xyz and using.xyz to distinctive picks such as fascinate.xyz and bonappetit.xyz. The median asking price across this selection is near $3,870, giving a practical benchmark for comparing individual listings. Because .xyz allows short, single-word registrations across nearly every industry, this set spans a wide mix of styles — from playful (bad.xyz, allstar.xyz) to descriptive (propose.xyz, humanbeing.xyz). Evaluating options here means weighing price against brandability, spelling simplicity, and renewal cost before committing to a name.
 
-- Short, common words usually have broader buyer appeal
-- Long or niche words need a clearer end-market
-- Check if the word is easy to say, spell, and remember
-- At a $15,452 median ask, price discipline matters
+- 57,974 one-word .xyz domains in this set — updated daily
+- Median asking price near $3,870 across the selection
+- Mix of short, brandable, and descriptive one-word names
+- Compare price, spelling, and renewal before choosing a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
