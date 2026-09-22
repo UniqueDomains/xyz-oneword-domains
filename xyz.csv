@@ -1,7 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 e106c58d-360b-4bb7-a081-b7ea638a267d,seaborne.xyz,available,2,21.48,low,low,8,namecheap,,,10/09/2026 00:34
 ea727adc-ec1c-4934-9fdc-06694c1eadba,apportioning.xyz,available,,,medium,high,12,,,,
-ee8d11fc-d094-46a9-a7eb-2108cd1eb02c,distant.xyz,resell,3448.85,20.99,medium,low,7,"Go Daddy, LLC",18/08/2025 23:10,18/08/2027 23:59,
+ee8d11fc-d094-46a9-a7eb-2108cd1eb02c,distant.xyz,resell,3448.85,20.99,medium,low,7,"GoDaddy.com, LLC",18/08/2025 23:10,18/08/2027 23:59,22/09/2026 02:03
 825520bb-f1f6-4627-aa1d-8958fa4299f1,shrewd.xyz,resell,,,medium,low,6,West263 International Limited,31/07/2020 02:44,31/07/2027 23:59,
 220c270f-8462-488f-a969-79e756615e0b,gravityboots.xyz,available,,,medium,high,13,,,,
 490d8274-8ed0-4abe-9690-2258615f6c5d,stole.xyz,available,,,medium,high,5,,,,
@@ -238,7 +238,7 @@ f2a75df2-4f55-4bbb-bb96-de5d71182b96,holdontoyourhat.xyz,available,,,medium,high
 ed3cd89d-20e6-481b-a348-26495f6a7e94,whatarefriendsfor.xyz,available,,,medium,high,20,,,,
 b898e4e7-746b-4f40-9c54-0a122a77facd,acclamation.xyz,resell,,,medium,high,11,"GMO Internet Group, Inc. d/b/a Onamae.com",27/11/2024 07:49,27/11/2025 23:59,
 56562a52-6eb2-44da-9bc0-550a8c20234a,baleout.xyz,available,,,medium,high,8,,,,
-511013ed-2226-4f50-8513-6487e17b40d7,surrogate.xyz,resell,,,high,low,9,Dynadot LLC,14/11/2015 17:58,14/11/2026 23:59,
+511013ed-2226-4f50-8513-6487e17b40d7,surrogate.xyz,resell,,,medium,low,9,Dynadot Inc,14/11/2015 17:58,14/11/2027 23:59,22/09/2026 02:27
 ab85d01c-a390-4b28-bb75-51ed4d13fc71,airsick.xyz,available,1.99,20.99,low,low,7,name.com,,,
 d4b72f2b-93a8-4aa6-b1a8-7c1098ff58e5,bankholdingcompany.xyz,available,,,medium,low,20,,,,
 872f9992-11bc-400b-876e-29bcc2d50a6d,cameraflash.xyz,available,,,medium,medium,12,,,,
@@ -572,6 +572,7 @@ a024fbc6-debc-4a7e-950f-b779ab638f34,bottompower.xyz,available,,,medium,high,12,
 fb5add41-155c-4f72-91cf-cda949f7ad47,goldbraid.xyz,available,,,medium,high,10,,,,
 6cf407b3-6970-4586-a8ba-d9ed6fceba85,dateofdeath.xyz,available,1.99,,medium,low,13,name.com,,,
 6eb5990f-f60c-4b04-93d8-8ca9214e0feb,byzantineempire.xyz,available,,,medium,high,16,,,,
+06c5fea7-745f-4284-887a-9b2f5cdccc27,minder.xyz,resell,,,low,low,6,,,,21/09/2026 13:29
 9170d3a4-7625-41fb-9d69-a00f0dbddc93,twoscore.xyz,available,1.99,20.99,low,low,8,name.com,,,
 f50ce3c4-dd0e-4f09-898c-830aeb481469,xciii.xyz,available,1.99,20.99,low,low,5,name.com,,,
 606a07e4-17cc-4cc6-a19e-a2e66a73b410,imustsay.xyz,available,1.99,,medium,low,10,name.com,,,
@@ -672,7 +673,6 @@ cb21196b-4850-400b-98ee-4c5fc290c3f9,springchicken.xyz,available,,,medium,high,1
 732fe528-3d59-487d-ba3e-ad4f4a8a5247,databases.xyz,available,,,medium,medium,9,,,,
 b8ba23a6-cf71-4521-a3be-2216724abaa1,biomembrane.xyz,available,,,medium,high,11,,,,
 6ad2e8a3-6147-43c9-8295-78c1b40f4321,ganttchart.xyz,available,,,medium,high,11,,,,
-f2def75f-f561-47c6-93ac-1a50707cdf16,teenager.xyz,resell,,,medium,low,8,GoDaddy Online Services Cayman Islands Ltd.,21/08/2015 02:12,21/08/2026 23:59,
 9947de63-8457-4cbc-9f41-5f5becec21fd,greateromentum.xyz,available,,,medium,high,15,,,,
 7f3fd046-95af-4867-9346-6bcdc7bde205,crisscrossed.xyz,available,,,medium,high,12,,,,
 bf3de508-9f29-4a89-8a46-66b9203bf46e,americanos.xyz,available,,,medium,low,10,,,,
@@ -895,7 +895,7 @@ ef032356-c9f9-4524-a89e-37f8f20ac085,frodo.xyz,available,,,high,high,5,,,,
 e7d80cca-a4fe-43f6-8a21-3bc4468dadf2,thankgoodness.xyz,available,,,medium,high,14,,,,
 8a38f99a-3638-4ccd-85c2-90e9876ce555,industrialarts.xyz,available,,,medium,high,15,,,,
 8a10b396-d526-440c-9762-000da6291cd9,makewaves.xyz,resell,,,high,low,10,"Sav.com, LLC",13/10/2025 20:52,13/10/2026 23:59,
-b724dcbb-ea81-4478-b2ce-1ae2d1392095,fond.xyz,resell,,,high,low,4,"Go Daddy, LLC",02/06/2014 17:09,02/06/2026 23:59,
+b724dcbb-ea81-4478-b2ce-1ae2d1392095,fond.xyz,resell,,,medium,low,4,"GoDaddy.com, LLC",02/06/2014 17:09,02/06/2027 23:59,21/09/2026 21:45
 a7fe1933-59ae-4018-9447-447916533834,hacking.xyz,resell,4943.85,20.99,medium,low,7,"Go Daddy, LLC",27/09/2022 12:15,27/09/2027 23:59,
 e1a08137-bf82-4548-a1a2-81e225de705e,snowgolf.xyz,available,,,medium,high,9,,,,
 7e1f82d4-7726-4e0f-bec3-5338ba496728,emphasising.xyz,available,,,low,low,11,,,,
