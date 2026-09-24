@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (68,030)
+# Available .XYZ One-Word Domains (68,524)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C030%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-68%2C524%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **68,030 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **68,524 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 68,030 domains · **Median ask:** $904.92 · **High-demand under $2,500:** 60
+**Public extract:** 1,000 rows · **Live catalog:** 68,524 domains · **Median ask:** $876.11 · **High-demand under $2,500:** 59
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/xyz`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                   |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
-| ivied.xyz       | available | $1.99       | $20.99        | low            | low    | 5      | name.com                                    |
-| dairy.xyz       | resell    | $114,871.20 | $20.99        | low            | low    | 5      | Dynadot Inc                                 |
-| detox.xyz       | premium   | $640        | $640          | high           | low    | 5      | namesilo                                    |
-| xciii.xyz       | available | $1.99       | $20.99        | low            | low    | 5      | name.com                                    |
-| plier.xyz       | resell    | $1,263.85   | $20.99        | high           | low    | 5      | Go Daddy, LLC                               |
-| travel.xyz      | premium   | $13,000     | $13,000       | high           | medium | 6      | namecheap                                   |
-| alated.xyz      | available | $1.99       | $20.99        | low            | low    | 6      | name.com                                    |
-| distant.xyz     | resell    | $3,448.85   | $20.99        | medium         | low    | 7      | GoDaddy.com, LLC                            |
-| grocery.xyz     | premium   | $1,107      | $1,107        | medium         | low    | 7      | namesilo                                    |
-| atbat.xyz       | available | $2          | $21.48        | low            | low    | 6      | namecheap                                   |
-| hacking.xyz     | resell    | $4,943.85   | $20.99        | medium         | low    | 7      | Go Daddy, LLC                               |
-| musiccenter.xyz | premium   | $1,717.52   | —             | high           | low    | 12     | name.com                                    |
-| atoxic.xyz      | available | $1.99       | $20.99        | low            | low    | 6      | name.com                                    |
-| perforation.xyz | resell    | $1,033.85   | $20.99        | medium         | low    | 11     | Go Daddy, LLC                               |
-| westcountry.xyz | premium   | $1,717.52   | —             | medium         | low    | 12     | name.com                                    |
-| foxily.xyz      | available | $2          | $21.48        | low            | low    | 6      | namecheap                                   |
-| adv.xyz         | resell    | —           | —             | medium         | high   | 3      | GoDaddy Online Services Cayman Islands Ltd. |
-| acinose.xyz     | available | $1.99       | $20.99        | low            | low    | 7      | name.com                                    |
-| dry.xyz         | resell    | —           | —             | high           | low    | 3      | Sav.com, LLC                                |
-| airsick.xyz     | available | $1.99       | $20.99        | low            | low    | 7      | name.com                                    |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
+| alated.xyz      | available | $1.99     | $20.99        | high           | low    | 6      | name.com                                    |
+| plier.xyz       | resell    | $1,263.85 | $20.99        | high           | low    | 5      | Go Daddy, LLC                               |
+| detox.xyz       | premium   | $640      | $640          | high           | low    | 5      | namesilo                                    |
+| foxily.xyz      | available | $2        | $21.48        | medium         | low    | 6      | namecheap                                   |
+| hacking.xyz     | resell    | $4,943.85 | $20.99        | high           | low    | 7      | Go Daddy, LLC                               |
+| travel.xyz      | premium   | $13,000   | $13,000       | high           | medium | 6      | namecheap                                   |
+| acinose.xyz     | available | $1.99     | $20.99        | medium         | low    | 7      | name.com                                    |
+| perforation.xyz | resell    | $1,033.85 | $20.99        | high           | low    | 11     | Go Daddy, LLC                               |
+| grocery.xyz     | premium   | $1,107    | $1,107        | high           | low    | 7      | namesilo                                    |
+| basilar.xyz     | available | $1.99     | $20.99        | medium         | low    | 7      | name.com                                    |
+| adv.xyz         | resell    | —         | —             | high           | high   | 3      | GoDaddy Online Services Cayman Islands Ltd. |
+| musiccenter.xyz | premium   | $1,717.52 | —             | high           | low    | 12     | name.com                                    |
+| charily.xyz     | available | $2        | $21.48        | medium         | low    | 7      | namecheap                                   |
+| cru.xyz         | resell    | —         | —             | high           | high   | 3      | Automattic Inc.                             |
+| westcountry.xyz | premium   | $1,717.52 | —             | high           | low    | 12     | name.com                                    |
+| enteral.xyz     | available | $1.99     | $20.99        | medium         | low    | 7      | name.com                                    |
+| dry.xyz         | resell    | —         | —             | high           | low    | 3      | Sav.com, LLC                                |
+| saharan.xyz     | available | $2        | $21.48        | high           | medium | 7      | namecheap                                   |
+| hug.xyz         | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                 |
+| spinous.xyz     | available | $1.99     | $20.99        | medium         | low    | 7      | name.com                                    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 68,030 live domains                        |
+| 1,000-row public sample | 68,524 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 60 high-demand names under $2,500          |
+| Basic exported fields   | 59 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
