@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .xyz one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 68,524 domains · **Median ask:** $876.11 · **High-demand under $2,500:** 59
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/xyz`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| grocery.xyz     | premium   | $1,107      | $1,107        | high           | low    | 7      | namesilo                                            |
-| saharan.xyz     | available | $2          | $21.48        | high           | medium | 7      | namecheap                                           |
-| acinic.xyz      | available | $1.99       | $20.99        | medium         | low    | 6      | name.com                                            |
-| motel.xyz       | resell    | $228,721.20 | $20.99        | high           | high   | 5      | Dynadot LLC                                         |
-| limo.xyz        | premium   | $640        | $640          | high           | low    | 4      | namesilo                                            |
-| alated.xyz      | available | $1.99       | $20.99        | high           | low    | 6      | name.com                                            |
-| plier.xyz       | resell    | $1,263.85   | $20.99        | high           | low    | 5      | Go Daddy, LLC                                       |
-| detox.xyz       | premium   | $640        | $640          | high           | low    | 5      | namesilo                                            |
-| foxily.xyz      | available | $2          | $21.48        | medium         | low    | 6      | namecheap                                           |
-| condone.xyz     | resell    | $861.35     | $20.99        | high           | low    | 7      | Go Daddy, LLC                                       |
-| gemmed.xyz      | available | $1.99       | $20.99        | high           | low    | 6      | name.com                                            |
-| tillage.xyz     | resell    | $1,667.50   | $20.99        | high           | high   | 7      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD. |
-| provide.xyz     | premium   | $640        | $640          | high           | low    | 7      | namesilo                                            |
-| plaguy.xyz      | available | $1.99       | $20.99        | medium         | low    | 6      | name.com                                            |
-| perforation.xyz | resell    | $1,033.85   | $20.99        | high           | low    | 11     | Go Daddy, LLC                                       |
-| question.xyz    | premium   | $118,317.34 | —             | high           | low    | 8      | Dynadot LLC                                         |
-| acinose.xyz     | available | $1.99       | $20.99        | medium         | low    | 7      | name.com                                            |
-| adv.xyz         | resell    | —           | —             | high           | high   | 3      | GoDaddy Online Services Cayman Islands Ltd.         |
-| archean.xyz     | available | $1.99       | $20.99        | high           | low    | 7      | name.com                                            |
-| cru.xyz         | resell    | —           | —             | high           | high   | 3      | Automattic Inc.                                     |
+| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                     |
+| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| xlvii.xyz      | available | $1.99      | $20.99        | high           | low    | 5      | name.com                      |
+| snore.xyz      | resell    | $17,250    | $20.99        | high           | low    | 5      | Squarespace Domains II LLC    |
+| ixl.xyz        | premium   | $242       | $242          | high           | low    | 3      | namesilo                      |
+| acorea.xyz     | available | $2.79      | $17.29        | medium         | low    | 6      | namesilo                      |
+| fallen.xyz     | resell    | $2,758.85  | $20.99        | high           | low    | 6      | GoDaddy.com, LLC              |
+| pls.xyz        | premium   | $1,107     | $1,107        | high           | low    | 3      | namesilo                      |
+| beigel.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                     |
+| joinery.xyz    | resell    | $57,371.20 | $20.99        | high           | high   | 7      | Dynadot Inc                   |
+| chore.xyz      | premium   | $76,859.84 | —             | high           | low    | 5      | West263 International Limited |
+| cosher.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                     |
+| posture.xyz    | resell    | $74,621.20 | $20.99        | high           | low    | 7      | Dynadot Inc                   |
+| jerky.xyz      | premium   | $57,797.68 | $20.99        | high           | low    | 5      | Dynadot Inc                   |
+| maoist.xyz     | available | $1.99      | $20.99        | high           | low    | 6      | name.com                      |
+| embracing.xyz  | resell    | $1,723.85  | $20.99        | high           | low    | 9      | GoDaddy.com, LLC              |
+| degree.xyz     | premium   | $3,250     | $3,250        | high           | low    | 6      | namecheap                     |
+| pained.xyz     | available | $2         | $21.48        | medium         | low    | 6      | namecheap                     |
+| successors.xyz | resell    | $1.99      | —             | high           | low    | 10     | Dynadot Inc                   |
+| vaccines.xyz   | premium   | $3,448.85  | $20.99        | high           | low    | 8      | name.com                      |
+| papist.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                     |
+| awe.xyz        | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
