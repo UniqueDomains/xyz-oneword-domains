@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (32,930)
+# Available .XYZ One-Word Domains (33,091)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-32%2C930%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C091%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **32,930 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,091 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 32,930 domains · **Median ask:** $1,392.51 · **High-demand under $2,500:** 144
+**Public extract:** 1,000 rows · **Live catalog:** 33,091 domains · **Median ask:** $1,265.64 · **High-demand under $2,500:** 142
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/xyz`
 **Best for:** founders, investors, studios
 
@@ -76,12 +76,12 @@ print(df.head())
 | cosher.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                  |
 | embracing.xyz  | resell    | $1,723.85  | $20.99        | high           | low    | 9      | GoDaddy.com, LLC           |
 | pdp.xyz        | premium   | $207.20    | $207.20       | high           | low    | 3      | spaceship                  |
-| maoist.xyz     | available | $1.99      | $20.99        | high           | low    | 6      | name.com                   |
+| maoist.xyz     | available | $1.99      | $20.99        | medium         | low    | 6      | name.com                   |
 | successors.xyz | resell    | $1.99      | —             | high           | low    | 10     | Dynadot Inc                |
 | pls.xyz        | premium   | $1,107     | $1,107        | high           | low    | 3      | namesilo                   |
 | opined.xyz     | available | $2.79      | $17.29        | low            | low    | 6      | namesilo                   |
 | awe.xyz        | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC           |
-| jerky.xyz      | premium   | $57,797.68 | $20.99        | high           | low    | 5      | Dynadot Inc                |
+| rtc.xyz        | premium   | $242       | $242          | high           | low    | 3      | namesilo                   |
 | pained.xyz     | available | $2         | $21.48        | medium         | low    | 6      | namecheap                  |
 | bad.xyz        | resell    | —          | —             | high           | medium | 3      | Dynadot Inc                |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 32,930 live domains                        |
+| 1,000-row public sample | 33,091 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 144 high-demand names under $2,500         |
+| Basic exported fields   | 142 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
