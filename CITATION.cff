@@ -6,7 +6,7 @@ authors:
   - name: "Unique Domains"
 version: "2026-10-03"
 date-released: "2026-10-03"
-url: "https://unique.domains/domains/tld/xyz"
+url: "https://unique.domains/tld/xyz"
 repository-code: "https://github.com/UniqueDomains/xyz-oneword-domains"
 license: "See LICENSE"
 abstract: "Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains."
