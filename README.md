@@ -1,10 +1,10 @@
-# Available .XYZ One-Word Domains (34,635)
+# Available .XYZ One-Word Domains (35,186)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-34%2C635%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C186%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .xyz one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **34,635 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **35,186 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 34,635 domains · **Median ask:** $1,083.06 · **High-demand under $2,500:** 143
+**Public extract:** 1,000 rows · **Live catalog:** 35,186 domains · **Median ask:** $979.97 · **High-demand under $2,500:** 153
 
-**.XYZ market:** 51,048 names available · Median registration $2.06 · Median renewal $15.72 · 247 sales in the last 12 months · Median sale $999 (USD sales, last 12 months)
+**.XYZ market:** 51,297 names available · Median registration $2.06 · Median renewal $15.72 · 250 sales in the last 12 months · Median sale $999 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-07
 **Canonical page:** `https://unique.domains/tld/xyz`
 **Best for:** founders, investors, studios
 
@@ -64,28 +64,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
-| -------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| edsel.xyz      | available | $1.99      | $14.45        | high           | low    | 5      | dynadot                    |
-| snore.xyz      | resell    | $17,250    | $20.99        | high           | low    | 5      | Squarespace Domains II LLC |
-| cgi.xyz        | premium   | $1,000.50  | —             | high           | high   | 3      | unstoppable                |
-| xlvii.xyz      | available | $5         | $20.99        | high           | low    | 5      | unstoppable                |
-| fallen.xyz     | resell    | $2,758.85  | $20.99        | high           | low    | 6      | GoDaddy.com, LLC           |
-| doi.xyz        | premium   | $200.50    | —             | high           | low    | 3      | unstoppable                |
-| acorea.xyz     | available | $2.79      | $17.29        | medium         | low    | 6      | namesilo                   |
-| joinery.xyz    | resell    | $57,371.20 | $20.99        | high           | high   | 7      | Dynadot Inc                |
-| ixl.xyz        | premium   | $242       | $242          | high           | low    | 3      | namesilo                   |
-| beigel.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                  |
-| vaccines.xyz   | resell    | $3,448.85  | $20.99        | high           | low    | 8      | name.com                   |
-| pdp.xyz        | premium   | $207.20    | $207.20       | high           | low    | 3      | spaceship                  |
-| cosher.xyz     | available | $2         | $21.48        | high           | low    | 6      | namecheap                  |
-| embracing.xyz  | resell    | $1,723.85  | $20.99        | high           | low    | 9      | GoDaddy.com, LLC           |
-| pls.xyz        | premium   | $1,000.50  | $1,107        | high           | low    | 3      | unstoppable                |
-| honshu.xyz     | available | $2.06      | $13.97        | medium         | low    | 6      | spaceship                  |
-| successors.xyz | resell    | $1.99      | —             | high           | low    | 10     | Dynadot Inc                |
-| rtc.xyz        | premium   | $242       | $242          | high           | low    | 3      | namesilo                   |
-| lxviii.xyz     | available | $1.99      | $14.45        | medium         | low    | 6      | dynadot                    |
-| and.xyz        | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.            |
+| domain        | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| edsel.xyz     | available | $1.99      | $14.45        | high           | low    | 5      | dynadot                    |
+| snore.xyz     | resell    | $17,250    | $20.99        | high           | low    | 5      | Squarespace Domains II LLC |
+| cgi.xyz       | premium   | $1,000.50  | —             | high           | high   | 3      | unstoppable                |
+| leidy.xyz     | available | $12.30     | $11.20        | medium         | low    | 5      | cloudflare                 |
+| fallen.xyz    | resell    | $2,758.85  | $20.99        | high           | low    | 6      | GoDaddy.com, LLC           |
+| dnb.xyz       | premium   | $200.50    | —             | high           | low    | 3      | unstoppable                |
+| xlvii.xyz     | available | $5         | $20.99        | high           | low    | 5      | unstoppable                |
+| joinery.xyz   | resell    | $57,371.20 | $20.99        | high           | high   | 7      | Dynadot Inc                |
+| doi.xyz       | premium   | $200.50    | —             | high           | low    | 3      | unstoppable                |
+| acorea.xyz    | available | $2.79      | $17.29        | medium         | low    | 6      | namesilo                   |
+| vaccines.xyz  | resell    | $3,448.85  | $20.99        | high           | low    | 8      | name.com                   |
+| ixl.xyz       | premium   | $242       | $242          | high           | low    | 3      | namesilo                   |
+| beigel.xyz    | available | $2         | $21.48        | high           | low    | 6      | namecheap                  |
+| embracing.xyz | resell    | $1,723.85  | $20.99        | high           | low    | 9      | GoDaddy.com, LLC           |
+| pdp.xyz       | premium   | $207.20    | $207.20       | high           | low    | 3      | spaceship                  |
+| cosher.xyz    | available | $2         | $21.48        | high           | low    | 6      | namecheap                  |
+| and.xyz       | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.            |
+| pls.xyz       | premium   | $1,000.50  | $1,107        | high           | low    | 3      | unstoppable                |
+| honshu.xyz    | available | $2.06      | $13.97        | medium         | low    | 6      | spaceship                  |
+| awe.xyz       | resell    | —          | —             | high           | low    | 3      | GoDaddy.com, LLC           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 34,635 live domains                                  |
+| 1,000-row public sample | 35,186 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 143 high-demand names under $2,500                   |
+| Basic exported fields   | 153 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .XYZ One-Word Domains*. Version 2026-10-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
