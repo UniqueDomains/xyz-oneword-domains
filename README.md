@@ -1,6 +1,6 @@
 # Available .XYZ One-Word Domains
 
-30,757 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 234 .xyz sales in the last 12 months, median $999.
+30,825 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 234 .xyz sales in the last 12 months, median $999.
 
 Live page: [unique.domains/tld/xyz](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=top_tld_page)
 
@@ -39,11 +39,11 @@ The first 20 rows of the file, in the file's order.
 | anecdotist.xyz    | available | $2.79          | $17.29        | high           | low    | 10     |
 | rush.xyz          | resell    | —              | —             | high           | low    | 4      |
 | mimosas.xyz       | resell    | —              | —             | high           | medium | 7      |
-| armory.xyz        | resell    | —              | —             | high           | low    | 6      |
 | untethered.xyz    | resell    | —              | —             | high           | low    | 10     |
 | uci.xyz           | resell    | —              | —             | high           | low    | 3      |
 | piggybacked.xyz   | available | —              | —             | high           | low    | 11     |
 | spacer.xyz        | resell    | —              | —             | high           | low    | 6      |
+| tasty.xyz         | resell    | —              | —             | high           | low    | 5      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 25,681 names in the live list today.
+- The files hold 1,000 rows of the 25,132 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
