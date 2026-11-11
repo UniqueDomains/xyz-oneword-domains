@@ -1,6 +1,6 @@
 # Available .XYZ One-Word Domains
 
-30,825 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 234 .xyz sales in the last 12 months, median $999.
+30,869 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 239 .xyz sales in the last 12 months, median $999.
 
 Live page: [unique.domains/tld/xyz](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=top_tld_page)
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 25,132 names in the live list today.
+- The files hold 1,000 rows of the 25,133 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
@@ -104,6 +104,8 @@ Every ending Unique Domains tracks: [unique.domains/tld](https://unique.domains/
 ## About Unique Domains
 
 [Unique Domains](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=about) tracks one-word domain names across the endings people build on: which are free to register, what they cost to hold and what names of each ending sell for. The datasets in this organization are its public extracts, refreshed every night.
+
+From code: the [Node.js SDK and CLI](https://github.com/UniqueDomains/nodejs) (`npm install @uniquedomains/sdk`), the [Python client](https://github.com/UniqueDomains/python) (`pip install uniquedomains`) and the [MCP server](https://github.com/UniqueDomains/mcp-server) for AI assistants, hosted at `https://mcp.unique.domains/mcp`.
 
 Questions and corrections: `kai@unique.domains`
 
