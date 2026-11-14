@@ -2,9 +2,9 @@
 
 1,000 real .xyz one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [88,611 names on .xyz](https://unique.domains/tld/xyz); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [88,517 names on .xyz](https://unique.domains/tld/xyz); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-30,847 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 239 .xyz sales in the last 12 months, median $999.
+30,836 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 239 .xyz sales in the last 12 months, median $999.
 
 Live page: [unique.domains/tld/xyz](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=top_tld_page)
 
@@ -66,7 +66,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 25,007 names in the live list today.
+- The files hold 1,000 rows of the 24,982 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the latest on record for each name, not a reading taken on the day of the rebuild.
 
