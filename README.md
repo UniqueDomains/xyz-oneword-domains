@@ -1,10 +1,12 @@
 # Available .XYZ One-Word Domains
 
-1,000 real .xyz one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=top_home).
 
-Each word exists once on each ending. Unique.domains tracks [87,809 names on .xyz](https://unique.domains/tld/xyz); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+1,000 real .xyz one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-30,917 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 241 .xyz sales in the last 12 months, median $999.
+Each word exists once on each ending. Unique.domains tracks [87,806 names on .xyz](https://unique.domains/tld/xyz); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+
+31,021 one-word .xyz names are free to register today, from $0.99 the first year at GoDaddy. Renewal there $16.99, 17 times the first year. 241 .xyz sales in the last 12 months, median $999.
 
 Live page: [unique.domains/tld/xyz](https://unique.domains/tld/xyz?utm_source=github&utm_medium=referral&utm_campaign=repo_xyz_oneword_domains&utm_content=top_tld_page)
 
@@ -33,6 +35,7 @@ The first 20 rows of the file, in the file's order.
 | napa.xyz          | available | —              | —             | high           | low    | 4      |
 | deskfast.xyz      | resell    | —              | —             | high           | low    | 8      |
 | upgradable.xyz    | resell    | —              | —             | high           | low    | 10     |
+| hibernise.xyz     | available | $1.79          | $17.29        | high           | low    | 9      |
 | coarse.xyz        | resell    | —              | —             | high           | low    | 6      |
 | ecocar.xyz        | resell    | —              | —             | high           | low    | 6      |
 | moisturise.xyz    | resell    | —              | —             | high           | low    | 10     |
@@ -47,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | uci.xyz           | resell    | —              | —             | high           | low    | 3      |
 | piggybacked.xyz   | available | —              | —             | high           | low    | 11     |
 | spacer.xyz        | resell    | —              | —             | high           | low    | 6      |
-| tasty.xyz         | resell    | —              | —             | high           | low    | 5      |
 
 ## What is in the data
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 24,946 names in the live list today.
+- The files hold 1,000 rows of the 25,008 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
